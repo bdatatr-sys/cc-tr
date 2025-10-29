@@ -1,0 +1,78 @@
+{
+    "arena/seeker-cup.json/core/name": {
+        "orig": "Seeker Cup",
+        "text": "Кубок искателя"
+    },
+    "arena/seeker-cup.json/core/info": {
+        "orig": "A challenging cup featuring both normal enemies and bosses.",
+        "text": "Сложный кубок с участием как обычных врагов, так и боссов."
+    },
+    "arena/seeker-cup.json/core/creator": {
+        "orig": "R.D.",
+        "text": "R.D."
+    },
+    "arena/seeker-cup.json/rounds/0/name": {
+        "orig": "Rusty Robots",
+        "text": "Ржавые роботы"
+    },
+    "arena/seeker-cup.json/rounds/0/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.cold-dng.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Храм-Шахты\\c[0]!"
+    },
+    "arena/seeker-cup.json/rounds/1/name": {
+        "orig": "The Hungry Worm",
+        "text": "Голодный червь"
+    },
+    "arena/seeker-cup.json/rounds/1/objective": {
+        "orig": "Defeat a stronger version of the \\c[3]\\v[combat.name.heat/sandworm-boss]\\c[0] boss from \\c[3]\\v[area.heat-area.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Ти'има\\c[0] из \\c[3]Бордовой долины\\c[0]!"
+    },
+    "arena/seeker-cup.json/rounds/2/name": {
+        "orig": "Hot Hombres",
+        "text": "Горячие мачо"
+    },
+    "arena/seeker-cup.json/rounds/2/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.heat-dng.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Храма Фай'ро\\c[0]!"
+    },
+    "arena/seeker-cup.json/rounds/3/name": {
+        "orig": "The Daft Trickster",
+        "text": "Дурацкий плут"
+    },
+    "arena/seeker-cup.json/rounds/3/objective": {
+        "orig": "Defeat a stronger version of the \\c[3]\\v[combat.name.daft-frobbit]\\c[0] boss from \\c[3]\\v[area.autumn-fall.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]голограммы Кроляга\\c[0] из \\c[3]Заката Осени\\c[0]!"
+    },
+    "arena/seeker-cup.json/rounds/4/name": {
+        "orig": "Blitz Ballers",
+        "text": "Внезапные перцы"
+    },
+    "arena/seeker-cup.json/rounds/4/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.shock-dng.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Храма Зир'витар\\c[0]!"
+    },
+    "arena/seeker-cup.json/rounds/5/name": {
+        "orig": "The No-Winged Devil",
+        "text": "Бескрылый дьявол"
+    },
+    "arena/seeker-cup.json/rounds/5/objective": {
+        "orig": "Defeat a stronger version of the \\c[3]\\v[combat.name.minibosses/sloth-black]\\c[0] boss from \\c[3]\\v[area.jungle.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Сефикрота\\c[0] из \\c[3]Сада Гайи\\c[0]!"
+    },
+    "arena/seeker-cup.json/rounds/6/name": {
+        "orig": "Groovy Goofers",
+        "text": "Отчаянные чудики"
+    },
+    "arena/seeker-cup.json/rounds/6/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.wave-dng.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Храма Со'найиз\\c[0]!"
+    },
+    "arena/seeker-cup.json/rounds/7/name": {
+        "orig": "The Immortal Blade",
+        "text": "Бессмертный клинок"
+    },
+    "arena/seeker-cup.json/rounds/7/objective": {
+        "orig": "Defeat a stronger version of the \\c[3]\\v[combat.name.forest/samurai-boss]\\c[0] boss from \\c[3]\\v[area.forest.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Сумеречного мастера\\c[0] из \\c[3]Сапфирового края\\c[0]!"
+    }
+}

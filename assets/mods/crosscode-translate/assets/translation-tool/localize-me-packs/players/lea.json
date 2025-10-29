@@ -1,0 +1,738 @@
+{
+    "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
+        "orig": "Spin Dance",
+        "text": "Круговой танец"
+    },
+    "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/description": {
+        "orig": "A wide-ranged spinning move hitting many nearby enemies.",
+        "text": "Широкое вращательное движение, поражающее большую площадь."
+    },
+    "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL1_B/name": {
+        "orig": "Sphere Saw",
+        "text": "Шаровая пила"
+    },
+    "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL1_B/description": {
+        "orig": "Catch your enemies in a spinning saw. Powerful attack with smaller range.",
+        "text": "Поймай своих врагов вращающейся пилой. Мощная атака с маленьким радиусом."
+    },
+    "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL2_A/name": {
+        "orig": "Spiral Dance",
+        "text": "Спиральный танец"
+    },
+    "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL2_A/description": {
+        "orig": "A Spin Dance with more spins, hits, damage, and knockback.",
+        "text": "Круговой танец с большим количеством вращений, ударов, урона и отталкивания."
+    },
+    "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL2_B/name": {
+        "orig": "Sphere Storm",
+        "text": "Круговой шторм"
+    },
+    "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL2_B/description": {
+        "orig": "Catch your enemies in a fierce air combo with massive damage.",
+        "text": "Поймай своих врагов в свирепое воздушное комбо с огромным уроном."
+    },
+    "players/lea.json/actions/NEUTRAL/THROW_SPECIAL1_A/name": {
+        "orig": "Ball of Steel",
+        "text": "Стальной шар"
+    },
+    "players/lea.json/actions/NEUTRAL/THROW_SPECIAL1_A/description": {
+        "orig": "Fire a powerful projectile that will fly through enemies.",
+        "text": "Выстрели мощным снарядом с большой дальностью, который пролетает сквозь врагов."
+    },
+    "players/lea.json/actions/NEUTRAL/THROW_SPECIAL1_B/name": {
+        "orig": "Bullet Rain",
+        "text": "Дождь из пуль"
+    },
+    "players/lea.json/actions/NEUTRAL/THROW_SPECIAL1_B/description": {
+        "orig": "Fire a mass of small shots in a narrow angle.",
+        "text": "Выстрели множество маленьких снарядов с маленьким разбросом."
+    },
+    "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_A/name": {
+        "orig": "Ball of Boomerang",
+        "text": "Шар-бумеранг"
+    },
+    "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_A/description": {
+        "orig": "Fire a powerful projectile with wide range, flying through enemies and back to you.",
+        "text": "Выстрели мощным снарядом с большой дальностью, который пролетает сквозь врагов и возвращается к тебе."
+    },
+    "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_B/name": {
+        "orig": "Bullet Inferno",
+        "text": "Пулевой ад"
+    },
+    "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_B/description": {
+        "orig": "Fire an even larger mass of homing shots at your target.",
+        "text": "Выстрели ещё больше самонаводящихся снарядов в цель."
+    },
+    "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_A/name": {
+        "orig": "Azure Strike",
+        "text": "Лазурный удар"
+    },
+    "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_A/description": {
+        "orig": "Dash right through your enemies, damaging everything in your way.",
+        "text": "Сделай рывок прямо через врагов, нанося урон всем на пути."
+    },
+    "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_B/name": {
+        "orig": "First Cut",
+        "text": "Начальный разрез"
+    },
+    "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_B/description": {
+        "orig": "A very powerful attack that will hit exactly one enemy.",
+        "text": "Очень мощная атака, которая может поразить только одного врага."
+    },
+    "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_A/name": {
+        "orig": "Azure Surge",
+        "text": "Лазурный всплеск"
+    },
+    "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_A/description": {
+        "orig": "Dash through your enemies and ignite delayed damage spreading through nearby targets.",
+        "text": "Сделай рывок через врагов и спровоцируй урон с задержкой, распространяющийся через ближайшие цели."
+    },
+    "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_B/name": {
+        "orig": "Final Showdown",
+        "text": "Решающая дуэль"
+    },
+    "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_B/description": {
+        "orig": "An extremely powerful attack that will hit exactly one enemy. A lot.",
+        "text": "Очень мощная атака, наносящая урон только одному противнику. Много урона."
+    },
+    "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_A/name": {
+        "orig": "Proximity Blast",
+        "text": "Близкий взрыв"
+    },
+    "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_A/description": {
+        "orig": "Blast away all nearby enemies, freeing up space.",
+        "text": "Оттолкни всех ближайших врагов взрывом, освобождая пространство."
+    },
+    "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_B/name": {
+        "orig": "Guard Sphere",
+        "text": "Защитная сфера"
+    },
+    "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_B/description": {
+        "orig": "Creates a damage-reducing shield, lasting for a couple of seconds.",
+        "text": "На несколько секунд создаёт щит уменьшающий урон."
+    },
+    "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_A/name": {
+        "orig": "Vortex Blast",
+        "text": "Вихревой взрыв"
+    },
+    "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_A/description": {
+        "orig": "Pull enemies towards you, only to blast them away with a fierce triple explosion.",
+        "text": "Притяни врагов к себе, только для того, чтобы взорвать их жестоким тройным взрывом."
+    },
+    "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_B/name": {
+        "orig": "Blade Sphere",
+        "text": "Сфера-клинок"
+    },
+    "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_B/description": {
+        "orig": "Creates a damage-reducing shield that also damages nearby enemies for several seconds.",
+        "text": "На несколько секунд создаёт щит уменьшающий получаемый урон, который также наносит урон ближайшим врагам."
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
+        "orig": "Fire Whirl",
+        "text": "Огненный вихрь"
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_A/description": {
+        "orig": "Performs a fierce whirl attack, engulfing your enemies in flames.",
+        "text": "Проведи свирепую вихревую атаку, поглощая врагов пламенем."
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_B/name": {
+        "orig": "Flame Jab",
+        "text": "Пламенный джеб"
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_B/description": {
+        "orig": "A blazing thrust of fire piercing through enemies in front of you.",
+        "text": "Полыхающий выпад, пронизывающий врагов перед тобой."
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_A/name": {
+        "orig": "Calamity Trigger",
+        "text": "Причина бедствия"
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_A/description": {
+        "orig": "Draw in enemies with blazing fire balls and finish them with a massive fire whirl.",
+        "text": "Притяни врагов полыхающими шарами огня и прикончи их массивным огненным вихрем."
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_B/name": {
+        "orig": "Blazing Dragon",
+        "text": "Напор дракона"
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_B/description": {
+        "orig": "Lock in enemies with 2 powerful strikes followed by a flaming air combo.",
+        "text": "Обездвижь врагов двумя мощными ударами, за которыми следует огненное воздушное комбо."
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_A/name": {
+        "orig": "Ragnarök",
+        "text": "Рагнарёк"
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_A/description": {
+        "orig": "The end is here. Draw in Enemies, engulf them in an upwards fire whirl and end with blazing ground explosion.",
+        "text": "Конец уже здесь. Притяни врагов, поглоти их подбрасывающим огненным вихрем и добей полыхающим взрывом на земле."
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_B/name": {
+        "orig": "Vermillion Echo",
+        "text": "Алый отголосок"
+    },
+    "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_B/description": {
+        "orig": "Summon the spirit of the dragon and lock enemies in a fierce combo that ends with a fire tornado.",
+        "text": "Призови дух дракона и обездвижь врагов свирепым комбо, которое заканчивается огненным торнадо."
+    },
+    "players/lea.json/actions/HEAT/THROW_SPECIAL1_A/name": {
+        "orig": "Burn!",
+        "text": "Гори!"
+    },
+    "players/lea.json/actions/HEAT/THROW_SPECIAL1_A/description": {
+        "orig": "A controllable blazing burst of fire that deals damage over a small area.",
+        "text": "Контролируемый полыхающий огненный взрыв, наносящий урон в небольшом радиусе."
+    },
+    "players/lea.json/actions/HEAT/THROW_SPECIAL2_A/name": {
+        "orig": "Flare Burn!",
+        "text": "Гори-вспышка!"
+    },
+    "players/lea.json/actions/HEAT/THROW_SPECIAL2_A/description": {
+        "orig": "Jump into the air and fire a destructive laser along the direction you are facing.",
+        "text": "Прыгни в воздух и выстрели разрушительным лазером по направлению взгляда."
+    },
+    "players/lea.json/actions/HEAT/DASH_SPECIAL1_A/name": {
+        "orig": "Crimson Strike",
+        "text": "Багровая атака"
+    },
+    "players/lea.json/actions/HEAT/DASH_SPECIAL1_A/description": {
+        "orig": "Dash through your enemies while leaving a trail of fire.",
+        "text": "Сделай рывок через врагов, оставляя огненный след."
+    },
+    "players/lea.json/actions/HEAT/DASH_SPECIAL1_B/name": {
+        "orig": "Ashen Mine",
+        "text": "Пепельная мина"
+    },
+    "players/lea.json/actions/HEAT/DASH_SPECIAL1_B/description": {
+        "orig": "Place a mine that explodes when enemies are nearby.",
+        "text": "Установи мину, которая взрывается, если враги рядом."
+    },
+    "players/lea.json/actions/HEAT/DASH_SPECIAL2_A/name": {
+        "orig": "Crimson Stream",
+        "text": "Багровый поток"
+    },
+    "players/lea.json/actions/HEAT/DASH_SPECIAL2_A/description": {
+        "orig": "Surround yourself with fire and dash a long way, leaving hot damaging magma on the ground.",
+        "text": "Окружи себя огнём и сделай длинный рывок, оставляя след из магмы."
+    },
+    "players/lea.json/actions/HEAT/DASH_SPECIAL2_B/name": {
+        "orig": "Mine Valley",
+        "text": "Долина мин"
+    },
+    "players/lea.json/actions/HEAT/DASH_SPECIAL2_B/description": {
+        "orig": "Dash and place multiple mines which can seek enemies when not touched.",
+        "text": "Сделай рывок и установи несколько мин, которые будут преследовать врагов."
+    },
+    "players/lea.json/actions/HEAT/DASH_SPECIAL3_A/name": {
+        "orig": "Scarlet Rain",
+        "text": "Алый дождь"
+    },
+    "players/lea.json/actions/HEAT/DASH_SPECIAL3_A/description": {
+        "orig": "Mark enemies by dashing through them which will be bombarded by a blazing meteor shower.",
+        "text": "Сделай рывок, отмечая всех задетых врагов, которые впоследствии будут бомбардированы полыхающим метеоритным дождём."
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL1_A/name": {
+        "orig": "Recoil Trumpet",
+        "text": "Алый полумесяц"
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL1_A/description": {
+        "orig": "Perfect guard an attack and counter with a flaming explosion.",
+        "text": "Идеально заблокируй атаку и контратакуй огненным взрывом."
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL1_B/name": {
+        "orig": "Ring of Fire",
+        "text": "Кольцо огня"
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL1_B/description": {
+        "orig": "Creates a ring of fire around you, dealing damage to enemies walking into it.",
+        "text": "Создай кольцо огня вокруг себя, которое наносит урон всем проходящим через него врагам."
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL2_A/name": {
+        "orig": "Kindling Fanfare",
+        "text": "Кровавая луна"
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL2_A/description": {
+        "orig": "Perfect guard an attack, jump into the air and counter with a fiery laser beam.",
+        "text": "Идеально заблокируй атаку, прыгни в воздух и контратакуй огненным лазерным лучом."
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL2_B/name": {
+        "orig": "Burning Pulse",
+        "text": "Пылающий пульс"
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL2_B/description": {
+        "orig": "Create a long lasting fire circle that erupts in flaming outbursts several times.",
+        "text": "Создай продолжительное огненное кольцо, которое производит огненные взрывы несколько раз."
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL3_A/name": {
+        "orig": "Ignite Embers",
+        "text": "Зажечь угли"
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL3_A/description": {
+        "orig": "Perfect guard an attack, lock enemies in an upwards combo and finish with a hellish downwards laser.",
+        "text": "Идеально заблокируй атаку, обездвижь врагов подбрасывающим комбо и добей их адским лазером."
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL3_B/name": {
+        "orig": "Ancient Sun",
+        "text": "Древнее солнце"
+    },
+    "players/lea.json/actions/HEAT/GUARD_SPECIAL3_B/description": {
+        "orig": "Conjure forth the power of the Sun and immolate yourself in fire making melee attacks burst out in flame for short while. ",
+        "text": "Призови силу солнца и предай себя огню, добавляя атакам ближнего боя огненные взрывы на короткое время."
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
+        "orig": "Frozen Star",
+        "text": "Ледяная звезда"
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL1_A/description": {
+        "orig": "Long startup time for massive damage.",
+        "text": "Долго заряжается, но наносит огромный урон."
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL1_B/name": {
+        "orig": "Ice Twirl",
+        "text": "Ледяной вихрь"
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL1_B/description": {
+        "orig": "Performs a stationary ice whirl attack with wide range and strong knockback.",
+        "text": "Соверши вихревую атаку на месте с большим радиусом и сильным отталкиванием."
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL2_A/name": {
+        "orig": "Blizzard Hawk",
+        "text": "Метельный ястреб"
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL2_A/description": {
+        "orig": "Take a stand and do massive damage with 3 frozen stars.",
+        "text": "Займи позицию и нанеси огромный урон тремя ледяными звёздами."
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL2_B/name": {
+        "orig": "Ice Tornado",
+        "text": "Ледяное торнадо"
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL2_B/description": {
+        "orig": "Extend the Ice Twirl by sucking in enemies with multiple hits and then ejecting them.",
+        "text": "Дополни ледяной вихрь, притягивая врагов и нанося множество ударов, а затем отбрось их."
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL3_A/name": {
+        "orig": "Eternal Winter",
+        "text": "Вечная зима"
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL3_A/description": {
+        "orig": "Take a stand and conjure a massive frozen ice spear from the ground that impales your enemies.",
+        "text": "Займи позицию и вызови массивное ледяное копьё из земли, пронзающее твоих врагов."
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL3_B/name": {
+        "orig": "Polar Pirouette",
+        "text": "Полярный пируэт"
+    },
+    "players/lea.json/actions/COLD/ATTACK_SPECIAL3_B/description": {
+        "orig": "Begin a dance of multiple huge ice whirl attacks and lock enemies in and end it all with a massive pirouette that blast enemies away.",
+        "text": "Начни танец множеством сильных вихревых атак, обездвижь врагов и закончи всё массивным пируэтом, отталкивающим врагов."
+    },
+    "players/lea.json/actions/COLD/THROW_SPECIAL1_A/name": {
+        "orig": "Hail Flurry",
+        "text": "Шквальный град"
+    },
+    "players/lea.json/actions/COLD/THROW_SPECIAL1_A/description": {
+        "orig": "Quickly shoots a mass of icy spikes.",
+        "text": "Быстро выстрели множество ледяных шипов."
+    },
+    "players/lea.json/actions/COLD/THROW_SPECIAL1_B/name": {
+        "orig": "Snow Flawke",
+        "text": "Снежный изъян"
+    },
+    "players/lea.json/actions/COLD/THROW_SPECIAL1_B/description": {
+        "orig": "Hit enemies with a big snow explosion, caging them within icicles.",
+        "text": "Порази врагов большим снежным взрывом, который окружает врагов сосульками."
+    },
+    "players/lea.json/actions/COLD/THROW_SPECIAL2_A/name": {
+        "orig": "Hail Storm",
+        "text": "Штормовой град"
+    },
+    "players/lea.json/actions/COLD/THROW_SPECIAL2_A/description": {
+        "orig": "Shoot an icicle that bounces off of walls 2 times, creating homing mini icicles.",
+        "text": "Выстрели сосульку, которая отскакивает от стен дважды, создавая при этом самонаводящиеся мини-сосульки."
+    },
+    "players/lea.json/actions/COLD/THROW_SPECIAL2_B/name": {
+        "orig": "Frigid Flawke",
+        "text": "Холодный изъян"
+    },
+    "players/lea.json/actions/COLD/THROW_SPECIAL2_B/description": {
+        "orig": "Shoot a large snow ball, leaving an icicle trail and caging enemies with multiple icicles.",
+        "text": "Выстрели большим снежным шаром, который оставляет след из сосулек и окружает врагов множеством сосулек."
+    },
+    "players/lea.json/actions/COLD/THROW_SPECIAL3_A/name": {
+        "orig": "Gatling Arctillery",
+        "text": "Ледомёт Гатлинга"
+    },
+    "players/lea.json/actions/COLD/THROW_SPECIAL3_A/description": {
+        "orig": "Summon an Ice Turret with spikes around you and blast your enemies away with a volley of icicles.",
+        "text": "Призови ледяную турель с шипами вокруг тебя и отбрось своих врагов залпом сосулек."
+    },
+    "players/lea.json/actions/COLD/DASH_SPECIAL1_A/name": {
+        "orig": "Indigo Strike",
+        "text": "Удар индиго"
+    },
+    "players/lea.json/actions/COLD/DASH_SPECIAL1_A/description": {
+        "orig": "Dash with high speed, leaving a trail of icicles behind you, damaging enemies on contact.",
+        "text": "Сделай быстрый рывок, оставляя след из сосулек за собой, которые наносят урон врагам при контакте."
+    },
+    "players/lea.json/actions/COLD/DASH_SPECIAL2_A/name": {
+        "orig": "Indigo Rush",
+        "text": "Порыв индиго"
+    },
+    "players/lea.json/actions/COLD/DASH_SPECIAL2_A/description": {
+        "orig": "Dash a long distance, leaving icicles which create multiple additional icicle trails.",
+        "text": "Сделай длинный рывок, оставляя след из сосулек, каждая из которых создаёт дополнительные сосульки."
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL1_A/name": {
+        "orig": "Frozen Stance",
+        "text": "Морозная стойка"
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL1_A/description": {
+        "orig": "Perfect guard an attack and counter with a cold strike, slowing down your enemy.",
+        "text": "Идеально заблокируй атаку и контратакуй ледяным ударом, замедляя противника."
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL1_B/name": {
+        "orig": "Brisk Barrier",
+        "text": "Юркий барьер"
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL1_B/description": {
+        "orig": "Blast enemies away and spawn several icicles in front of you, blocking projectiles and damaging enemies on contact.",
+        "text": "Оттолкни врагов и создай несколько сосулек перед собой, которые блокируют снаряды и наносят урон врагам при контакте."
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL2_A/name": {
+        "orig": "Freeze Frame",
+        "text": "Стоп-кадр"
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL2_A/description": {
+        "orig": "Perfect guard an attack and completely freeze the enemy, leaving it open for more attacks.",
+        "text": "Идеально заблокируй атаку и полностью заморозь врага, открывая его для атаки."
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL2_B/name": {
+        "orig": "Icy Bastion",
+        "text": "Ледяной бастион"
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL2_B/description": {
+        "orig": "Spawn multiple icicles around you and envelop yourself in a protective but slowing shield.",
+        "text": "Создай множество сосулек вокруг и оберни себя в крепкий, но замедляющий щит."
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL3_A/name": {
+        "orig": "Crystal Keeper",
+        "text": "Кристальный гроб"
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL3_A/description": {
+        "orig": "Perfect guard an attack, initiate a quick combo and completely freeze all enemies in front of you.",
+        "text": "Идеально заблокируй атаку, проведи быстрое комбо, и полностью заморозь всех врагов перед собой."
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL3_B/name": {
+        "orig": "Fimbulvetr",
+        "text": "Фимбульветр"
+    },
+    "players/lea.json/actions/COLD/GUARD_SPECIAL3_B/description": {
+        "orig": "Winter is here. Summon multiple huge icicles around you and envelop yourself in a powerful protective shield.",
+        "text": "Зима здесь. Призови множество огромных сосулек вокруг и окутай себя в невероятно мощный щит."
+    },
+    "players/lea.json/actions/SHOCK/ATTACK_SPECIAL1_A/name": {
+        "orig": "Tesla Twist",
+        "text": "Вращение Теслы"
+    },
+    "players/lea.json/actions/SHOCK/ATTACK_SPECIAL1_A/description": {
+        "orig": "Attack with a series of multiple fast spin attacks within a small radius.",
+        "text": "Атакуй серией быстрых вращений с маленьким радиусом."
+    },
+    "players/lea.json/actions/SHOCK/ATTACK_SPECIAL1_B/name": {
+        "orig": "Plasma Spike",
+        "text": "Плазменный шип"
+    },
+    "players/lea.json/actions/SHOCK/ATTACK_SPECIAL1_B/description": {
+        "orig": "Hit a single enemy into the air following up with a lightning strike.",
+        "text": "Подбрось противника в воздух и проведи удар молнией."
+    },
+    "players/lea.json/actions/SHOCK/ATTACK_SPECIAL2_A/name": {
+        "orig": "Tesla Waltz",
+        "text": "Вальс Теслы"
+    },
+    "players/lea.json/actions/SHOCK/ATTACK_SPECIAL2_A/description": {
+        "orig": "Perform a volley of controllable spin attacks while drawing in enemies and finish off with a powerful whirl.",
+        "text": "Выполни град контролируемых вращений, притягивая врагов, и добей их мощной вихревой атакой."
+    },
+    "players/lea.json/actions/SHOCK/ATTACK_SPECIAL2_B/name": {
+        "orig": "Battery Assault",
+        "text": "Громовой налёт"
+    },
+    "players/lea.json/actions/SHOCK/ATTACK_SPECIAL2_B/description": {
+        "orig": "Lock a single enemy into a fast ground combo followed by multiple hit in the air and a strong lightning finisher.",
+        "text": "Обездвижь врага быстрым комбо на земле, подбрось в воздух, нанося множество ударов, и заверши атаку сильным ударом молнии."
+    },
+    "players/lea.json/actions/SHOCK/ATTACK_SPECIAL3_A/name": {
+        "orig": "Song of Storms",
+        "text": "Песнь штормов"
+    },
+    "players/lea.json/actions/SHOCK/ATTACK_SPECIAL3_A/description": {
+        "orig": "Lock a single enemy into a hyper speed combo that creates a doppelganger and finishes with a faster-than-light attack chain.",
+        "text": "Обездвижь врага гипербыстрым комбо, создавая двойника, и добей врага сверхсветовой цепной атакой."
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL1_A/name": {
+        "orig": "Diving Spark",
+        "text": "Пикирующая искра"
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL1_A/description": {
+        "orig": "Throw a projectile that creates a delayed lightning bolt damaging everything around it.",
+        "text": "Брось снаряд, который с задержкой создаёт удар молнии, наносящий урон всему вокруг."
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL1_B/name": {
+        "orig": "Homing Wisp",
+        "text": "Управляемые огни"
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL1_B/description": {
+        "orig": "Shoot an array of small homing projectiles.",
+        "text": "Выстрели множество маленьких самонаводящихся снарядов."
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL2_A/name": {
+        "orig": "Chain Blitz",
+        "text": "Цепной блиц"
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL2_A/description": {
+        "orig": "Fire a projectile that creates a chain along up to 4 enemies which will get hit by a lightning bolt.",
+        "text": "Выстрели снаряд, который способен задеть до четырёх врагов, которым будет нанесён удар молнией."
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL2_B/name": {
+        "orig": "Radiant Swarm",
+        "text": "Сияющий рой"
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL2_B/description": {
+        "orig": "Throw a shock ball that will bounce off an enemy and create a sphere that emits multiple homing projectiles. ",
+        "text": "Брось шоковый шар, который отскакивает от врага и создаёт сферу, которая порождает множество самонаводящихся снарядов."
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL3_A/name": {
+        "orig": "Mjölnir",
+        "text": "Мьёльнир"
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL3_A/description": {
+        "orig": "It's hammer time. Throw a ball that chains multiple enemies together and evaporates them with a massive lightning bolt.",
+        "text": "Время молота. Брось шар, который связывает несколько врагов вместе, и испари их сильнейшим ударом молнии."
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL3_B/name": {
+        "orig": "Celestial Legion",
+        "text": "Небесный легион"
+    },
+    "players/lea.json/actions/SHOCK/THROW_SPECIAL3_B/description": {
+        "orig": "Call upon the help of the gods and summon 3 spheres that spam an enemy with bullets and finish it off with a lightning explosion. ",
+        "text": "Обратись к божественной помощи и призови три сферы, осыпающие врагов пулями, и прикончи их электрическим взрывом."
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL1_A/name": {
+        "orig": "Amber Strike",
+        "text": "Янтарный удар"
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL1_A/description": {
+        "orig": "Perform a fast dash that attacks one enemy multiple times on contact.",
+        "text": "Соверши быстрый рывок, атакуя одного врага множество раз при контакте."
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL1_B/name": {
+        "orig": "Thunder Dart",
+        "text": "Громовой дротик"
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL1_B/description": {
+        "orig": "Dash through enemies leaving a shocking trail of lightning.",
+        "text": "Сделай рывок через врагов, оставляя шоковый след из молний."
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL2_A/name": {
+        "orig": "Amber Breaker",
+        "text": "Янтарный прорыв"
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL2_A/description": {
+        "orig": "Dash through a single enemy multiple times at the speed of light and finish with a strong punch.",
+        "text": "Сделай несколько рывков через противника на сверхсветовой скорости и заверши сильным ударом."
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL2_B/name": {
+        "orig": "Storm Walker",
+        "text": "Буреход"
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL2_B/description": {
+        "orig": "Lightning returns with a controllable chain attack of 3 dashes which hit all enemies on the path.",
+        "text": "Контролируемая цепная атака молнией из трёх рывков, которые наносят урон всем врагам на пути."
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL3_A/name": {
+        "orig": "Flickering Stars",
+        "text": "Падающие звёзды"
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL3_A/description": {
+        "orig": "Stop time and pummel an enemy with an uncontrollable series of attacks, finishing off with a diving spark and balls.",
+        "text": "Останови время и избей врага неконтролируемой серией атак, добивая пикирующей искрой и шарами."
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL3_B/name": {
+        "orig": "Lightning Prophecy",
+        "text": "Гром судьбы"
+    },
+    "players/lea.json/actions/SHOCK/DASH_SPECIAL3_B/description": {
+        "orig": "Create an start and end point and dash between it multiple times automatically attacking everything in between.",
+        "text": "Создай начальную и конечную точку и соверши множество рывков между ними, автоматически атакуя всё на своём пути."
+    },
+    "players/lea.json/actions/SHOCK/GUARD_SPECIAL1_A/name": {
+        "orig": "Clock Block",
+        "text": "Блок часов"
+    },
+    "players/lea.json/actions/SHOCK/GUARD_SPECIAL1_A/description": {
+        "orig": "Block one attack and slow down time for everything but yourself.",
+        "text": "Заблокируй атаку и замедли время для всего кроме себя."
+    },
+    "players/lea.json/actions/SHOCK/GUARD_SPECIAL2_A/name": {
+        "orig": "Glitch Time",
+        "text": "Сбой времени"
+    },
+    "players/lea.json/actions/SHOCK/GUARD_SPECIAL2_A/description": {
+        "orig": "Block one attack and stop time for everything but yourself.",
+        "text": "Заблокируй атаку и останови время для всего кроме себя."
+    },
+    "players/lea.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
+        "orig": "Ki Thrust",
+        "text": "Выпад Ки"
+    },
+    "players/lea.json/actions/WAVE/ATTACK_SPECIAL1_A/description": {
+        "orig": "Frontal attack with high damage, sending all hit enemies flying.",
+        "text": "Атака вперёд с высоким уроном, отправляющая врагов в полёт."
+    },
+    "players/lea.json/actions/WAVE/ATTACK_SPECIAL2_A/name": {
+        "orig": "Spirit Blast",
+        "text": "Взрыв духа"
+    },
+    "players/lea.json/actions/WAVE/ATTACK_SPECIAL2_A/description": {
+        "orig": "Draws enemies to the front of the player and then blasts them away with a powerful attack.",
+        "text": "Притяни врагов к себе и оттолкни их прочь мощным взрывом."
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL1_A/name": {
+        "orig": "Fae Round",
+        "text": "Пуля феи"
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL1_A/description": {
+        "orig": "Shoots a super fast projectile penetrating a line of enemies.",
+        "text": "Выстрели сверхбыстрым снарядом, пробивающим линию врагов."
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL1_B/name": {
+        "orig": "Essence Drain",
+        "text": "Поглощение жизни"
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL1_B/description": {
+        "orig": "Hit enemies with a swarm of projectiles absorbing its HP.",
+        "text": "Атакуй врагов роем снарядов, поглощающих их HP."
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL2_A/name": {
+        "orig": "Elven Orb",
+        "text": "Эльфийская сфера"
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL2_A/description": {
+        "orig": "Shoots a super fast projectile that bounces between the player and a wall for several times and penetrates everything in between.",
+        "text": "Выстрели сверхбыстрым снарядом, который рикошетит между игроком и стеной несколько раз и пробивает всё на пути."
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL2_B/name": {
+        "orig": "Vital Pulse",
+        "text": "Пульс жизни"
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL2_B/description": {
+        "orig": "Hit an enemy with a swarm of projectiles, absorbing its HP before blasting it away with a final attack.",
+        "text": "Атакуй врагов роем снарядов, которые поглощают их HP, а затем оттолкни прочь взрывом."
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL3_A/name": {
+        "orig": "Ether Snipe",
+        "text": "Эфирный выстрел"
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL3_A/description": {
+        "orig": "Charge up a sniping attack that can bounce 3 times until it hits an enemy. Each bounce increases the strength of the attack.",
+        "text": "Заряди снайперскую атаку, которая рикошетит три раза, пока не попадёт во врага. Каждый отскок увеличивает силу выстрела."
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL3_B/name": {
+        "orig": "Wave Motion Beam",
+        "text": "Волновой луч"
+    },
+    "players/lea.json/actions/WAVE/THROW_SPECIAL3_B/description": {
+        "orig": "Siphon HP from the enemies and trade it for a huge controllable wave beam that drains your HP.",
+        "text": "Выкачай HP из врагов и обменяй его на огромный контролируемый волновой луч, который расходует твоё HP."
+    },
+    "players/lea.json/actions/WAVE/GUARD_SPECIAL1_A/name": {
+        "orig": "Guarding Gale",
+        "text": "Защитный шторм"
+    },
+    "players/lea.json/actions/WAVE/GUARD_SPECIAL1_A/description": {
+        "orig": "Spawns aura that pushes away nearby enemies for several seconds.",
+        "text": "Призови ауру, отталкивающую врагов поблизости на несколько секунд."
+    },
+    "players/lea.json/actions/WAVE/GUARD_SPECIAL1_B/name": {
+        "orig": "Pain Grip",
+        "text": "Болевой захват"
+    },
+    "players/lea.json/actions/WAVE/GUARD_SPECIAL1_B/description": {
+        "orig": "Block one attack and regenerate part of the blocked damage.",
+        "text": "Заблокируй атаку и восстанови часть заблокированного урона."
+    },
+    "players/lea.json/actions/WAVE/GUARD_SPECIAL2_A/name": {
+        "orig": "Poltergeist",
+        "text": "Полтергейст"
+    },
+    "players/lea.json/actions/WAVE/GUARD_SPECIAL2_A/description": {
+        "orig": "Spawns aura that pushes away nearby enemies and throws projectiles for several seconds.",
+        "text": "Призови ауру, отталкивающую ближайших врагов и бросающую снаряды, на несколько секунд."
+    },
+    "players/lea.json/actions/WAVE/GUARD_SPECIAL2_B/name": {
+        "orig": "Circle of Valor",
+        "text": "Круг доблести"
+    },
+    "players/lea.json/actions/WAVE/GUARD_SPECIAL2_B/description": {
+        "orig": "Block all attacks for a few seconds and regenerate part of the blocked damage.",
+        "text": "Блокируй все атаки на протяжении нескольких секунд и восстанавливай часть здоровья от заблокированного урона."
+    },
+    "players/lea.json/actions/WAVE/GUARD_SPECIAL3_A/name": {
+        "orig": "Karma Scale",
+        "text": "Шкала кармы"
+    },
+    "players/lea.json/actions/WAVE/GUARD_SPECIAL3_A/description": {
+        "orig": "Enter critical mode but become invincible. Absorb any enemy attacks for a short time. The more absorbed, the larger the ending explosion and the more HP healed.",
+        "text": "Войди в критический режим, но стань неуязвимым. Поглощай все атаки короткое время. Чем больше поглощено, тем сильнее будет финальный взрыв, и тем больше HP будет восстановлено."
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL1_A/name": {
+        "orig": "Verdant Strike",
+        "text": "Зелёный удар"
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL1_A/description": {
+        "orig": "Dash with high speed, damaging and stunning enemies along the way.",
+        "text": "Сделай рывок на большой скорости, нанося урон и оглушая всех противников на пути."
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL1_B/name": {
+        "orig": "Warp Decoy",
+        "text": "Варп-приманка"
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL1_B/description": {
+        "orig": "Dash away and leave behind a decoy, distracting your foes.",
+        "text": "Сделай рывок прочь и оставь приманку, отвлекающую врагов."
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL2_A/name": {
+        "orig": "Verdant Stream",
+        "text": "Зелёный поток"
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL2_A/description": {
+        "orig": "Dash through enemies at high speed and draw them into your trail behind you before causing a powerful explosion.",
+        "text": "Прорвись сквозь врагов на высокой скорости и втяни их в след позади себя, прежде чем вызвать мощный взрыв."
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL2_B/name": {
+        "orig": "Toxic Revenant",
+        "text": "Токсичный зомби"
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL2_B/description": {
+        "orig": "Dash away and leave behind a deadly decoy that distracts and damages your foes.",
+        "text": "Сделай рывок прочь и оставь позади смертельную приманку, которая наносит урон врагам и отвлекает их."
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL3_A/name": {
+        "orig": "Vortex Tide",
+        "text": "Вихревое течение"
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL3_A/description": {
+        "orig": "Charge up by creating a Vortex behind you and blast off leaving behind a huge wave explosion.",
+        "text": "Создай водоворот позади себя и взлети, оставляя позади огромный волновой взрыв."
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL3_B/name": {
+        "orig": "Gungnir",
+        "text": "Гунгнир"
+    },
+    "players/lea.json/actions/WAVE/DASH_SPECIAL3_B/description": {
+        "orig": "Dash through and create 4 decoys that pummel an enemy multiple times ending with a combined wave attack.",
+        "text": "Сделай рывок, создавая четыре приманки, избивающих врага, и прикончи его волновой комбо-атакой."
+    }
+}

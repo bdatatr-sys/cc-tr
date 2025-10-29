@@ -1,0 +1,130 @@
+{
+    "areas/autumn-area.json/name": {
+        "orig": "Autumn's Rise",
+        "text": "Расцвет Осени"
+    },
+    "areas/autumn-area.json/floors/0/maps/0/name": {
+        "orig": "Entrance",
+        "text": "Вход"
+    },
+    "areas/autumn-area.json/floors/0/maps/1/name": {
+        "orig": "Pathway 1",
+        "text": "Путь 1"
+    },
+    "areas/autumn-area.json/floors/0/maps/2/name": {
+        "orig": "Pathway 2",
+        "text": "Путь 2"
+    },
+    "areas/autumn-area.json/floors/0/maps/3/name": {
+        "orig": "Normal Clearing",
+        "text": "Правильная поляна"
+    },
+    "areas/autumn-area.json/floors/0/maps/4/name": {
+        "orig": "Pathway 3",
+        "text": "Путь 3"
+    },
+    "areas/autumn-area.json/floors/0/maps/5/name": {
+        "orig": "Off Road 1",
+        "text": "Бездорожье 1"
+    },
+    "areas/autumn-area.json/floors/0/maps/6/name": {
+        "orig": "Quiet Passage 1",
+        "text": "Тихий проход 1"
+    },
+    "areas/autumn-area.json/floors/0/maps/7/name": {
+        "orig": "Quiet Passage 2",
+        "text": "Тихий проход 2"
+    },
+    "areas/autumn-area.json/floors/0/maps/8/name": {
+        "orig": "Hedgehag's Den",
+        "text": "Логово Дикоборзов"
+    },
+    "areas/autumn-area.json/floors/0/maps/9/name": {
+        "orig": "Off Road 2",
+        "text": "Бездорожье 2"
+    },
+    "areas/autumn-area.json/floors/0/maps/10/name": {
+        "orig": "Obelisk Lake",
+        "text": "Озеро у Обелиска"
+    },
+    "areas/autumn-area.json/floors/0/maps/11/name": {
+        "orig": "Pathway 4",
+        "text": "Путь 4"
+    },
+    "areas/autumn-area.json/floors/0/maps/12/name": {
+        "orig": "Old Observatory",
+        "text": "Старая обсерватория"
+    },
+    "areas/autumn-area.json/floors/0/maps/13/name": {
+        "orig": "Pathway 5",
+        "text": "Путь 5"
+    },
+    "areas/autumn-area.json/floors/0/maps/14/name": {
+        "orig": "Pathway 6",
+        "text": "Путь 6"
+    },
+    "areas/autumn-area.json/floors/0/maps/15/name": {
+        "orig": "Pathway 7",
+        "text": "Путь 7"
+    },
+    "areas/autumn-area.json/floors/0/maps/16/name": {
+        "orig": "The Lobster",
+        "text": "Лобстер"
+    },
+    "areas/autumn-area.json/floors/0/maps/17/name": {
+        "orig": "Inside Observatory",
+        "text": "Обсерватория"
+    },
+    "areas/autumn-area.json/floors/0/maps/18/name": {
+        "orig": "Autumn Residences",
+        "text": "Резиденции Осени"
+    },
+    "areas/autumn-area.json/floors/0/maps/19/name": {
+        "orig": "First Scholars Home",
+        "text": "Оплот Первоучёных"
+    },
+    "areas/autumn-area.json/floors/0/maps/20/name": {
+        "orig": "Last Minute Heroes Plaza",
+        "text": "Площадь Героев последней минуты"
+    },
+    "areas/autumn-area.json/floors/0/maps/21/name": {
+        "orig": "Hillkat Cave",
+        "text": "Пещера горностаев"
+    },
+    "areas/autumn-area.json/floors/0/maps/22/name": {
+        "orig": "First Scholars HQ",
+        "text": "Штаб Первоучёных"
+    },
+    "areas/autumn-area.json/floors/0/maps/23/name": {
+        "orig": "Ending Pathway",
+        "text": "Последний путь"
+    },
+    "areas/autumn-area.json/floors/0/maps/24/name": {
+        "orig": "Drippy Den",
+        "text": "Мокрое логово"
+    },
+    "areas/autumn-area.json/floors/0/maps/25/name": {
+        "orig": "Last Minute Heroes HQ GF",
+        "text": "Штаб Героев последней минуты - Цокольный этаж"
+    },
+    "areas/autumn-area.json/floors/0/maps/26/name": {
+        "orig": "Inner Observatory",
+        "text": "Внутри обсерватории"
+    },
+    "areas/autumn-area.json/floors/0/name": {
+        "orig": "Ground",
+        "text": "Земля"
+    },
+    "areas/autumn-area.json/floors/1/name": {
+        "orig": "Upper",
+        "text": "Верхний"
+    },
+    "areas/autumn-area.json/floors/1/maps/0/name": {
+        "orig": "First Scholars HQ",
+        "text": "Штаб Первоучёных"
+    },
+    "areas/autumn-area.json/floors/1/maps/1/name": {
+        "orig": "Last Minute Heroes HQ 1F",
+        "text": "Штаб Героев последней минуты - 1-й этаж"
+    }
+}

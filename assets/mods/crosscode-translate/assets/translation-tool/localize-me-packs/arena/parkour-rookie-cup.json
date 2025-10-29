@@ -1,0 +1,26 @@
+{
+    "arena/parkour-rookie-cup.json/core/name": {
+        "orig": "Rookie Parkour",
+        "text": "Паркур новичков"
+    },
+    "arena/parkour-rookie-cup.json/core/info": {
+        "orig": "just run in a straight line to where you wanna go.",
+        "text": "Просто забег по прямой, куда тебе угодно."
+    },
+    "arena/parkour-rookie-cup.json/core/creator": {
+        "orig": "xDragon",
+        "text": "xDragon"
+    },
+    "arena/parkour-rookie-cup.json/rounds/0/name": {
+        "orig": "Grassy Highland Area",
+        "text": "Травянистое нагорье"
+    },
+    "arena/parkour-rookie-cup.json/rounds/0/objective": {
+        "orig": "Touch all markers!",
+        "text": "Дотронься до всех маркеров!"
+    },
+    "arena/parkour-rookie-cup.json/rounds/0/description": {
+        "orig": "Touch all markers as fast as you can!",
+        "text": "Дотронься до всех маркеров как можно быстрее!"
+    }
+}

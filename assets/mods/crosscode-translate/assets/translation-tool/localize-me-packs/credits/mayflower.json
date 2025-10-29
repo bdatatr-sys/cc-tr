@@ -1,0 +1,22 @@
+{
+    "credits/mayflower.json/entries/license-1/header": {
+        "orig": "Licensed and published in Korea by",
+        "text": "Licensed and published in Korea by"
+    },
+    "credits/mayflower.json/entries/loc-director/header": {
+        "orig": "Localization Director",
+        "text": "Localization Director"
+    },
+    "credits/mayflower.json/entries/pro-management/header": {
+        "orig": "Project Management",
+        "text": "Project Management"
+    },
+    "credits/mayflower.json/entries/localization/header": {
+        "orig": "Localization",
+        "text": "Localization"
+    },
+    "credits/mayflower.json/entries/quality/header": {
+        "orig": "Quality Assurance",
+        "text": "Quality Assurance"
+    }
+}

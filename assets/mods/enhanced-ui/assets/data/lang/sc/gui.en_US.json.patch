@@ -1,0 +1,49 @@
+{
+  "labels": {
+    "combat-hud": {
+      "pvp-round": "Round",
+      "boss": "Boss",
+      "rank": "Rank"
+    },
+    "title-screen": {
+      "changelog": "Changelog"
+    },
+    "quick-menu": {
+      "analyze": {
+        "enemy-level": "LV"
+      }
+    },
+    "menu": {
+      "social": {
+        "statuses": {
+          "party": "Party",
+          "online": "Online",
+          "offline": "Offline"
+        }
+      },
+      "quests": {
+        "lvl": "LVL"
+      },
+      "skill": {
+        "cp": "cp"
+      },
+      "equip": {
+        "lvl": "lvl"
+      },
+      "questHub": {
+        "lvl": "LvL"
+      },
+      "enemy": {
+        "lvl": "lvl"
+      }
+    },
+    "status-hud": {
+      "exp": "EXP",
+      "hp": "HP",
+      "sp": "SP"
+    },
+    "arena": {
+      "lvl": "lvl"
+    }
+  }
+}

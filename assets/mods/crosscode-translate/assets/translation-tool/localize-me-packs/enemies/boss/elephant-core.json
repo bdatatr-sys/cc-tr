@@ -1,0 +1,1 @@
+{"enemies/boss/elephant-core.json/actions/idle/2/text":{"orig":"Charging","text":"Зарядка"},"enemies/boss/elephant-core.json/actions/destroy/15/text":{"orig":"Strength \\c[3]\\v[tmp.specialStrength]/5\\c[0]","text":"В \\c[3]\\v[tmp.specialStrength]\\c[0] силы"},"enemies/boss/elephant-core.json/actions/absorb/7/text":{"orig":"Full Strength!","text":"В полную силу!"}}

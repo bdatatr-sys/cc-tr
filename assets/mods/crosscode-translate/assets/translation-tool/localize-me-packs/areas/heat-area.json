@@ -1,0 +1,190 @@
+{
+    "areas/heat-area.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/heat-area.json/floors/0/name": {
+        "orig": "UG 2",
+        "text": "UG 2"
+    },
+    "areas/heat-area.json/floors/0/maps/0/name": {
+        "orig": "Treasure Room",
+        "text": "Комната сокровищ"
+    },
+    "areas/heat-area.json/floors/0/maps/1/name": {
+        "orig": "Barren Temple Treasury",
+        "text": "Сокровищница бесплодного храма"
+    },
+    "areas/heat-area.json/floors/0/maps/2/name": {
+        "orig": "Central Test Chamber",
+        "text": "Центральная тестовая камера"
+    },
+    "areas/heat-area.json/floors/0/maps/3/name": {
+        "orig": "Right Test Chamber",
+        "text": "Правая тестовая камера"
+    },
+    "areas/heat-area.json/floors/0/maps/4/name": {
+        "orig": "Mortal Chamber",
+        "text": "Смертельная камера"
+    },
+    "areas/heat-area.json/floors/0/maps/5/name": {
+        "orig": "Lead Office",
+        "text": "Главный офис"
+    },
+    "areas/heat-area.json/floors/1/name": {
+        "orig": "UG",
+        "text": "UG"
+    },
+    "areas/heat-area.json/floors/1/maps/0/name": {
+        "orig": "Maroon Cave 1",
+        "text": "Бордовая пещера 1"
+    },
+    "areas/heat-area.json/floors/1/maps/1/name": {
+        "orig": "Maroon Cave 2",
+        "text": "Бордовая пещера 2"
+    },
+    "areas/heat-area.json/floors/1/maps/2/name": {
+        "orig": "Maroon Cave 3",
+        "text": "Бордовая пещера 3"
+    },
+    "areas/heat-area.json/floors/1/maps/3/name": {
+        "orig": "Cursed Temple",
+        "text": "Проклятый храм"
+    },
+    "areas/heat-area.json/floors/1/maps/4/name": {
+        "orig": "Barren Temple Core",
+        "text": "Ядро бесплодного храма"
+    },
+    "areas/heat-area.json/floors/1/maps/5/name": {
+        "orig": "HP Reception",
+        "text": "Приёмная HP"
+    },
+    "areas/heat-area.json/floors/1/maps/6/name": {
+        "orig": "Coal Processor",
+        "text": "Угольный процессор"
+    },
+    "areas/heat-area.json/floors/1/maps/7/name": {
+        "orig": "Hot Office",
+        "text": "Жаркий офис"
+    },
+    "areas/heat-area.json/floors/2/maps/0/name": {
+        "orig": "East Entrance",
+        "text": "Восточный вход"
+    },
+    "areas/heat-area.json/floors/2/maps/1/name": {
+        "orig": "Dusty Path",
+        "text": "Пыльный путь"
+    },
+    "areas/heat-area.json/floors/2/maps/2/name": {
+        "orig": "Crossroad",
+        "text": "Перекрёсток"
+    },
+    "areas/heat-area.json/floors/2/maps/3/name": {
+        "orig": "Vivid Path",
+        "text": "Яркий путь"
+    },
+    "areas/heat-area.json/floors/2/maps/4/name": {
+        "orig": "Maroon Oasis",
+        "text": "Бордовый оазис"
+    },
+    "areas/heat-area.json/floors/2/maps/5/name": {
+        "orig": "Bright Path",
+        "text": "Светлый путь"
+    },
+    "areas/heat-area.json/floors/2/maps/6/name": {
+        "orig": "Long Piece",
+        "text": "Длинный участок"
+    },
+    "areas/heat-area.json/floors/2/maps/7/name": {
+        "orig": "Barren Land",
+        "text": "Пустынные земли"
+    },
+    "areas/heat-area.json/floors/2/maps/8/name": {
+        "orig": "Barren Arcs",
+        "text": "Бесплодные арки"
+    },
+    "areas/heat-area.json/floors/2/maps/9/name": {
+        "orig": "Overpass",
+        "text": "Эстакада"
+    },
+    "areas/heat-area.json/floors/2/maps/10/name": {
+        "orig": "Mystery Cave",
+        "text": "Таинственная пещера"
+    },
+    "areas/heat-area.json/floors/2/maps/11/name": {
+        "orig": "River Cliff",
+        "text": "Речной утёс"
+    },
+    "areas/heat-area.json/floors/2/maps/12/name": {
+        "orig": "Endless Pit",
+        "text": "Бездонная яма"
+    },
+    "areas/heat-area.json/floors/2/maps/13/name": {
+        "orig": "Deadly Oasis",
+        "text": "Смертельный оазис"
+    },
+    "areas/heat-area.json/floors/2/maps/14/name": {
+        "orig": "Paw Cliffs",
+        "text": "Лапьи скалы"
+    },
+    "areas/heat-area.json/floors/2/maps/15/name": {
+        "orig": "Torn Road",
+        "text": "Разорванная дорога"
+    },
+    "areas/heat-area.json/floors/2/maps/16/name": {
+        "orig": "Fractured Path",
+        "text": "Раздробленный путь"
+    },
+    "areas/heat-area.json/floors/2/maps/17/name": {
+        "orig": "Great Scar",
+        "text": "Великий шрам"
+    },
+    "areas/heat-area.json/floors/2/maps/18/name": {
+        "orig": "West Entrance",
+        "text": "Западный вход"
+    },
+    "areas/heat-area.json/floors/2/maps/19/name": {
+        "orig": "Rising Railway",
+        "text": "Восходящие рельсы"
+    },
+    "areas/heat-area.json/floors/2/maps/20/name": {
+        "orig": "Temple Entrance",
+        "text": "Вход в храм"
+    },
+    "areas/heat-area.json/floors/2/maps/21/name": {
+        "orig": "Toisecave",
+        "text": "Черепещера"
+    },
+    "areas/heat-area.json/floors/2/maps/22/name": {
+        "orig": "Brigand Cave",
+        "text": "Разбойничья пещера"
+    },
+    "areas/heat-area.json/floors/2/maps/23/name": {
+        "orig": "Windless Caverns",
+        "text": "Безветренные пещеры"
+    },
+    "areas/heat-area.json/floors/2/maps/24/name": {
+        "orig": "Barren Temple Entrance",
+        "text": "Вход в Бесплодный храм"
+    },
+    "areas/heat-area.json/floors/2/maps/25/name": {
+        "orig": "Barren Temple Hall",
+        "text": "Зал Бесплодного храма"
+    },
+    "areas/heat-area.json/floors/2/maps/26/name": {
+        "orig": "Faj'ro Roof",
+        "text": "Крыша Фай'ро"
+    },
+    "areas/heat-area.json/floors/2/maps/27/name": {
+        "orig": "Bone Lair",
+        "text": "Костяная нора"
+    },
+    "areas/heat-area.json/floors/2/maps/28/name": {
+        "orig": "Testing Area",
+        "text": "Тестовая область"
+    },
+    "areas/heat-area.json/floors/2/maps/29/name": {
+        "orig": "Testing Finale",
+        "text": "Финал тестирования"
+    }
+}

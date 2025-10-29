@@ -1,0 +1,78 @@
+{
+    "arena/faction-team-cup-1.json/core/name": {
+        "orig": "Faction Team Cup",
+        "text": "Командный кубок фракций"
+    },
+    "arena/faction-team-cup-1.json/core/info": {
+        "orig": "Refight several battles found during your quests for the factions, as a team!",
+        "text": "Сразитесь вновь с врагами, найденными во время ваших квестов фракций, в команде!"
+    },
+    "arena/faction-team-cup-1.json/core/creator": {
+        "orig": "GFluegel",
+        "text": "GFluegel"
+    },
+    "arena/faction-team-cup-1.json/rounds/0/name": {
+        "orig": "Hillkat Hoodlums",
+        "text": "Горностаи-хулиганы"
+    },
+    "arena/faction-team-cup-1.json/rounds/0/objective": {
+        "orig": "Refight the \\c[3]\\v[combat.name.meerkat-special-command-1]\\c[0] and his gang of \\c[3]Hillkats\\c[0] in their cave in \\c[3]\\v[area.autumn-area.name]\\c[0]!",
+        "text": "Сразитесь вновь с \\c[3]Лидером банды горностаев\\c[0] и его бандой \\c[3]Горностаев\\c[0] в их пещере в \\c[3]Расцвете Осени\\c[0]!"
+    },
+    "arena/faction-team-cup-1.json/rounds/1/name": {
+        "orig": "Turret Troubles",
+        "text": "Турельные проблемы"
+    },
+    "arena/faction-team-cup-1.json/rounds/1/objective": {
+        "orig": "Defeat the \\c[3]\\v[combat.name.turret-rhg-1]\\c[0] that got you in a crossfire in \\c[3]\\v[area.rookie-harbor.name]\\c[0]!",
+        "text": "Победите \\c[3]Нелегальную турель Ромба\\c[0], попав под перекрёстный огонь в \\c[3]Гавани новичков\\c[0]!"
+    },
+    "arena/faction-team-cup-1.json/rounds/2/name": {
+        "orig": "Besmirched Buns",
+        "text": "Испорченные кролики"
+    },
+    "arena/faction-team-cup-1.json/rounds/2/objective": {
+        "orig": "Defeat the \\c[3]\\v[combat.name.cold/frobbit-quest-dirty]s\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]!\nRemember to \\c[3]give them a bath\\c[0] first!",
+        "text": "Победите \\c[3]Немытых кролягов\\c[0] на \\c[3]Тропе в Берген\\c[0]!\nПомните, сначала \\c[3]вымойте их\\c[0]!"
+    },
+    "arena/faction-team-cup-1.json/rounds/3/name": {
+        "orig": "The Goatfather, Part I",
+        "text": "Крёстный козлец, часть I"
+    },
+    "arena/faction-team-cup-1.json/rounds/3/objective": {
+        "orig": "Meet the \\c[3]\\v[combat.name.cold/goat-father]\\c[0] again and \\c[3]defeat his subordinates\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]!\nBe careful of \\c[3]bombs\\c[0]!",
+        "text": "Снова встретьтесь с \\c[3]Крёстным козлецом\\c[0] и \\c[3]победите его подчинённых\\c[0] на \\c[3]Тропе в Берген\\c[0]!\nБудьте осторожны с \\c[3]бомбами\\c[0]!"
+    },
+    "arena/faction-team-cup-1.json/rounds/4/name": {
+        "orig": "Searing Circuit Squad",
+        "text": "Цепной опаляющий отряд"
+    },
+    "arena/faction-team-cup-1.json/rounds/4/objective": {
+        "orig": "Fight the favored machinery of treacherous Ba'kii Kum guards, \\c[3]\\v[combat.name.heat/special/baki-turret_1]s\\c[0] led by a \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0]!\n\\c[3]Break the leader\\c[0] to deactivate the \\c[3]shields\\c[0] of the turrets!",
+        "text": "Сразитесь с любимыми механизмами коварных охранников Ба'кии Кум, \\c[3]Турелями-легионерами 1.0\\c[0] во главе с \\c[3]Легионером-лидером 1.0\\c[0]!\n\\c[3]Уничтожьте лидера\\c[0], чтобы отключить \\c[3]щиты\\c[0] турелей!"
+    },
+    "arena/faction-team-cup-1.json/rounds/5/name": {
+        "orig": "Burning Birbs",
+        "text": "Пламенные птицы"
+    },
+    "arena/faction-team-cup-1.json/rounds/5/objective": {
+        "orig": "Defeat the \\c[3]\\v[combat.name.heat/special/volturbine-cave]s\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]!\nDon't let them \\c[3]regenerate over the flames\\c[0]!",
+        "text": "Победите \\c[3]Мегагрифов\\c[0] в \\c[3]Бордовой долине\\c[0]!\nНе позволяйте им \\c[3]регенерироваться над пламенем\\c[0]!"
+    },
+    "arena/faction-team-cup-1.json/rounds/6/name": {
+        "orig": "Malicious Mustache",
+        "text": "Злобные усы"
+    },
+    "arena/faction-team-cup-1.json/rounds/6/objective": {
+        "orig": "Have another duel with \\c[3]\\v[combat.name.heat/special/guard-hostile-mustache]\\c[0], Bakii'Kums most treasonous guard!\nAnd also trash his \\c[3]\\v[combat.name.heat/special/baki-turret_2]s\\c[0] while you're at it!",
+        "text": "Проведите ещё один поединок со \\c[3]стражником Биллстоном\\c[0], бакийским предателем!\nА также уничтожьте его \\c[3]Турели-легионеры 2.0\\c[0], пока вы там!"
+    },
+    "arena/faction-team-cup-1.json/rounds/7/name": {
+        "orig": "Perky Plant",
+        "text": "Бодрое растение"
+    },
+    "arena/faction-team-cup-1.json/rounds/7/objective": {
+        "orig": "Defeat the \\c[3]\\v[combat.name.jungle/special/powerplant-quest-1]\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]!",
+        "text": "Победите \\c[3]Бафоцветика\\c[0] в \\c[3]Саду Гайи\\c[0]!"
+    }
+}

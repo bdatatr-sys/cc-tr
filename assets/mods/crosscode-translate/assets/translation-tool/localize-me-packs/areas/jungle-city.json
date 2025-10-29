@@ -1,0 +1,126 @@
+{
+    "areas/jungle-city.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/jungle-city.json/floors/0/name": {
+        "orig": "B1",
+        "text": "B1"
+    },
+    "areas/jungle-city.json/floors/0/maps/0/name": {
+        "orig": "Pumpkin Fun Land",
+        "text": "Тыквенное веселье"
+    },
+    "areas/jungle-city.json/floors/0/maps/1/name": {
+        "orig": "Pumpkin Fun Finale",
+        "text": "Финал Тыквенного веселья"
+    },
+    "areas/jungle-city.json/floors/0/maps/2/name": {
+        "orig": "Calzone Basement",
+        "text": "Подвал Кальцоне"
+    },
+    "areas/jungle-city.json/floors/1/name": {
+        "orig": "G",
+        "text": "G"
+    },
+    "areas/jungle-city.json/floors/1/maps/0/name": {
+        "orig": "Centrum",
+        "text": "Центрум"
+    },
+    "areas/jungle-city.json/floors/1/maps/1/name": {
+        "orig": "The Boosi Business",
+        "text": "Бизнес Бузнесмена\n"
+    },
+    "areas/jungle-city.json/floors/1/maps/2/name": {
+        "orig": "Pond Slums",
+        "text": "Прудовые трущобы"
+    },
+    "areas/jungle-city.json/floors/1/maps/3/name": {
+        "orig": "High Grounds",
+        "text": "Возвышенность"
+    },
+    "areas/jungle-city.json/floors/1/maps/4/name": {
+        "orig": "Corner Mall",
+        "text": "Торговый уголок"
+    },
+    "areas/jungle-city.json/floors/1/maps/5/name": {
+        "orig": "Calzone Shop",
+        "text": "Магазин Кальцоне"
+    },
+    "areas/jungle-city.json/floors/1/maps/6/name": {
+        "orig": "Seeker Hub 1st Floor",
+        "text": "Центр Искателей 1-й этаж"
+    },
+    "areas/jungle-city.json/floors/1/maps/7/name": {
+        "orig": "Clipson Tower 1st Floor",
+        "text": "Небоскрёб Клипсона 1-й этаж"
+    },
+    "areas/jungle-city.json/floors/1/maps/8/name": {
+        "orig": "Basin Police Force HQ",
+        "text": "Полиция Бэйзина"
+    },
+    "areas/jungle-city.json/floors/1/maps/9/name": {
+        "orig": "Woodland Vanguard HQ",
+        "text": "Лесной авангард"
+    },
+    "areas/jungle-city.json/floors/1/maps/10/name": {
+        "orig": "Gaia's Gardeners HQ",
+        "text": "Садовники Гайи"
+    },
+    "areas/jungle-city.json/floors/1/maps/11/name": {
+        "orig": "Echelon Tower",
+        "text": "Небоскрёб Эшелон"
+    },
+    "areas/jungle-city.json/floors/1/maps/12/name": {
+        "orig": "Basin Trade Partnership HQ",
+        "text": "Торговцы Бэйзина"
+    },
+    "areas/jungle-city.json/floors/2/name": {
+        "orig": "F1",
+        "text": "F1"
+    },
+    "areas/jungle-city.json/floors/2/maps/0/name": {
+        "orig": "Corner Mall",
+        "text": "Торговый уголок"
+    },
+    "areas/jungle-city.json/floors/2/maps/1/name": {
+        "orig": "Seeker Hub 2nd Floor",
+        "text": "Центр Искателей 2-й этаж"
+    },
+    "areas/jungle-city.json/floors/2/maps/2/name": {
+        "orig": "Mayors Office",
+        "text": "Мэрия"
+    },
+    "areas/jungle-city.json/floors/2/maps/3/name": {
+        "orig": "Clipson Tower 2nd Floor",
+        "text": "Небоскрёб Клипсона 2-й этаж"
+    },
+    "areas/jungle-city.json/floors/2/maps/4/name": {
+        "orig": "Legitimate Nest Bar",
+        "text": "Легальный гнездовой бар"
+    },
+    "areas/jungle-city.json/floors/3/name": {
+        "orig": "F2",
+        "text": "F2"
+    },
+    "areas/jungle-city.json/floors/3/maps/0/name": {
+        "orig": "Clipson Tower Highest Floor",
+        "text": "Последний этаж Небоскрёба Клипсона"
+    },
+    "areas/jungle-city.json/floors/3/maps/1/name": {
+        "orig": "Papagang HQ Club",
+        "text": "Клуб штаба Попуганзы"
+    },
+    "areas/jungle-city.json/floors/4/name": {
+        "orig": "Roof",
+        "text": "Крыша"
+    },
+    "areas/jungle-city.json/floors/4/maps/0/name": {
+        "orig": "Clipson Tower Roof",
+        "text": "Крыша Небоскрёба Клипсона"
+    },
+    "areas/jungle-city.json/floors/4/maps/1/name": {
+        "orig": "Papagang HQ Roof",
+        "text": "Крыша штаба Попуганзы"
+    }
+}

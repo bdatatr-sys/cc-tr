@@ -1,0 +1,130 @@
+{
+    "players/shizuka.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
+        "orig": "Spin Dance",
+        "text": "Круговой танец"
+    },
+    "players/shizuka.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/description": {
+        "orig": "A wide-ranged spinning move hitting many nearby enemies.",
+        "text": "Широкое вращательное движение, поражающее большую площадь."
+    },
+    "players/shizuka.json/actions/NEUTRAL/THROW_SPECIAL1_A/name": {
+        "orig": "Bullet Rain",
+        "text": "Дождь из пуль"
+    },
+    "players/shizuka.json/actions/NEUTRAL/THROW_SPECIAL1_A/description": {
+        "orig": "Fire a mass of small shots in a narrow angle.",
+        "text": "Выстрели множество маленьких снарядов с маленьким разбросом."
+    },
+    "players/shizuka.json/actions/NEUTRAL/DASH_SPECIAL1_B/name": {
+        "orig": "First Cut",
+        "text": "Начальный разрез"
+    },
+    "players/shizuka.json/actions/NEUTRAL/DASH_SPECIAL1_B/description": {
+        "orig": "A very powerful attack that will hit exactly one enemy.",
+        "text": "Очень мощная атака, которая может поразить только одного врага."
+    },
+    "players/shizuka.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
+        "orig": "Fire Whirl",
+        "text": "Огненный вихрь"
+    },
+    "players/shizuka.json/actions/HEAT/ATTACK_SPECIAL1_A/description": {
+        "orig": "Performs a fierce whirl attack, engulfing your enemies in flames.",
+        "text": "Проведи свирепую вихревую атаку, поглощая врагов пламенем."
+    },
+    "players/shizuka.json/actions/HEAT/THROW_SPECIAL1_A/name": {
+        "orig": "Burn!",
+        "text": "Гори!"
+    },
+    "players/shizuka.json/actions/HEAT/THROW_SPECIAL1_A/description": {
+        "orig": "A controllable blazing burst of fire that deals damage over a small area.",
+        "text": "Контролируемый полыхающий огненный взрыв, наносящий урон в небольшом радиусе."
+    },
+    "players/shizuka.json/actions/HEAT/DASH_SPECIAL1_A/name": {
+        "orig": "Crimson Strike",
+        "text": "Багровая атака"
+    },
+    "players/shizuka.json/actions/HEAT/DASH_SPECIAL1_A/description": {
+        "orig": "Dash through your enemies while leaving a trail of fire.",
+        "text": "Сделай рывок через врагов, оставляя огненный след."
+    },
+    "players/shizuka.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
+        "orig": "Ice Twirl",
+        "text": "Ледяной вихрь"
+    },
+    "players/shizuka.json/actions/COLD/ATTACK_SPECIAL1_A/description": {
+        "orig": "Performs a stationary ice whirl attack with wide range and strong knockback.",
+        "text": "Соверши вихревую атаку на месте с большим радиусом и сильным отталкиванием."
+    },
+    "players/shizuka.json/actions/COLD/THROW_SPECIAL1_A/name": {
+        "orig": "Snow Flawke",
+        "text": "Снежный изъян"
+    },
+    "players/shizuka.json/actions/COLD/THROW_SPECIAL1_A/description": {
+        "orig": "Hit enemies with a big snow explosion, caging them within icicles.",
+        "text": "Порази врагов большим снежным взрывом, который окружает врагов сосульками."
+    },
+    "players/shizuka.json/actions/COLD/THROW_SPECIAL1_NO/name": {
+        "orig": "Hail Flurry",
+        "text": "Шквальный град"
+    },
+    "players/shizuka.json/actions/COLD/THROW_SPECIAL1_NO/description": {
+        "orig": "Quickly shoots a mass of icy spikes.",
+        "text": "Быстро выстрели множество ледяных шипов."
+    },
+    "players/shizuka.json/actions/COLD/DASH_SPECIAL1_A/name": {
+        "orig": "Indigo Strike",
+        "text": "Удар индиго"
+    },
+    "players/shizuka.json/actions/COLD/DASH_SPECIAL1_A/description": {
+        "orig": "Dash with high speed, leaving a trail of icicles behind you, damaging enemies on contact.",
+        "text": "Сделай быстрый рывок, оставляя след из сосулек за собой, которые наносят урон врагам при контакте."
+    },
+    "players/shizuka.json/actions/SHOCK/ATTACK_SPECIAL1/name": {
+        "orig": "Tesla Twist",
+        "text": "Вращение Теслы"
+    },
+    "players/shizuka.json/actions/SHOCK/ATTACK_SPECIAL1/description": {
+        "orig": "Attack with a series of multiple fast spin attacks within a small radius.",
+        "text": "Атакуй серией быстрых вращений с маленьким радиусом."
+    },
+    "players/shizuka.json/actions/SHOCK/THROW_SPECIAL1/name": {
+        "orig": "Homing Wisp",
+        "text": "Управляемые огни"
+    },
+    "players/shizuka.json/actions/SHOCK/THROW_SPECIAL1/description": {
+        "orig": "Shoot an array of small homing projectiles.",
+        "text": "Выстрели множество маленьких самонаводящихся снарядов."
+    },
+    "players/shizuka.json/actions/SHOCK/DASH_SPECIAL1_B/name": {
+        "orig": "Thunder Dart",
+        "text": "Громовой дротик"
+    },
+    "players/shizuka.json/actions/SHOCK/DASH_SPECIAL1_B/description": {
+        "orig": "Dash through enemies leaving a shocking trail of lightning.",
+        "text": "Сделай рывок через врагов, оставляя шоковый след из молний."
+    },
+    "players/shizuka.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
+        "orig": "Ki Thrust",
+        "text": "Выпад Ки"
+    },
+    "players/shizuka.json/actions/WAVE/ATTACK_SPECIAL1_A/description": {
+        "orig": "Frontal attack with high damage, sending all hit enemies flying.",
+        "text": "Атака вперёд с высоким уроном, отправляющая врагов в полёт."
+    },
+    "players/shizuka.json/actions/WAVE/THROW_SPECIAL1_A/name": {
+        "orig": "Fae Round",
+        "text": "Пуля феи"
+    },
+    "players/shizuka.json/actions/WAVE/THROW_SPECIAL1_A/description": {
+        "orig": "Shoots a super fast projectile penetrating a line of enemies.",
+        "text": "Выстрели сверхбыстрым снарядом, пробивающим линию врагов."
+    },
+    "players/shizuka.json/actions/WAVE/DASH_SPECIAL1_A/name": {
+        "orig": "Verdant Strike",
+        "text": "Зелёный удар"
+    },
+    "players/shizuka.json/actions/WAVE/DASH_SPECIAL1_A/description": {
+        "orig": "Dash with high speed, damaging and stunning enemies along the way.",
+        "text": "Сделай рывок на большой скорости, нанося урон и оглушая всех противников на пути."
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "areas/rhombus-dng.json/name": {
+        "orig": "Rhombus Dungeon",
+        "text": "Подземелье Ромба"
+    },
+    "areas/rhombus-dng.json/floors/0/name": {
+        "orig": "1st Floor",
+        "text": "1-й этаж"
+    },
+    "areas/rhombus-dng.json/floors/0/maps/0/name": {
+        "orig": "Entrance",
+        "text": "Вход"
+    },
+    "areas/rhombus-dng.json/floors/0/maps/1/name": {
+        "orig": "Puzzle Room 1",
+        "text": "Комната-головоломка 1"
+    },
+    "areas/rhombus-dng.json/floors/0/maps/2/name": {
+        "orig": "Puzzle Room 2",
+        "text": "Комната-головоломка 2"
+    },
+    "areas/rhombus-dng.json/floors/0/maps/3/name": {
+        "orig": "Ability Room 1",
+        "text": "Комната способности 1"
+    },
+    "areas/rhombus-dng.json/floors/1/name": {
+        "orig": "2nd Floor",
+        "text": "2-й этаж"
+    },
+    "areas/rhombus-dng.json/floors/1/maps/0/name": {
+        "orig": "Middle Room",
+        "text": "Центральная комната"
+    },
+    "areas/rhombus-dng.json/floors/1/maps/1/name": {
+        "orig": "Upper Path 1",
+        "text": "Верхний путь 1"
+    },
+    "areas/rhombus-dng.json/floors/1/maps/2/name": {
+        "orig": "Upper Path 2",
+        "text": "Верхний путь 2"
+    },
+    "areas/rhombus-dng.json/floors/1/maps/3/name": {
+        "orig": "Upper Path 3",
+        "text": "Верхний путь 3"
+    },
+    "areas/rhombus-dng.json/floors/1/maps/4/name": {
+        "orig": "Lower Path 1",
+        "text": "Нижний путь 1"
+    },
+    "areas/rhombus-dng.json/floors/1/maps/5/name": {
+        "orig": "Lower Path 2",
+        "text": "Нижний путь 2"
+    },
+    "areas/rhombus-dng.json/floors/1/maps/6/name": {
+        "orig": "Lower Path 3",
+        "text": "Нижний путь 3"
+    },
+    "areas/rhombus-dng.json/floors/2/name": {
+        "orig": "3rd Floor",
+        "text": "3-й этаж"
+    },
+    "areas/rhombus-dng.json/floors/2/maps/0/name": {
+        "orig": "Ability Room 2",
+        "text": "Комната испытаний 2"
+    },
+    "areas/rhombus-dng.json/floors/2/maps/1/name": {
+        "orig": "Puzzle Room 3",
+        "text": "Комната-головоломка 3"
+    },
+    "areas/rhombus-dng.json/floors/2/maps/2/name": {
+        "orig": "Boss Room",
+        "text": "Комната босса"
+    },
+    "areas/rhombus-dng.json/floors/3/name": {
+        "orig": "4th Floor",
+        "text": "4-й этаж"
+    },
+    "areas/rhombus-dng.json/floors/3/maps/0/name": {
+        "orig": "Final Room",
+        "text": "Финальная комната"
+    }
+}

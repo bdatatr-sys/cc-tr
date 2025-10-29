@@ -1,0 +1,46 @@
+{
+    "lang/sc/gimmick.en_US.json/labels/unknown": {
+        "orig": "Unsupported Bonus Code!",
+        "text": "Недействительный бонусный код!"
+    },
+    "lang/sc/gimmick.en_US.json/labels/sparklingShoes": {
+        "orig": "Sparkling Shoes enabled! Check your item list.",
+        "text": "Сверкающие сапоги включены! Проверьте свой список предметов."
+    },
+    "lang/sc/gimmick.en_US.json/labels/holidayQuest": {
+        "orig": "Holiday Quest unlocked! Look for it in Bergen Village.",
+        "text": "Праздничный квест разблокирован! Ищите его в деревне Берген."
+    },
+    "lang/sc/gimmick.en_US.json/labels/caramelldansen": {
+        "orig": "Caramelldansen on idle activated!",
+        "text": "Caramelldansen во время бездействия активирован!"
+    },
+    "lang/sc/gimmick.en_US.json/labels/caramelldansenRemove": {
+        "orig": "Caramelldansen on idle deactivated!",
+        "text": "Caramelldansen во время бездействия деактивирован!"
+    },
+    "lang/sc/gimmick.en_US.json/labels/regularTrees": {
+        "orig": "Trees are now more regular in Autumn's Rise and Fall.",
+        "text": "Теперь деревья в Расцвете и Закате Осени более правильные."
+    },
+    "lang/sc/gimmick.en_US.json/labels/regularTreesRemove": {
+        "orig": "Trees are now less regular in Autumn's Rise and Fall.",
+        "text": "Теперь деревья в Расцвете и Закате Осени менее правильные."
+    },
+    "lang/sc/gimmick.en_US.json/labels/speedlines": {
+        "orig": "Speed lines added to make game faster and objectively better.",
+        "text": "Линии скорости добавлены, чтобы сделать игру быстрее и объективно лучше."
+    },
+    "lang/sc/gimmick.en_US.json/labels/speedlinesRemove": {
+        "orig": "Speed lines removed to make game slower and objectively worse.",
+        "text": "Линии скорости удалены, чтобы сделать игру медленнее и объективно хуже.\n"
+    },
+    "lang/sc/gimmick.en_US.json/labels/voiceActing": {
+        "orig": "High Quality Voice Acting is now \\c[3]enabled\\c[0]! Enter the code again to disable it.",
+        "text": "Озвучка высокого качества \\c[3]включена\\c[0]! Введите код ещё раз, чтобы выключить обратно."
+    },
+    "lang/sc/gimmick.en_US.json/labels/voiceActingRemove": {
+        "orig": "High Quality Voice Acting is now \\c[3]disabled\\c[0]! Enter the code again to enable it.",
+        "text": "Озвучка высокого качества \\c[3]отключена\\c[0]! Введите код ещё раз, чтобы включить обратно."
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "areas/heat-dng.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/heat-dng.json/floors/0/name": {
+        "orig": "G",
+        "text": "G"
+    },
+    "areas/heat-dng.json/floors/0/maps/0/name": {
+        "orig": "Entry Test",
+        "text": "Вступительный тест"
+    },
+    "areas/heat-dng.json/floors/0/maps/1/name": {
+        "orig": "Balance Room 1",
+        "text": "Комната баланса 1"
+    },
+    "areas/heat-dng.json/floors/0/maps/2/name": {
+        "orig": "Left Chamber 1",
+        "text": "Левый зал 1"
+    },
+    "areas/heat-dng.json/floors/0/maps/3/name": {
+        "orig": "Left Chamber 2",
+        "text": "Левый зал 2"
+    },
+    "areas/heat-dng.json/floors/0/maps/4/name": {
+        "orig": "Test of Tri",
+        "text": "Тест трёх"
+    },
+    "areas/heat-dng.json/floors/0/maps/5/name": {
+        "orig": "Fire and Sand 1",
+        "text": "Огонь и песок 1"
+    },
+    "areas/heat-dng.json/floors/0/maps/6/name": {
+        "orig": "Fire and Sand 2",
+        "text": "Огонь и песок 2"
+    },
+    "areas/heat-dng.json/floors/0/maps/7/name": {
+        "orig": "Test of Fire",
+        "text": "Испытание огня"
+    },
+    "areas/heat-dng.json/floors/0/maps/8/name": {
+        "orig": "Balance Room 2",
+        "text": "Комната баланса 2"
+    },
+    "areas/heat-dng.json/floors/0/maps/9/name": {
+        "orig": "Right Chamber 1",
+        "text": "Правый зал 1"
+    },
+    "areas/heat-dng.json/floors/0/maps/10/name": {
+        "orig": "Right Chamber 2",
+        "text": "Правый зал 2"
+    },
+    "areas/heat-dng.json/floors/0/maps/11/name": {
+        "orig": "Test of Vigor",
+        "text": "Испытание бодрости"
+    },
+    "areas/heat-dng.json/floors/0/maps/12/name": {
+        "orig": "Test of Memory 1",
+        "text": "Испытание памяти 1"
+    },
+    "areas/heat-dng.json/floors/0/maps/13/name": {
+        "orig": "Test of Memory 2",
+        "text": "Испытание памяти 2"
+    },
+    "areas/heat-dng.json/floors/1/name": {
+        "orig": "F1",
+        "text": "F1"
+    },
+    "areas/heat-dng.json/floors/1/maps/0/name": {
+        "orig": "Balance Room 1",
+        "text": "Комната баланса 1"
+    },
+    "areas/heat-dng.json/floors/1/maps/1/name": {
+        "orig": "Balance Room 2",
+        "text": "Комната баланса 2"
+    },
+    "areas/heat-dng.json/floors/1/maps/2/name": {
+        "orig": "Left Chamber 1",
+        "text": "Левый зал 1"
+    },
+    "areas/heat-dng.json/floors/1/maps/3/name": {
+        "orig": "Right Chamber 1",
+        "text": "Правый зал 1"
+    },
+    "areas/heat-dng.json/floors/1/maps/4/name": {
+        "orig": "Sand Terror",
+        "text": "Песчаный ужас"
+    },
+    "areas/heat-dng.json/floors/1/maps/5/name": {
+        "orig": "Test of Distraction",
+        "text": "Испытание отвлечения"
+    },
+    "areas/heat-dng.json/floors/2/name": {
+        "orig": "F2",
+        "text": "F2"
+    },
+    "areas/heat-dng.json/floors/2/maps/0/name": {
+        "orig": "Chamber of Ice",
+        "text": "Зал льда"
+    },
+    "areas/heat-dng.json/floors/3/name": {
+        "orig": "F3",
+        "text": "F3"
+    },
+    "areas/heat-dng.json/floors/3/maps/0/name": {
+        "orig": "Gateway",
+        "text": "Проход"
+    },
+    "areas/heat-dng.json/floors/3/maps/1/name": {
+        "orig": "Bottom Chamber",
+        "text": "Нижний зал"
+    },
+    "areas/heat-dng.json/floors/3/maps/2/name": {
+        "orig": "Left Chamber",
+        "text": "Левый зал"
+    },
+    "areas/heat-dng.json/floors/3/maps/3/name": {
+        "orig": "Test of Strength",
+        "text": "Испытание силы"
+    },
+    "areas/heat-dng.json/floors/3/maps/4/name": {
+        "orig": "Large Fire Chamber",
+        "text": "Большой зал огня"
+    },
+    "areas/heat-dng.json/floors/3/maps/5/name": {
+        "orig": "Right Chamber",
+        "text": "Правый зал"
+    },
+    "areas/heat-dng.json/floors/3/maps/6/name": {
+        "orig": "Test of Wisdom",
+        "text": "Испытание мудрости"
+    },
+    "areas/heat-dng.json/floors/4/name": {
+        "orig": "F4",
+        "text": "F4"
+    },
+    "areas/heat-dng.json/floors/4/maps/0/name": {
+        "orig": "Gateway",
+        "text": "Проход"
+    },
+    "areas/heat-dng.json/floors/4/maps/1/name": {
+        "orig": "West Corridor ",
+        "text": "Западный коридор"
+    },
+    "areas/heat-dng.json/floors/4/maps/2/name": {
+        "orig": "East Corridor ",
+        "text": "Восточный коридор"
+    },
+    "areas/heat-dng.json/floors/4/maps/3/name": {
+        "orig": "South Corridor",
+        "text": "Южный коридор"
+    },
+    "areas/heat-dng.json/floors/4/maps/4/name": {
+        "orig": "West Pathway",
+        "text": "Западный путь"
+    },
+    "areas/heat-dng.json/floors/4/maps/5/name": {
+        "orig": "Test of Surprise",
+        "text": "Испытание внезапности"
+    },
+    "areas/heat-dng.json/floors/4/maps/6/name": {
+        "orig": "Test of Endurance",
+        "text": "Испытание выносливости"
+    },
+    "areas/heat-dng.json/floors/4/maps/7/name": {
+        "orig": "Blazing Lair",
+        "text": "Полыхающее логово"
+    },
+    "areas/heat-dng.json/floors/4/maps/8/name": {
+        "orig": "West Chamber 1",
+        "text": "Западный зал 1"
+    },
+    "areas/heat-dng.json/floors/4/maps/9/name": {
+        "orig": "West Chamber 2",
+        "text": "Западный зал 2"
+    },
+    "areas/heat-dng.json/floors/4/maps/10/name": {
+        "orig": "East Chamber 2",
+        "text": "Восточный зал 2"
+    },
+    "areas/heat-dng.json/floors/4/maps/11/name": {
+        "orig": "Test of Focus",
+        "text": "Испытание концентрации"
+    },
+    "areas/heat-dng.json/floors/4/maps/12/name": {
+        "orig": "East Chamber 1",
+        "text": "Восточный зал 1"
+    },
+    "areas/heat-dng.json/floors/4/maps/13/name": {
+        "orig": "East Pathway",
+        "text": "Восточный путь"
+    },
+    "areas/heat-dng.json/floors/4/maps/14/name": {
+        "orig": "Test of Memory",
+        "text": "Испытание памяти"
+    },
+    "areas/heat-dng.json/floors/4/maps/15/name": {
+        "orig": "Chamber of Prosperity",
+        "text": "Зал процветания"
+    }
+}

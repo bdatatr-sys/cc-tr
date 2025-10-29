@@ -1,0 +1,118 @@
+{
+    "maps/text-copy.json/entities/0/settings/event/1/text": {
+        "orig": "Hi?!",
+        "text": "Привет?!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/5/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/8/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/10/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/12/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/14/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/16/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/18/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/20/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/22/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/24/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/26/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/27/text": {
+        "orig": "Brawler\n",
+        "text": "Дебошир"
+    },
+    "maps/text-copy.json/entities/0/settings/event/28/text": {
+        "orig": "Some very long description about what Brawler does etc. etc.",
+        "text": "Очень длинное описание о том, что Дебошир делает, и т. д., и т. д."
+    },
+    "maps/text-copy.json/entities/0/settings/event/34/message": {
+        "orig": "CliP!",
+        "text": "ХлоП!"
+    },
+    "maps/text-copy.json/entities/0/settings/event/37/titleText": {
+        "orig": "Checkout",
+        "text": "Оплатить"
+    },
+    "maps/text-copy.json/entities/0/settings/event/37/text": {
+        "orig": "Quantity\nSubmit",
+        "text": "Количество\nПодтвердить"
+    },
+    "maps/text-copy.json/entities/0/settings/event/38/titleText": {
+        "orig": "Equipment Info",
+        "text": "Информация о снаряжении"
+    },
+    "maps/text-copy.json/entities/0/settings/event/38/text": {
+        "orig": "Quest\nLore & Story\nTrophies\nStatistic\nMuseum\nHelp\nTask",
+        "text": "Квесты\nЛор и история\nТрофеи\nСтатистика\nМузей\nПомощь\nЦель"
+    },
+    "maps/text-copy.json/entities/0/settings/event/39/titleText": {
+        "orig": "Equipment Info",
+        "text": "Информация о снаряжении"
+    },
+    "maps/text-copy.json/entities/0/settings/event/39/text": {
+        "orig": "Quest\nLore & Story\nTrophies\nStatistic\nMuseum\nHelp\nTask",
+        "text": "Квесты\nЛор и история\nТрофеи\nСтатистика\nМузей\nПомощь\nЦель"
+    },
+    "maps/text-copy.json/entities/0/settings/event/40/titleText": {
+        "orig": "Equipment Info",
+        "text": "Информация о снаряжении"
+    },
+    "maps/text-copy.json/entities/0/settings/event/40/text": {
+        "orig": "The story so far:\nQuests\nAchievements",
+        "text": "История на данный момент:\nКвесты\nДостижения"
+    },
+    "maps/text-copy.json/entities/0/settings/event/41/titleText": {
+        "orig": "Equipment Info",
+        "text": "Информация о снаряжении"
+    },
+    "maps/text-copy.json/entities/0/settings/event/41/text": {
+        "orig": "Graphics\n\nDisplay Type\nOriginal Scale x2 Fit Stretch\nDouble Pixel Size\nLighting\nEffects Low Medium High",
+        "text": "Графика\n\nТип дисплея\nОригинал Масштаб х2 Подогнанный Растянутый\nДвойной размер пикселей\nОсветление\nЭффекты Низко Средне Высоко"
+    },
+    "maps/text-copy.json/entities/0/settings/event/42/titleText": {
+        "orig": "Equipment Info",
+        "text": "Информация о снаряжении"
+    },
+    "maps/text-copy.json/entities/0/settings/event/42/text": {
+        "orig": "Interface\n\nCircuit Info Text Size  Small Medium Large\nCircuit Info Display Time   Short Long\nShow Element Select over Lea \nShow Element Overload\nShow Low-Health Warning",
+        "text": "Интерфейс\n\nРазмер шрифта информации о контурах Маленький Средний Большой\nВремя отображения информации о контурах Короткое Длинное\nПоказывать выбор элемента над Леей\nПоказывать Элементальную перегрузку\nПоказывать предупреждение о малом здоровье"
+    },
+    "maps/text-copy.json/entities/0/settings/event/43/titleText": {
+        "orig": "Equipment Info",
+        "text": "Equipment Info"
+    },
+    "maps/text-copy.json/entities/0/settings/event/43/text": {
+        "orig": "Keyboard\n\nLeft\nRight\nUp\nDown\nSubmit / Talk",
+        "text": "Клавиатура\n\nВлево\nВправо\nВверх\nВниз\nДействие / Говорить"
+    }
+}

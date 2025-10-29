@@ -1,0 +1,62 @@
+{
+    "players/joern.json/actions/NEUTRAL/ATTACK_SPECIAL1/name": {
+        "orig": "Gravity Taunt",
+        "text": "Грави-вызов"
+    },
+    "players/joern.json/actions/NEUTRAL/THROW_SPECIAL1/name": {
+        "orig": "Gravity Taunt",
+        "text": "Грави-вызов"
+    },
+    "players/joern.json/actions/NEUTRAL/GUARD_SPECIAL1/name": {
+        "orig": "Kinetic Shield",
+        "text": "Кинетический щит"
+    },
+    "players/joern.json/actions/HEAT/ATTACK_SPECIAL1/name": {
+        "orig": "Heat Taunt",
+        "text": "Тепловой вызов"
+    },
+    "players/joern.json/actions/HEAT/THROW_SPECIAL1/name": {
+        "orig": "Heat Taunt",
+        "text": "Тепловой вызов"
+    },
+    "players/joern.json/actions/HEAT/GUARD_SPECIAL1/name": {
+        "orig": "Heatshield",
+        "text": "Тепловой щит"
+    },
+    "players/joern.json/actions/COLD/ATTACK_SPECIAL1/name": {
+        "orig": "Cold Taunt",
+        "text": "Холодный вызов"
+    },
+    "players/joern.json/actions/COLD/THROW_SPECIAL1/name": {
+        "orig": "Cold Taunt",
+        "text": "Холодный вызов"
+    },
+    "players/joern.json/actions/COLD/GUARD_SPECIAL1/name": {
+        "orig": "Coldshield",
+        "text": "Холодный щит"
+    },
+    "players/joern.json/actions/SHOCK/ATTACK_SPECIAL1/name": {
+        "orig": "Shock Taunt",
+        "text": "Шоковый вызов"
+    },
+    "players/joern.json/actions/SHOCK/THROW_SPECIAL1/name": {
+        "orig": "Shock Taunt",
+        "text": "Шоковый вызов"
+    },
+    "players/joern.json/actions/SHOCK/GUARD_SPECIAL1/name": {
+        "orig": "Shockshield",
+        "text": "Шоковый щит"
+    },
+    "players/joern.json/actions/WAVE/ATTACK_SPECIAL1/name": {
+        "orig": "Wave Taunt",
+        "text": "Волновой вызов"
+    },
+    "players/joern.json/actions/WAVE/THROW_SPECIAL1/name": {
+        "orig": "Wave Taunt",
+        "text": "Волновой вызов"
+    },
+    "players/joern.json/actions/WAVE/GUARD_SPECIAL1/name": {
+        "orig": "Waveshield",
+        "text": "Волновой щит"
+    }
+}

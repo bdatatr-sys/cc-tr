@@ -1,0 +1,38 @@
+"use strict";
+ig.module('crosscode-translate.fixes.saves-menu')
+    .requires('game.feature.menu.gui.save.save-misc', 'localize-me.final-locale.ready')
+    .defines(() => {
+    if (ig.currentLang !== 'uk_UA')
+        return;
+    sc.SaveSlotButton.inject({
+        init(...args) {
+            this.parent(...args);
+            let playtimeStr = ig.lang.get('sc.gui.menu.save-menu.playtime');
+            let creditStr = ig.lang.get('sc.gui.menu.save-menu.credit');
+            let playtimeAndCreditContainerHook = this.content.hook.children.find((hook) => {
+                let foundPlaytime = false;
+                let foundCredit = false;
+                for (let { gui } of hook.children) {
+                    if (!(gui instanceof sc.TextGui))
+                        continue;
+                    if (gui.text === playtimeStr)
+                        foundPlaytime = true;
+                    if (gui.text === creditStr)
+                        foundCredit = true;
+                    if (foundPlaytime && foundCredit)
+                        return true;
+                }
+                return false;
+            });
+            if (playtimeAndCreditContainerHook != null)
+                playtimeAndCreditContainerHook.pos.x += 4;
+        },
+    });
+    sc.SaveSlotChapter.inject({
+        init(...args) {
+            this.parent(...args);
+            this.chapterGui.hook.pos.x = this.textGui.hook.pos.x + this.textGui.hook.size.x + 5;
+        },
+    });
+});
+//# sourceMappingURL=saves-menu.js.map

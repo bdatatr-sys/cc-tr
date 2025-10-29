@@ -1,0 +1,162 @@
+{
+    "areas/rhombus-sqr.json/name": {
+        "orig": "Rhombus Square",
+        "text": "Площадь Ромба"
+    },
+    "areas/rhombus-sqr.json/floors/0/maps/0/name": {
+        "orig": "Training Arena",
+        "text": "Тренировочная арена"
+    },
+    "areas/rhombus-sqr.json/floors/0/maps/1/name": {
+        "orig": "Highway Tunnel 1",
+        "text": "Автомобильный туннель 1"
+    },
+    "areas/rhombus-sqr.json/floors/0/maps/2/name": {
+        "orig": "Highway Tunnel 2",
+        "text": "Автомобильный туннель 2"
+    },
+    "areas/rhombus-sqr.json/floors/0/maps/3/name": {
+        "orig": "Rumbling Chamber",
+        "text": "Грохочущая комната"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/0/name": {
+        "orig": "Arena Plaza",
+        "text": "Площадь арены"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/1/name": {
+        "orig": "Cross Central",
+        "text": "CrossCentral"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/2/name": {
+        "orig": "Residential District",
+        "text": "Жилой район"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/3/name": {
+        "orig": "South Arch",
+        "text": "Южная арка"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/4/name": {
+        "orig": "Lloyd Passage",
+        "text": "Пассаж Ллойда"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/5/name": {
+        "orig": "Garden Boulevard",
+        "text": "Садовый бульвар"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/6/name": {
+        "orig": "Shopping District",
+        "text": "Торговый район"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/7/name": {
+        "orig": "Old Smith GF",
+        "text": "Старый кузнец - Цокольный этаж"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/8/name": {
+        "orig": "Boost Lounge",
+        "text": "Холл усилений"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/9/name": {
+        "orig": "Gear Store GF",
+        "text": "Магазин снаряжения - Цокольный этаж"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/10/name": {
+        "orig": "Buy Land GF",
+        "text": "Мир покупок - Цокольный этаж"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/11/name": {
+        "orig": "Vestorovich Mansion ",
+        "text": "Особняк Весторовича"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/12/name": {
+        "orig": "Curios Trinkets",
+        "text": "Редкие безделушки"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/13/name": {
+        "orig": "Arena Cafe",
+        "text": "Кафе у арены"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/14/name": {
+        "orig": "Books 'n Worms",
+        "text": "Книги и черви"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/15/name": {
+        "orig": "Arena Lobby",
+        "text": "Вестибюль арены"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/16/name": {
+        "orig": "Alabaster Passage",
+        "text": "Гипсовый проход"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/17/name": {
+        "orig": "Garden Terrace",
+        "text": "Садовая терраса"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/18/name": {
+        "orig": "Open PVP Fields",
+        "text": "Открытые поля PvP"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/19/name": {
+        "orig": "SW Beach",
+        "text": "ЮЗ Пляж"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/20/name": {
+        "orig": "Cliff Exhibition",
+        "text": "Скальная экспозиция"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/21/name": {
+        "orig": "North Arch",
+        "text": "Северная арка"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/22/name": {
+        "orig": "Global Quest Hub",
+        "text": "Мировой Квест-хаб"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/23/name": {
+        "orig": "Tremor Lab",
+        "text": "Дрожащая лаборатория"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/24/name": {
+        "orig": "Tremor Office",
+        "text": "Дрожащий офис"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/25/name": {
+        "orig": "Rhombus Parks Embassy",
+        "text": "Посольство парков Ромба"
+    },
+    "areas/rhombus-sqr.json/floors/1/maps/26/name": {
+        "orig": "Café Goat",
+        "text": "Кафе \"Козерог\""
+    },
+    "areas/rhombus-sqr.json/floors/2/maps/0/name": {
+        "orig": "Newcomer's Bridge",
+        "text": "Мост новичков"
+    },
+    "areas/rhombus-sqr.json/floors/2/maps/1/name": {
+        "orig": "Newcomer's Bridge End",
+        "text": "Конец Моста новичков"
+    },
+    "areas/rhombus-sqr.json/floors/2/maps/2/name": {
+        "orig": "CrossCentral Balcony",
+        "text": "Балкон CrossCentral"
+    },
+    "areas/rhombus-sqr.json/floors/2/maps/3/name": {
+        "orig": "Old Smith 1F",
+        "text": "Старый кузнец - 1-й этаж"
+    },
+    "areas/rhombus-sqr.json/floors/2/maps/4/name": {
+        "orig": "Gear Store 1F",
+        "text": "Магазин снаряжения - 1-й этаж"
+    },
+    "areas/rhombus-sqr.json/floors/2/maps/5/name": {
+        "orig": "Arena Cafe 2nd Floor",
+        "text": "Кафе у арены - 2-й этаж"
+    },
+    "areas/rhombus-sqr.json/floors/2/maps/6/name": {
+        "orig": "Buy Land F1",
+        "text": "Мир покупок - 1-й этаж"
+    },
+    "areas/rhombus-sqr.json/floors/3/maps/0/name": {
+        "orig": "Gear Store 2F",
+        "text": "Магазин снаряжения - 2-й этаж"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "players/glasses.json/actions/NEUTRAL/THROW_SPECIAL1/name": {
+        "orig": "MAGIC MISSILE",
+        "text": "МАГИЧЕСКИЙ СНАРЯД"
+    },
+    "players/glasses.json/actions/NEUTRAL/THROW_SPECIAL1/description": {
+        "orig": "Use it to attack the darkness.",
+        "text": "Используй это, чтобы атаковать тьму."
+    },
+    "players/glasses.json/actions/NEUTRAL/THROW_SPECIAL1_NOPE/name": {
+        "orig": "BUFF H3X!",
+        "text": "БАФАЙ Х3КС!"
+    },
+    "players/glasses.json/actions/HEAT/THROW_SPECIAL1/name": {
+        "orig": "Heat Missile",
+        "text": "Тепловая ракета"
+    },
+    "players/glasses.json/actions/HEAT/THROW_SPECIAL1/description": {
+        "orig": "Use it to attack the darkness.",
+        "text": "Используй это, чтобы атаковать тьму."
+    },
+    "players/glasses.json/actions/COLD/THROW_SPECIAL1/name": {
+        "orig": "Cold Missile",
+        "text": "Холодная ракета"
+    },
+    "players/glasses.json/actions/COLD/THROW_SPECIAL1/description": {
+        "orig": "Use it to attack the darkness.",
+        "text": "Используй это, чтобы атаковать тьму."
+    },
+    "players/glasses.json/actions/SHOCK/THROW_SPECIAL1/name": {
+        "orig": "Shock Missile",
+        "text": "Шоковая ракета"
+    },
+    "players/glasses.json/actions/SHOCK/THROW_SPECIAL1/description": {
+        "orig": "Use it to attack the darkness.",
+        "text": "Используй это, чтобы атаковать тьму."
+    },
+    "players/glasses.json/actions/WAVE/THROW_SPECIAL1/name": {
+        "orig": "Wave Missile",
+        "text": "Волновая ракета"
+    },
+    "players/glasses.json/actions/WAVE/THROW_SPECIAL1/description": {
+        "orig": "Use it to attack the darkness.",
+        "text": "Используй это, чтобы атаковать тьму."
+    }
+}

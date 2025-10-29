@@ -1,0 +1,150 @@
+{
+    "areas/bergen-trails.json/name": {
+        "orig": "Bergen Trail",
+        "text": "Тропа в Берген"
+    },
+    "areas/bergen-trails.json/floors/0/maps/0/name": {
+        "orig": "Crossing Office",
+        "text": "Перекрёстный офис"
+    },
+    "areas/bergen-trails.json/floors/0/maps/1/name": {
+        "orig": "Cross Boxing Chamber",
+        "text": "Cross Boxing Chamber"
+    },
+    "areas/bergen-trails.json/floors/0/maps/2/name": {
+        "orig": "X-treme Test Chamber",
+        "text": "X-treme Test Chamber"
+    },
+    "areas/bergen-trails.json/floors/0/maps/3/name": {
+        "orig": "360 Y2 Test Chamber",
+        "text": "360 Y2 Test Chamber"
+    },
+    "areas/bergen-trails.json/floors/0/maps/4/name": {
+        "orig": "Lead Office",
+        "text": "Главный офис"
+    },
+    "areas/bergen-trails.json/floors/1/name": {
+        "orig": "Bergen Basement",
+        "text": "Бергенский подвал"
+    },
+    "areas/bergen-trails.json/floors/1/maps/0/name": {
+        "orig": "Hermits Basement",
+        "text": "Подвал отшельника"
+    },
+    "areas/bergen-trails.json/floors/1/maps/1/name": {
+        "orig": "Horncave 1",
+        "text": "Рогатая пещера 1"
+    },
+    "areas/bergen-trails.json/floors/1/maps/2/name": {
+        "orig": "Horncave 2",
+        "text": "Рогатая пещера 2"
+    },
+    "areas/bergen-trails.json/floors/1/maps/3/name": {
+        "orig": "Horncave 3",
+        "text": "Рогатая пещера 3"
+    },
+    "areas/bergen-trails.json/floors/1/maps/4/name": {
+        "orig": "HH Reception",
+        "text": "Приёмная Дома отшельника"
+    },
+    "areas/bergen-trails.json/floors/1/maps/5/name": {
+        "orig": "Pipe Systems",
+        "text": "Система труб"
+    },
+    "areas/bergen-trails.json/floors/1/maps/6/name": {
+        "orig": "Old Office",
+        "text": "Старый офис"
+    },
+    "areas/bergen-trails.json/floors/2/name": {
+        "orig": "Bergen Trail",
+        "text": "Тропа в Берген"
+    },
+    "areas/bergen-trails.json/floors/2/maps/0/name": {
+        "orig": "Entrance",
+        "text": "Вход"
+    },
+    "areas/bergen-trails.json/floors/2/maps/1/name": {
+        "orig": "Rising Path 1",
+        "text": "Восходящий путь 1"
+    },
+    "areas/bergen-trails.json/floors/2/maps/2/name": {
+        "orig": "Rising Path 2",
+        "text": "Восходящий путь 2"
+    },
+    "areas/bergen-trails.json/floors/2/maps/3/name": {
+        "orig": "Old Plateau",
+        "text": "Старое плато"
+    },
+    "areas/bergen-trails.json/floors/2/maps/4/name": {
+        "orig": "Rising Path 3",
+        "text": "Восходящий путь 3"
+    },
+    "areas/bergen-trails.json/floors/2/maps/5/name": {
+        "orig": "Off Road 1",
+        "text": "Бездорожье 1"
+    },
+    "areas/bergen-trails.json/floors/2/maps/6/name": {
+        "orig": "Off Road 2",
+        "text": "Бездорожье 2"
+    },
+    "areas/bergen-trails.json/floors/2/maps/7/name": {
+        "orig": "Off Road 3",
+        "text": "Бездорожье 3"
+    },
+    "areas/bergen-trails.json/floors/2/maps/8/name": {
+        "orig": "Spike Heights",
+        "text": "Шипастые высоты"
+    },
+    "areas/bergen-trails.json/floors/2/maps/9/name": {
+        "orig": "Bergen Waterfalls",
+        "text": "Бергенские водопады"
+    },
+    "areas/bergen-trails.json/floors/2/maps/10/name": {
+        "orig": "Rising Path 4",
+        "text": "Восходящий путь 4"
+    },
+    "areas/bergen-trails.json/floors/2/maps/11/name": {
+        "orig": "Windy Climb",
+        "text": "Ветреный подъём"
+    },
+    "areas/bergen-trails.json/floors/2/maps/12/name": {
+        "orig": "Rising Path 5",
+        "text": "Восходящий путь 5"
+    },
+    "areas/bergen-trails.json/floors/2/maps/13/name": {
+        "orig": "Frozen Cave",
+        "text": "Замёрзшая пещера"
+    },
+    "areas/bergen-trails.json/floors/2/maps/14/name": {
+        "orig": "Hermit's House",
+        "text": "Дом отшельника"
+    },
+    "areas/bergen-trails.json/floors/2/maps/15/name": {
+        "orig": "Icy Cauldron",
+        "text": "Ледяной котлован"
+    },
+    "areas/bergen-trails.json/floors/2/maps/16/name": {
+        "orig": "Lofty Heights",
+        "text": "Возвышенные высоты"
+    },
+    "areas/bergen-trails.json/floors/2/maps/17/name": {
+        "orig": "Excluded Mountain Top",
+        "text": "Исключённая вершина горы"
+    },
+    "areas/bergen-trails.json/floors/2/maps/18/name": {
+        "orig": "Abandoned Ground",
+        "text": "Заброшенная земля"
+    },
+    "areas/bergen-trails.json/floors/2/maps/19/name": {
+        "orig": "Old Testing Ground",
+        "text": "Старая тестовая площадка"
+    },
+    "areas/bergen-trails.json/floors/2/maps/20/name": {
+        "orig": "Pengpeng's Den",
+        "text": "Логово Пинпинов"
+    },
+    "areas/bergen-trails.json/floors/2/maps/21/name": {
+        "orig": "Abandoned Cave ",
+        "text": "Заброшенная пещера"
+    }
+}

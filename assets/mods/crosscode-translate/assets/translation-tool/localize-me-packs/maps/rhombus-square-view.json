@@ -1,0 +1,130 @@
+{
+    "maps/rhombus-square-view.json/entities/9/settings/event/9/message": {
+        "orig": "Okay, where to start?",
+        "text": "Хорошо, с чего начать?"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/10/message": {
+        "orig": "How about:\\. Welcome to CrossWorlds!",
+        "text": "Как насчёт:\\. Добро пожаловать в CrossWorlds!"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/11/message": {
+        "orig": "...?",
+        "text": "...?"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/13/message": {
+        "orig": "One step at a time, Carla.",
+        "text": "Шаг за шагом, Карла."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/15/message": {
+        "orig": "Lea, do you remember the concept of an MMO?",
+        "text": "Лея, ты помнишь концепцию ММО?"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/16/0/0/message": {
+        "orig": "[nods]",
+        "text": "[кивает]"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/16/0/1/message": {
+        "orig": "Alright.",
+        "text": "Хорошо."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/16/1/0/message": {
+        "orig": "[shakes head]",
+        "text": "[мотает головой]"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/16/1/1/message": {
+        "orig": "Well, MMO stands for \"Massively Multiplayer Online\".",
+        "text": "Ну, ММО расшифровывается как \"Массовая многопользовательская онлайн-игра\"."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/16/1/2/message": {
+        "orig": "It is a term for video games that support a large number of players simultaneously.",
+        "text": "Это термин, означающий видеоигры, которые поддерживают большое количество игроков онлайн одновременно."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/16/1/3/message": {
+        "orig": "Usually, all these players are connected to a virtual environment from all around the world.",
+        "text": "Обычно все эти игроки со всего мира подключены к виртуальной среде."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/16/options/0/label": {
+        "orig": "[Yes]",
+        "text": "[Да]"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/16/options/1/label": {
+        "orig": "[No]",
+        "text": "[Нет]"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/17/message": {
+        "orig": "Now, CrossWorlds is like an MMO, just with one striking difference.",
+        "text": "Так вот, CrossWorlds похож на ММО, только с одним поразительным отличием."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/18/message": {
+        "orig": "The world of this game is not virtual.\\. It is real.",
+        "text": "Мир этой игры не виртуален.\\. Он реален."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/19/message": {
+        "orig": "All players are remotely connected to this world through special avatars.",
+        "text": "Все игроки дистанционно связаны с этим миром через специальных аватаров."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/20/message": {
+        "orig": "These avatars have a physical form and are tightly connected to all 5 senses of the player.",
+        "text": "Эти аватары имеют физическую форму и тесно связаны со всеми пятью чувствами игрока."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/21/message": {
+        "orig": "And you, Lea, are currently logged into this game as well.",
+        "text": "И ты, Лея, в настоящее время тоже подключена к игре."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/22/message": {
+        "orig": "...",
+        "text": "..."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/24/message": {
+        "orig": "...?",
+        "text": "...?"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/25/message": {
+        "orig": "Oh, me?\\. No, I'm not a player.\\. I just work here!",
+        "text": "Ах, я?\\. Нет, я не игрок.\\. Я просто здесь работаю!"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/26/message": {
+        "orig": "In fact, you're the only avatar on this whole ship.",
+        "text": "На самом деле, ты единственный аватар на всём корабле."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/28/message": {
+        "orig": "That is correct.\\. This cargo ship belongs to the maintenance staff of CrossWorlds.",
+        "text": "Всё верно.\\. Этот грузовой корабль принадлежит обслуживающему персоналу CrossWorlds."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/29/message": {
+        "orig": "The actual game takes place in the land you see over there - the Playground.",
+        "text": "Настоящая игра происходит на земле, которую ты видишь там - в игровой зоне."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/30/message": {
+        "orig": "The reason you are here, Lea, is because you are not a regular player.",
+        "text": "Причина, по которой ты здесь, Лея, в том, что ты не обычный игрок."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/31/message": {
+        "orig": "You have lost your memory and we are trying to recover it.",
+        "text": "Ты потеряла свою память, и мы пытаемся её восстановить."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/32/message": {
+        "orig": "...!",
+        "text": "...!"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/33/message": {
+        "orig": "You see, you have been in this game before.",
+        "text": "Видишь ли, ты была в этой игре раньше."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/34/message": {
+        "orig": "Being logged into this game, there is a chance you might remember your past.",
+        "text": "Будучи включённой в игру, у тебя есть шанс вспомнить своё прошлое."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/35/message": {
+        "orig": "And that is why we will try to get you into the real Playground soon.",
+        "text": "Именно поэтому мы постараемся доставить тебя прямо в игровую зону как можно скорее."
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/36/message": {
+        "orig": "Yeah, in fact you'll be going to that glass palace of a city over there!",
+        "text": "Ага, на самом деле, ты отправляешься прямо в тот стеклянный город-дворец!"
+    },
+    "maps/rhombus-square-view.json/entities/9/settings/event/42/message": {
+        "orig": "That's Rhombus Square. It's where all players start.",
+        "text": "Это Площадь Ромба. Место, откуда начинают все игроки."
+    }
+}

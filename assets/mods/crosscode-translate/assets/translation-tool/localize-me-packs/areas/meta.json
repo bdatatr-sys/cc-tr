@@ -1,0 +1,22 @@
+{
+    "areas/meta.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/meta.json/floors/0/maps/0/name": {
+        "orig": "Space",
+        "text": "Космос"
+    },
+    "areas/meta.json/floors/0/maps/1/name": {
+        "orig": "Developer Room",
+        "text": "Комната разработчиков"
+    },
+    "areas/meta.json/floors/0/maps/2/name": {
+        "orig": "The Test",
+        "text": "Тест"
+    },
+    "areas/meta.json/floors/0/maps/3/name": {
+        "orig": "Stress Test",
+        "text": "Стресс-тест"
+    }
+}

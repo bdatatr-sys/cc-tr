@@ -1,0 +1,14 @@
+{
+    "areas/testing-grounds.json/name": {
+        "orig": "Testing Ground",
+        "text": "Испытательная площадка"
+    },
+    "areas/testing-grounds.json/floors/0/name": {
+        "orig": "Base",
+        "text": "База"
+    },
+    "areas/testing-grounds.json/floors/0/maps/3/name": {
+        "orig": "Edgy Test Map",
+        "text": "Тестовая угловатая карта"
+    }
+}

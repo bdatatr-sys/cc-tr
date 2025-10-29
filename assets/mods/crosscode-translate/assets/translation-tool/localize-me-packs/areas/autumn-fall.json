@@ -1,0 +1,138 @@
+{
+    "areas/autumn-fall.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/autumn-fall.json/floors/0/maps/0/name": {
+        "orig": "Central Test Chamber",
+        "text": "Центральная тестовая камера"
+    },
+    "areas/autumn-fall.json/floors/0/maps/1/name": {
+        "orig": "Green Room",
+        "text": "Зелёная комната"
+    },
+    "areas/autumn-fall.json/floors/0/maps/2/name": {
+        "orig": "Red Room",
+        "text": "Красная комната"
+    },
+    "areas/autumn-fall.json/floors/0/maps/3/name": {
+        "orig": "Lead Office",
+        "text": "Главный офис"
+    },
+    "areas/autumn-fall.json/floors/1/maps/0/name": {
+        "orig": "Lake Cave 1",
+        "text": "Озёрная пещера 1"
+    },
+    "areas/autumn-fall.json/floors/1/maps/1/name": {
+        "orig": "Lake Cave 2",
+        "text": "Озёрная пещера 2"
+    },
+    "areas/autumn-fall.json/floors/1/maps/2/name": {
+        "orig": "Lake Cave 3",
+        "text": "Озёрная пещера 3"
+    },
+    "areas/autumn-fall.json/floors/1/maps/3/name": {
+        "orig": "Lake Cave 4",
+        "text": "Озёрная пещера 4"
+    },
+    "areas/autumn-fall.json/floors/1/maps/4/name": {
+        "orig": "Para Island Cave",
+        "text": "Пещера райского острова"
+    },
+    "areas/autumn-fall.json/floors/1/maps/5/name": {
+        "orig": "Para Island Cave",
+        "text": "Пещера райского острова"
+    },
+    "areas/autumn-fall.json/floors/1/maps/6/name": {
+        "orig": "AA Reception",
+        "text": "Приёмная"
+    },
+    "areas/autumn-fall.json/floors/1/maps/7/name": {
+        "orig": "Central Hub",
+        "text": "Центральный хаб"
+    },
+    "areas/autumn-fall.json/floors/1/maps/8/name": {
+        "orig": "Red Office",
+        "text": "Красный офис"
+    },
+    "areas/autumn-fall.json/floors/1/maps/9/name": {
+        "orig": "Green Office",
+        "text": "Зелёный офис"
+    },
+    "areas/autumn-fall.json/floors/2/maps/0/name": {
+        "orig": "Southern Exit",
+        "text": "Южный выход"
+    },
+    "areas/autumn-fall.json/floors/2/maps/1/name": {
+        "orig": "Ruined Path",
+        "text": "Разрушенный путь"
+    },
+    "areas/autumn-fall.json/floors/2/maps/2/name": {
+        "orig": "Eastern Exit",
+        "text": "Восточный выход"
+    },
+    "areas/autumn-fall.json/floors/2/maps/3/name": {
+        "orig": "Ancient Center",
+        "text": "Центр Древних"
+    },
+    "areas/autumn-fall.json/floors/2/maps/4/name": {
+        "orig": "Northern Exit",
+        "text": "Северный выход"
+    },
+    "areas/autumn-fall.json/floors/2/maps/5/name": {
+        "orig": "Pillar Isle",
+        "text": "Остров столбов"
+    },
+    "areas/autumn-fall.json/floors/2/maps/6/name": {
+        "orig": "Village Remains",
+        "text": "Руины деревни"
+    },
+    "areas/autumn-fall.json/floors/2/maps/7/name": {
+        "orig": "Secluded Path",
+        "text": "Укромная тропа"
+    },
+    "areas/autumn-fall.json/floors/2/maps/8/name": {
+        "orig": "Great Lake",
+        "text": "Великое озеро"
+    },
+    "areas/autumn-fall.json/floors/2/maps/9/name": {
+        "orig": "Villa of Terror",
+        "text": "Вилла ужаса"
+    },
+    "areas/autumn-fall.json/floors/2/maps/10/name": {
+        "orig": "Para Island 1",
+        "text": "Райский остров 1"
+    },
+    "areas/autumn-fall.json/floors/2/maps/11/name": {
+        "orig": "Para Island 2",
+        "text": "Райский остров 2"
+    },
+    "areas/autumn-fall.json/floors/2/maps/12/name": {
+        "orig": "Para Island 3",
+        "text": "Райский остров 3"
+    },
+    "areas/autumn-fall.json/floors/2/maps/13/name": {
+        "orig": "Densewater Caverns",
+        "text": "Пещеры густых вод"
+    },
+    "areas/autumn-fall.json/floors/2/maps/14/name": {
+        "orig": "Stomping Den",
+        "text": "Утоптанное логово"
+    },
+    "areas/autumn-fall.json/floors/2/maps/15/name": {
+        "orig": "Ruby Tunnel",
+        "text": "Рубиновый Тоннель"
+    },
+    "areas/autumn-fall.json/floors/2/maps/16/name": {
+        "orig": "Para Island Top",
+        "text": "Вершина Райского острова"
+    },
+    "areas/autumn-fall.json/floors/2/maps/17/name": {
+        "orig": "In the sky",
+        "text": "В небе"
+    },
+    "areas/autumn-fall.json/floors/2/maps/18/name": {
+        "orig": "Para Island Vista",
+        "text": "Аллея Райского острова"
+    }
+}

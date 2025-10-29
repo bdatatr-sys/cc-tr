@@ -1,0 +1,138 @@
+{
+    "areas/arid-dng-2.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/arid-dng-2.json/floors/0/name": {
+        "orig": "F0",
+        "text": "F0"
+    },
+    "areas/arid-dng-2.json/floors/0/maps/0/name": {
+        "orig": "Center Elevator GF",
+        "text": "Центральный лифт - Цокольный этаж"
+    },
+    "areas/arid-dng-2.json/floors/0/maps/1/name": {
+        "orig": "Entrance",
+        "text": "Вход"
+    },
+    "areas/arid-dng-2.json/floors/0/maps/2/name": {
+        "orig": "Elevator Shaft",
+        "text": "Шахта лифта"
+    },
+    "areas/arid-dng-2.json/floors/0/maps/3/name": {
+        "orig": "Elevator Shaft",
+        "text": "Шахта лифта"
+    },
+    "areas/arid-dng-2.json/floors/1/name": {
+        "orig": "F1",
+        "text": "F1"
+    },
+    "areas/arid-dng-2.json/floors/1/maps/0/name": {
+        "orig": "Center Elevator F1",
+        "text": "Центральный лифт - 1-й этаж"
+    },
+    "areas/arid-dng-2.json/floors/1/maps/1/name": {
+        "orig": "Blazing Storm",
+        "text": "Пылающая буря"
+    },
+    "areas/arid-dng-2.json/floors/1/maps/2/name": {
+        "orig": "Blazing Blizzard",
+        "text": "Пылающая метель"
+    },
+    "areas/arid-dng-2.json/floors/1/maps/3/name": {
+        "orig": "Blazing Challenge",
+        "text": "Пылающее испытание"
+    },
+    "areas/arid-dng-2.json/floors/1/maps/4/name": {
+        "orig": "Freezing Groove",
+        "text": "Морозная борозда"
+    },
+    "areas/arid-dng-2.json/floors/1/maps/5/name": {
+        "orig": "Freezing Storm",
+        "text": "Морозный шторм"
+    },
+    "areas/arid-dng-2.json/floors/1/maps/6/name": {
+        "orig": "Freezing Challenge",
+        "text": "Морозное испытание"
+    },
+    "areas/arid-dng-2.json/floors/2/name": {
+        "orig": "F2",
+        "text": "F2"
+    },
+    "areas/arid-dng-2.json/floors/2/maps/0/name": {
+        "orig": "Center Elevator F2",
+        "text": "Центральный лифт - 2-й этаж"
+    },
+    "areas/arid-dng-2.json/floors/2/maps/1/name": {
+        "orig": "Shocking Blizzard",
+        "text": "Шокирующая метель"
+    },
+    "areas/arid-dng-2.json/floors/2/maps/2/name": {
+        "orig": "Shocking Inferno",
+        "text": "Шокирующее инферно"
+    },
+    "areas/arid-dng-2.json/floors/2/maps/3/name": {
+        "orig": "Shocking Challenge",
+        "text": "Шокирующее испытание"
+    },
+    "areas/arid-dng-2.json/floors/2/maps/4/name": {
+        "orig": "Waving Flames",
+        "text": "Волнующее пламя"
+    },
+    "areas/arid-dng-2.json/floors/2/maps/5/name": {
+        "orig": "Waving Inferno",
+        "text": "Волнующее инферно"
+    },
+    "areas/arid-dng-2.json/floors/2/maps/6/name": {
+        "orig": "Waving Challenge",
+        "text": "Волнующее испытание"
+    },
+    "areas/arid-dng-2.json/floors/3/name": {
+        "orig": "F3",
+        "text": "F3"
+    },
+    "areas/arid-dng-2.json/floors/3/maps/0/name": {
+        "orig": "Center Elevator F3",
+        "text": "Центральный лифт - 3-й этаж"
+    },
+    "areas/arid-dng-2.json/floors/4/name": {
+        "orig": "F4",
+        "text": "F4"
+    },
+    "areas/arid-dng-2.json/floors/4/maps/0/name": {
+        "orig": "Center Elevator F4",
+        "text": "Центральный лифт - 4-й этаж"
+    },
+    "areas/arid-dng-2.json/floors/5/name": {
+        "orig": "Top",
+        "text": "Вершина"
+    },
+    "areas/arid-dng-2.json/floors/5/maps/0/name": {
+        "orig": "Center Elevator F??",
+        "text": "Центральный лифт - ?? этаж"
+    },
+    "areas/arid-dng-2.json/floors/5/maps/1/name": {
+        "orig": "The Final Arena",
+        "text": "Финальная арена"
+    },
+    "areas/arid-dng-2.json/floors/5/maps/2/name": {
+        "orig": "The Ultimate Experience",
+        "text": "Незабываемый опыт"
+    },
+    "areas/arid-dng-2.json/floors/5/maps/3/name": {
+        "orig": "???",
+        "text": "???"
+    },
+    "areas/arid-dng-2.json/floors/5/maps/4/name": {
+        "orig": "Server Room Entrance",
+        "text": "Серверная комната - Вход"
+    },
+    "areas/arid-dng-2.json/floors/5/maps/5/name": {
+        "orig": "Server Room",
+        "text": "Серверная комната"
+    },
+    "areas/arid-dng-2.json/floors/5/handle": {
+        "orig": "F??",
+        "text": "F??"
+    }
+}

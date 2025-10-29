@@ -1,0 +1,114 @@
+{
+    "arena/rookie-team-cup.json/core/name": {
+        "orig": "Rookie Team Cup",
+        "text": "Командный кубок новичка"
+    },
+    "arena/rookie-team-cup.json/core/info": {
+        "orig": "A team cup suited best for all newcomers to the Rhombus Arena.",
+        "text": "Командный кубок, подходящий для всех новичков на Арене Ромба."
+    },
+    "arena/rookie-team-cup.json/core/creator": {
+        "orig": "R.D.",
+        "text": "R.D."
+    },
+    "arena/rookie-team-cup.json/rounds/0/name": {
+        "orig": "Afternoon Attackers",
+        "text": "Дневные нападающие"
+    },
+    "arena/rookie-team-cup.json/rounds/0/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.autumn-area.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Расцвета Осени\\c[0]!"
+    },
+    "arena/rookie-team-cup.json/rounds/1/name": {
+        "orig": "Afternoon Adversaries",
+        "text": "Лунные противники"
+    },
+    "arena/rookie-team-cup.json/rounds/1/objective": {
+        "orig": "Defeat stronger enemies hailing from \\c[3]\\v[area.autumn-area.name]\\c[0]!",
+        "text": "Победите усиленных врагов из \\c[3]Расцвета Осени\\c[0]!"
+    },
+    "arena/rookie-team-cup.json/rounds/2/name": {
+        "orig": "Cool Contenders",
+        "text": "Хладнокровные cоперники"
+    },
+    "arena/rookie-team-cup.json/rounds/2/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.bergen-trails.name]\\c[0]!",
+        "text": "Победите врагов с \\c[3]Тропы в Берген\\c[0]!"
+    },
+    "arena/rookie-team-cup.json/rounds/2/featuring/0": {
+        "orig": "Some Old Dudes",
+        "text": "Старые знакомые"
+    },
+    "arena/rookie-team-cup.json/rounds/3/name": {
+        "orig": "Chilly Challengers",
+        "text": "Прохладные претенденты"
+    },
+    "arena/rookie-team-cup.json/rounds/3/objective": {
+        "orig": "Defeat stronger enemies hailing from \\c[3]\\v[area.bergen-trails.name]\\c[0]!",
+        "text": "Победите усиленных врагов с \\c[3]Тропы в Берген\\c[0]!"
+    },
+    "arena/rookie-team-cup.json/rounds/3/featuring/0": {
+        "orig": "Some Old Dudes",
+        "text": "Старые знакомые"
+    },
+    "arena/rookie-team-cup.json/rounds/4/name": {
+        "orig": "Desert Devils",
+        "text": "Пустынные дьяволы"
+    },
+    "arena/rookie-team-cup.json/rounds/4/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.heat-area.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Бордовой долины\\c[0]!"
+    },
+    "arena/rookie-team-cup.json/rounds/4/featuring/0": {
+        "orig": "Some Old Dudes",
+        "text": "Старые знакомые"
+    },
+    "arena/rookie-team-cup.json/rounds/5/name": {
+        "orig": "Bulky Bullies",
+        "text": "Грозные бычки"
+    },
+    "arena/rookie-team-cup.json/rounds/5/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.autumn-fall.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Заката Осени\\c[0]!"
+    },
+    "arena/rookie-team-cup.json/rounds/5/featuring/0": {
+        "orig": "Some Old Dudes",
+        "text": "Старые знакомые"
+    },
+    "arena/rookie-team-cup.json/rounds/6/name": {
+        "orig": "Forest Foes",
+        "text": "Лесные недруги"
+    },
+    "arena/rookie-team-cup.json/rounds/6/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.jungle.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Сада Гайи\\c[0]!"
+    },
+    "arena/rookie-team-cup.json/rounds/6/featuring/0": {
+        "orig": "Some Old Dudes",
+        "text": "Старые знакомые"
+    },
+    "arena/rookie-team-cup.json/rounds/7/name": {
+        "orig": "Forest Fiends",
+        "text": "Лесные друзья"
+    },
+    "arena/rookie-team-cup.json/rounds/7/objective": {
+        "orig": "Defeat more enemies hailing from \\c[3]\\v[area.jungle.name]\\c[0]!",
+        "text": "Победите ещё врагов из \\c[3]Сада Гайи\\c[0]!"
+    },
+    "arena/rookie-team-cup.json/rounds/7/featuring/0": {
+        "orig": "Some Old Dudes",
+        "text": "Старые знакомые"
+    },
+    "arena/rookie-team-cup.json/rounds/8/name": {
+        "orig": "Ridge Rivals",
+        "text": "Соперники края"
+    },
+    "arena/rookie-team-cup.json/rounds/8/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.forest.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Сапфирового края\\c[0]!"
+    },
+    "arena/rookie-team-cup.json/rounds/8/featuring/0": {
+        "orig": "Some Old Dudes",
+        "text": "Старые знакомые"
+    }
+}

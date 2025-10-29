@@ -1,0 +1,258 @@
+{
+    "areas/final-dng.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/final-dng.json/floors/0/maps/0/name": {
+        "orig": "The Fall",
+        "text": "Падение"
+    },
+    "areas/final-dng.json/floors/0/maps/1/name": {
+        "orig": "The Path",
+        "text": "Путь"
+    },
+    "areas/final-dng.json/floors/0/maps/2/name": {
+        "orig": "The Rise",
+        "text": "Подъём"
+    },
+    "areas/final-dng.json/floors/0/maps/3/name": {
+        "orig": "The Last Trial",
+        "text": "Последнее испытание"
+    },
+    "areas/final-dng.json/floors/1/maps/0/name": {
+        "orig": "The Fall",
+        "text": "Падение"
+    },
+    "areas/final-dng.json/floors/2/maps/0/name": {
+        "orig": "The Fall",
+        "text": "Падение"
+    },
+    "areas/final-dng.json/floors/3/maps/0/name": {
+        "orig": "The Fall",
+        "text": "Падение"
+    },
+    "areas/final-dng.json/floors/4/maps/0/name": {
+        "orig": "Elevator B4",
+        "text": "Лифт B4"
+    },
+    "areas/final-dng.json/floors/4/maps/1/name": {
+        "orig": "The Fall",
+        "text": "Падение"
+    },
+    "areas/final-dng.json/floors/5/maps/0/name": {
+        "orig": "Elevator B3",
+        "text": "Лифт B3"
+    },
+    "areas/final-dng.json/floors/5/maps/1/name": {
+        "orig": "Bridge B3",
+        "text": "Мост В3"
+    },
+    "areas/final-dng.json/floors/5/maps/2/name": {
+        "orig": "Eastern Path",
+        "text": "Восточный путь"
+    },
+    "areas/final-dng.json/floors/5/maps/3/name": {
+        "orig": "Load Barring Pillars",
+        "text": "Несущие колонны"
+    },
+    "areas/final-dng.json/floors/5/maps/4/name": {
+        "orig": "Western Path",
+        "text": "Западный путь"
+    },
+    "areas/final-dng.json/floors/6/maps/0/name": {
+        "orig": "Elevator B2",
+        "text": "Лифт B2"
+    },
+    "areas/final-dng.json/floors/6/maps/1/name": {
+        "orig": "Bridge B2",
+        "text": "Мост B2"
+    },
+    "areas/final-dng.json/floors/6/maps/2/name": {
+        "orig": "Bridge Building",
+        "text": "Соединение мостов"
+    },
+    "areas/final-dng.json/floors/6/maps/3/name": {
+        "orig": "South Bridge",
+        "text": "Южный мост"
+    },
+    "areas/final-dng.json/floors/6/maps/4/name": {
+        "orig": "Careful Transport",
+        "text": "Осторожная транспортировка"
+    },
+    "areas/final-dng.json/floors/6/maps/5/name": {
+        "orig": "Looping Circuit",
+        "text": "Кольцевая схема"
+    },
+    "areas/final-dng.json/floors/6/maps/6/name": {
+        "orig": "Pillar Chamber",
+        "text": "Комната столбов"
+    },
+    "areas/final-dng.json/floors/6/maps/7/name": {
+        "orig": "Iceless Sliding",
+        "text": "Скольжение без льда"
+    },
+    "areas/final-dng.json/floors/6/maps/8/name": {
+        "orig": "Shard Trial East",
+        "text": "Восточное испытание обломков"
+    },
+    "areas/final-dng.json/floors/6/maps/9/name": {
+        "orig": "Wall Bomb",
+        "text": "Взрывная стена"
+    },
+    "areas/final-dng.json/floors/6/maps/10/name": {
+        "orig": "Guardian of Peace",
+        "text": "Страж мира"
+    },
+    "areas/final-dng.json/floors/6/maps/11/name": {
+        "orig": "Connector Chamber",
+        "text": "Соединительная комната"
+    },
+    "areas/final-dng.json/floors/6/maps/12/name": {
+        "orig": "North Bridge",
+        "text": "Северный мост"
+    },
+    "areas/final-dng.json/floors/6/maps/13/name": {
+        "orig": "Cold Solutions",
+        "text": "Прохладные решения"
+    },
+    "areas/final-dng.json/floors/6/maps/14/name": {
+        "orig": "Birds of Prey",
+        "text": "Хищные птицы"
+    },
+    "areas/final-dng.json/floors/6/maps/15/name": {
+        "orig": "Chasm Roundtrip",
+        "text": "Круг над пропастью"
+    },
+    "areas/final-dng.json/floors/6/maps/16/name": {
+        "orig": "Wave Stacks",
+        "text": "Волновые стопки"
+    },
+    "areas/final-dng.json/floors/6/maps/17/name": {
+        "orig": "Shard Trial West",
+        "text": "Западное испытание обломков"
+    },
+    "areas/final-dng.json/floors/6/maps/18/name": {
+        "orig": "Red Herrings",
+        "text": "Красная сельдь"
+    },
+    "areas/final-dng.json/floors/6/maps/19/name": {
+        "orig": "Guardian of Strife",
+        "text": "Страж раздора"
+    },
+    "areas/final-dng.json/floors/7/maps/0/name": {
+        "orig": "Elevator B1",
+        "text": "Лифт В1"
+    },
+    "areas/final-dng.json/floors/7/maps/1/name": {
+        "orig": "The Monk",
+        "text": "Монах"
+    },
+    "areas/final-dng.json/floors/8/maps/0/name": {
+        "orig": "Entrance",
+        "text": "Вход"
+    },
+    "areas/final-dng.json/floors/8/maps/1/name": {
+        "orig": "Entry Trial",
+        "text": "Вступительное испытание"
+    },
+    "areas/final-dng.json/floors/8/maps/2/name": {
+        "orig": "Shock Recall",
+        "text": "Шоковое напоминание"
+    },
+    "areas/final-dng.json/floors/8/maps/3/name": {
+        "orig": "Floating Element",
+        "text": "Парящий элемент"
+    },
+    "areas/final-dng.json/floors/8/maps/4/name": {
+        "orig": "Guardian of Old",
+        "text": "Страж старого"
+    },
+    "areas/final-dng.json/floors/8/maps/5/name": {
+        "orig": "Comet Trail",
+        "text": "След кометы"
+    },
+    "areas/final-dng.json/floors/8/maps/6/name": {
+        "orig": "Outlook",
+        "text": "Точка обзора"
+    },
+    "areas/final-dng.json/floors/8/maps/7/name": {
+        "orig": "Longleg Vale",
+        "text": "Длинноногая долина"
+    },
+    "areas/final-dng.json/floors/8/maps/8/name": {
+        "orig": "Cracked Pillars",
+        "text": "Треснувшие столбы"
+    },
+    "areas/final-dng.json/floors/8/maps/9/name": {
+        "orig": "Crystal Den",
+        "text": "Кристальное логово"
+    },
+    "areas/final-dng.json/floors/8/maps/10/name": {
+        "orig": "Water Grave",
+        "text": "Водяная могила"
+    },
+    "areas/final-dng.json/floors/8/maps/11/name": {
+        "orig": "Passing of Heat",
+        "text": "Преодоление Пламени"
+    },
+    "areas/final-dng.json/floors/8/maps/12/name": {
+        "orig": "Heat Carry",
+        "text": "Эстафета Пламени"
+    },
+    "areas/final-dng.json/floors/8/maps/13/name": {
+        "orig": "Passing of Wave",
+        "text": "Преодоление Волны"
+    },
+    "areas/final-dng.json/floors/8/maps/14/name": {
+        "orig": "Wave Carry",
+        "text": "Эстафета Волны"
+    },
+    "areas/final-dng.json/floors/8/maps/15/name": {
+        "orig": "Waving Flame",
+        "text": "Волновое пламя"
+    },
+    "areas/final-dng.json/floors/8/maps/16/name": {
+        "orig": "Bomb Teleport",
+        "text": "Телепортация бомбы"
+    },
+    "areas/final-dng.json/floors/8/maps/17/name": {
+        "orig": "Guardian of Ice",
+        "text": "Страж льда"
+    },
+    "areas/final-dng.json/floors/8/maps/18/name": {
+        "orig": "Cold Storm",
+        "text": "Холодный шторм"
+    },
+    "areas/final-dng.json/floors/8/maps/19/name": {
+        "orig": "Shock Bubble ",
+        "text": "Шоковый пузырь"
+    },
+    "areas/final-dng.json/floors/8/maps/20/name": {
+        "orig": "Guardian of Flame",
+        "text": "Страж пламени"
+    },
+    "areas/final-dng.json/floors/8/maps/21/name": {
+        "orig": "Central Bridge",
+        "text": "Центральный мост"
+    },
+    "areas/final-dng.json/floors/8/maps/22/name": {
+        "orig": "Passing of Shock",
+        "text": "Преодоление Шока"
+    },
+    "areas/final-dng.json/floors/8/maps/23/name": {
+        "orig": "Shock Carry",
+        "text": "Эстафета Шока"
+    },
+    "areas/final-dng.json/floors/8/maps/24/name": {
+        "orig": "Passing of Cold",
+        "text": "Преодоление Холода"
+    },
+    "areas/final-dng.json/floors/8/maps/25/name": {
+        "orig": "Cold Carry",
+        "text": "Эстафета Холода"
+    },
+    "areas/final-dng.json/floors/8/maps/26/name": {
+        "orig": "Elevator G",
+        "text": "Лифт G"
+    }
+}

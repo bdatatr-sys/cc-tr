@@ -1,0 +1,31 @@
+{
+  "id": "crosscode-translate",
+  "version": "0.0.1",
+  "license": "(MIT AND CC-BY-4.0)",
+  "description": {
+    "en_US": "Ukrainian translation for CrossCode"
+  },
+  "homepage": "",
+  "icons": {
+    "24": "icon24.png"
+  },
+  "main": "dist/main.js",
+  "plugin": "dist/main.js",
+  "postload": "dist/postload.js",
+  "poststart": "dist/poststart.js",
+  "dependencies": {
+    "crosscode": "~1.4.1",
+    "localize-me": "^1.0.0",
+    "ultimate-localized-ui": "^1.2.0"
+  },
+  "assets": [
+    "media/font/uk_UA/flag.png",
+    "media/font/uk_UA/hall-fetica-bold.png",
+    "media/font/uk_UA/hall-fetica-small.png",
+    "media/font/uk_UA/myska/hall-fetica-bold.png",
+    "media/font/uk_UA/myska/hall-fetica-small.png",
+    "media/font/uk_UA/myska/tiny.png",
+    "media/font/uk_UA/tiny.png",
+    "media/gui/menu.uk_UA.png"
+  ]
+}

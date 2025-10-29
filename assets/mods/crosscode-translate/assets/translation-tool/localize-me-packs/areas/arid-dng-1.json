@@ -1,0 +1,62 @@
+{
+    "areas/arid-dng-1.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/arid-dng-1.json/floors/0/name": {
+        "orig": "G",
+        "text": "G"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/0/name": {
+        "orig": "Entry Test",
+        "text": "Вступительный тест"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/1/name": {
+        "orig": "Pit of Time",
+        "text": "Яма времени"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/2/name": {
+        "orig": "Infected Room",
+        "text": "Заражённое место"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/3/name": {
+        "orig": "Bombs and Ice",
+        "text": "Бомбы и лёд"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/4/name": {
+        "orig": "Shocking Revelation",
+        "text": "Шокирующее откровение"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/5/name": {
+        "orig": "Winter Infection",
+        "text": "Зимняя инфекция"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/6/name": {
+        "orig": "ERROR 404",
+        "text": "ОШИБКА 404"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/7/name": {
+        "orig": "???",
+        "text": "???"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/8/name": {
+        "orig": "???",
+        "text": "???"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/9/name": {
+        "orig": "Chasing Rabbits",
+        "text": "Преследуя кроликов"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/10/name": {
+        "orig": "Bomb Switch",
+        "text": "Переключатель бомбы"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/11/name": {
+        "orig": "Testing Grounds",
+        "text": "Тестовые площадки"
+    },
+    "areas/arid-dng-1.json/floors/0/maps/12/name": {
+        "orig": "INVALID INSTANCE",
+        "text": "НЕДОПУСТИМАЯ КОМНАТА"
+    }
+}

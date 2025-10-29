@@ -1,0 +1,94 @@
+{
+    "maps/test-ferro.json/entities/0/settings/npcStates/1/event/1/message": {
+        "orig": "There you are.",
+        "text": "There you are."
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/1/event/3/message": {
+        "orig": "...",
+        "text": "..."
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/1/event/5/message": {
+        "orig": "You don't really seem happy to see me.",
+        "text": "You don't really seem happy to see me."
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/1/event/10/message": {
+        "orig": "...",
+        "text": "..."
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/1/event/11/task": {
+        "orig": "Keep following her!",
+        "text": "Keep following her!"
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/2/event/1/message": {
+        "orig": "Huh, nice view from here, don't you think?",
+        "text": "Huh, nice view from here, don't you think?"
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/2/event/6/message": {
+        "orig": "...Yeah, didn't think so either, really!",
+        "text": "...Yeah, didn't think so either, really!"
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/2/event/7/task": {
+        "orig": "Follow her! She is probably just shy!",
+        "text": "Follow her! She is probably just shy!"
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/3/event/1/message": {
+        "orig": "Do you have fun running in circles?",
+        "text": "Do you have fun running in circles?"
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/3/event/2/message": {
+        "orig": "It sure looks like fun...",
+        "text": "It sure looks like fun..."
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/3/event/3/message": {
+        "orig": "... Do you mind if I... join you?",
+        "text": "... Do you mind if I... join you?"
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/3/event/8/message": {
+        "orig": "...Hey, you really start hurting my feelings here!",
+        "text": "...Hey, you really start hurting my feelings here!"
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/3/event/9/task": {
+        "orig": "She probably just likes to stand on containers! Follow her!",
+        "text": "She probably just likes to stand on containers! Follow her!"
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/4/event/1/message": {
+        "orig": "Is there something wrong with me?",
+        "text": "Is there something wrong with me?"
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/4/event/3/message": {
+        "orig": "Why do you avoid me like that?",
+        "text": "Why do you avoid me like that?"
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/4/event/5/task": {
+        "orig": "She tries to escape! Quick! Follow her!",
+        "text": "She tries to escape! Quick! Follow her!"
+    },
+    "maps/test-ferro.json/entities/0/settings/npcStates/5/event/1/message": {
+        "orig": "Hey, wait for me!",
+        "text": "Hey, wait for me!"
+    },
+    "maps/test-ferro.json/entities/18/settings/npcStates/0/event/2/message": {
+        "orig": "Come on, let's switch!",
+        "text": "Ну же, давай поменяемся!"
+    },
+    "maps/test-ferro.json/entities/18/settings/npcStates/0/event/3/message": {
+        "orig": "[nods]",
+        "text": "[кивает]"
+    },
+    "maps/test-ferro.json/entities/19/settings/npcStates/1/event/2/message": {
+        "orig": "...",
+        "text": "..."
+    },
+    "maps/test-ferro.json/entities/19/settings/npcStates/1/event/3/message": {
+        "orig": "You want to switch, again?",
+        "text": "Ты хочешь поменяться, снова?"
+    },
+    "maps/test-ferro.json/entities/19/settings/npcStates/1/event/4/message": {
+        "orig": "[nods]",
+        "text": "[кивает]"
+    },
+    "maps/test-ferro.json/entities/19/settings/npcStates/1/event/5/message": {
+        "orig": "Well, fine.",
+        "text": "Well, fine."
+    }
+}

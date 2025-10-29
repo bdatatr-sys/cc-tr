@@ -1,0 +1,202 @@
+{
+    "areas/forest.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/forest.json/floors/0/maps/0/name": {
+        "orig": "Facility X Entrance",
+        "text": "Вход в Комплекс Х"
+    },
+    "areas/forest.json/floors/0/maps/1/name": {
+        "orig": "Happy Place",
+        "text": "Счастливое место"
+    },
+    "areas/forest.json/floors/0/maps/2/name": {
+        "orig": "Stronger Together",
+        "text": "Вместе сильнее"
+    },
+    "areas/forest.json/floors/1/maps/0/name": {
+        "orig": "Sapphire Tunnel",
+        "text": "Сапфировый тоннель"
+    },
+    "areas/forest.json/floors/1/maps/1/name": {
+        "orig": "Western Exit",
+        "text": "Западный выход"
+    },
+    "areas/forest.json/floors/1/maps/2/name": {
+        "orig": "North West Path",
+        "text": "Северо-западный путь"
+    },
+    "areas/forest.json/floors/1/maps/3/name": {
+        "orig": "River Road",
+        "text": "Речная дорога"
+    },
+    "areas/forest.json/floors/1/maps/4/name": {
+        "orig": "The Cave Inn",
+        "text": "Пещерный трактир"
+    },
+    "areas/forest.json/floors/1/maps/5/name": {
+        "orig": "Bamboo Thicket",
+        "text": "Бамбуковая чаща"
+    },
+    "areas/forest.json/floors/1/maps/6/name": {
+        "orig": "North East Path",
+        "text": "Северо-восточный путь"
+    },
+    "areas/forest.json/floors/1/maps/7/name": {
+        "orig": "Spider Chasm",
+        "text": "Паучья бездна"
+    },
+    "areas/forest.json/floors/1/maps/8/name": {
+        "orig": "Eroded Passage",
+        "text": "Разъеденный проход"
+    },
+    "areas/forest.json/floors/1/maps/9/name": {
+        "orig": "Flower Lake",
+        "text": "Цветочное озеро"
+    },
+    "areas/forest.json/floors/1/maps/10/name": {
+        "orig": "Carved Pathway",
+        "text": "Резная тропа"
+    },
+    "areas/forest.json/floors/1/maps/11/name": {
+        "orig": "Narrow Passage",
+        "text": "Узкий проход"
+    },
+    "areas/forest.json/floors/1/maps/12/name": {
+        "orig": "Henry's Hideout",
+        "text": "Убежище Генри"
+    },
+    "areas/forest.json/floors/1/maps/13/name": {
+        "orig": "Wheel Passage",
+        "text": "Колёсный проход"
+    },
+    "areas/forest.json/floors/1/maps/14/name": {
+        "orig": "High Ground",
+        "text": "Возвышенность"
+    },
+    "areas/forest.json/floors/1/maps/15/name": {
+        "orig": "Old Dojo",
+        "text": "Старое додзё"
+    },
+    "areas/forest.json/floors/1/maps/16/name": {
+        "orig": "Cave Inn EG",
+        "text": "Пещерный трактир - Вход"
+    },
+    "areas/forest.json/floors/1/maps/17/name": {
+        "orig": "Cave Inn Mall",
+        "text": "Пещерный трактир - Торговый центр"
+    },
+    "areas/forest.json/floors/1/maps/18/name": {
+        "orig": "Cave Inn Store",
+        "text": "Пещерный трактир - Магазин"
+    },
+    "areas/forest.json/floors/1/maps/19/name": {
+        "orig": "Cave Inn Storage",
+        "text": "Пещерный трактир - Склад"
+    },
+    "areas/forest.json/floors/1/maps/20/name": {
+        "orig": "Tranquil Bamboo",
+        "text": "Спокойный бамбук"
+    },
+    "areas/forest.json/floors/1/maps/21/name": {
+        "orig": "Nesting Grounds",
+        "text": "Гнездовье"
+    },
+    "areas/forest.json/floors/1/maps/22/name": {
+        "orig": "Path to Peace",
+        "text": "Путь к миру"
+    },
+    "areas/forest.json/floors/1/maps/23/name": {
+        "orig": "Cave Waterfall",
+        "text": "Пещера водопадов"
+    },
+    "areas/forest.json/floors/1/maps/24/name": {
+        "orig": "Waterfall Backyard",
+        "text": "За водопадом"
+    },
+    "areas/forest.json/floors/1/maps/25/name": {
+        "orig": "Old Dojo",
+        "text": "Старое додзё"
+    },
+    "areas/forest.json/floors/1/maps/26/name": {
+        "orig": "Dojo Tunnel",
+        "text": "Тоннель додзё"
+    },
+    "areas/forest.json/floors/1/maps/27/name": {
+        "orig": "Dream Pond",
+        "text": "Пруд грёз"
+    },
+    "areas/forest.json/floors/1/maps/28/name": {
+        "orig": "Meteor Cave",
+        "text": "Метеоритная пещера"
+    },
+    "areas/forest.json/floors/1/maps/29/name": {
+        "orig": "Hidden Entrance",
+        "text": "Скрытый проход"
+    },
+    "areas/forest.json/floors/1/maps/30/name": {
+        "orig": "Hidden Tunnel West",
+        "text": "Скрытый тоннель - Запад"
+    },
+    "areas/forest.json/floors/1/maps/31/name": {
+        "orig": "Hidden Tunnel Center",
+        "text": "Скрытый тоннель - Центр"
+    },
+    "areas/forest.json/floors/1/maps/32/name": {
+        "orig": "Hidden Tunnel East",
+        "text": "Скрытый тоннель - Восток"
+    },
+    "areas/forest.json/floors/1/maps/33/name": {
+        "orig": "Ascension Temple",
+        "text": "Храм вознесения"
+    },
+    "areas/forest.json/floors/1/maps/34/name": {
+        "orig": "Baton Pond",
+        "text": "Палочный пруд"
+    },
+    "areas/forest.json/floors/1/maps/35/name": {
+        "orig": "The Barracks",
+        "text": "Казармы"
+    },
+    "areas/forest.json/floors/1/maps/36/name": {
+        "orig": "The Bellow",
+        "text": "Беллоу"
+    },
+    "areas/forest.json/floors/1/maps/37/name": {
+        "orig": "The Rise",
+        "text": "Подъём"
+    },
+    "areas/forest.json/floors/2/name": {
+        "orig": "OG",
+        "text": "OG"
+    },
+    "areas/forest.json/floors/2/maps/0/name": {
+        "orig": "Cave Inn 1F",
+        "text": "Пещерный трактир 1-й этаж"
+    },
+    "areas/forest.json/floors/2/maps/1/name": {
+        "orig": "The Cave Inn",
+        "text": "Пещерный трактир"
+    },
+    "areas/forest.json/floors/2/maps/2/name": {
+        "orig": "The Cave Inn",
+        "text": "Пещерный трактир"
+    },
+    "areas/forest.json/floors/2/maps/3/name": {
+        "orig": "The Cave Inn",
+        "text": "Пещерный трактир"
+    },
+    "areas/forest.json/floors/3/name": {
+        "orig": "OG",
+        "text": "OG"
+    },
+    "areas/forest.json/floors/3/maps/0/name": {
+        "orig": "Owner's Room",
+        "text": "Комната владельца"
+    },
+    "areas/forest.json/floors/3/maps/1/name": {
+        "orig": "The Cave Inn",
+        "text": "Пещерный трактир"
+    }
+}

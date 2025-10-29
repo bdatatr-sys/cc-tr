@@ -1,0 +1,238 @@
+{
+    "areas/jungle.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/jungle.json/floors/0/maps/0/name": {
+        "orig": "MM Entrance",
+        "text": "Вход в ММ"
+    },
+    "areas/jungle.json/floors/0/maps/1/name": {
+        "orig": "Metal Room",
+        "text": "Металлическая комната"
+    },
+    "areas/jungle.json/floors/0/maps/2/name": {
+        "orig": "Octo Office",
+        "text": "Офис Окто"
+    },
+    "areas/jungle.json/floors/0/maps/3/name": {
+        "orig": "Test Chamber",
+        "text": "Зал испытания"
+    },
+    "areas/jungle.json/floors/1/maps/0/name": {
+        "orig": "Agile Test Chamber",
+        "text": "Зал теста подвижности"
+    },
+    "areas/jungle.json/floors/1/maps/1/name": {
+        "orig": "Hand Office",
+        "text": "Главный офис"
+    },
+    "areas/jungle.json/floors/1/maps/2/name": {
+        "orig": "Big Boss",
+        "text": "Большой босс"
+    },
+    "areas/jungle.json/floors/1/maps/3/name": {
+        "orig": "Lead Office",
+        "text": "Главное управление"
+    },
+    "areas/jungle.json/floors/1/maps/4/name": {
+        "orig": "Lost Power Room",
+        "text": "Потерянная комната энергии"
+    },
+    "areas/jungle.json/floors/2/maps/0/name": {
+        "orig": "Infested Cavern Entrance",
+        "text": "Вход в Заражённую пещеру"
+    },
+    "areas/jungle.json/floors/2/maps/1/name": {
+        "orig": "Infested Cavern Maze",
+        "text": "Заражённый пещерный лабиринт"
+    },
+    "areas/jungle.json/floors/2/maps/2/name": {
+        "orig": "Sacred Pond",
+        "text": "Священный пруд"
+    },
+    "areas/jungle.json/floors/2/maps/3/name": {
+        "orig": "Grubby Cave",
+        "text": "Грязная пещера"
+    },
+    "areas/jungle.json/floors/2/maps/4/name": {
+        "orig": "Lost Puzzle Room",
+        "text": "Потерянная комната загадки"
+    },
+    "areas/jungle.json/floors/2/maps/5/name": {
+        "orig": "Chilled Den",
+        "text": "Охлаждённое логово"
+    },
+    "areas/jungle.json/floors/2/maps/6/name": {
+        "orig": "Frozen Lair",
+        "text": "Замёрзшее логово"
+    },
+    "areas/jungle.json/floors/2/maps/7/name": {
+        "orig": "Temple of Innovation",
+        "text": "Храм инновации"
+    },
+    "areas/jungle.json/floors/3/maps/0/name": {
+        "orig": "Jungle Entrance",
+        "text": "Вход в джунгли"
+    },
+    "areas/jungle.json/floors/3/maps/1/name": {
+        "orig": "Crossroad",
+        "text": "Перекрёсток"
+    },
+    "areas/jungle.json/floors/3/maps/2/name": {
+        "orig": "Overgrown Path",
+        "text": "Заросший путь"
+    },
+    "areas/jungle.json/floors/3/maps/3/name": {
+        "orig": "Drizzle Bosk",
+        "text": "Моросящая чаща"
+    },
+    "areas/jungle.json/floors/3/maps/4/name": {
+        "orig": "Wet Passage",
+        "text": "Мокрый проход"
+    },
+    "areas/jungle.json/floors/3/maps/5/name": {
+        "orig": "Covert Path",
+        "text": "Скрытый путь"
+    },
+    "areas/jungle.json/floors/3/maps/6/name": {
+        "orig": "Royal Grove",
+        "text": "Королевская роща"
+    },
+    "areas/jungle.json/floors/3/maps/7/name": {
+        "orig": "Calm Backyard",
+        "text": "Спокойные задворки"
+    },
+    "areas/jungle.json/floors/3/maps/8/name": {
+        "orig": "River's Bed",
+        "text": "Русло реки"
+    },
+    "areas/jungle.json/floors/3/maps/9/name": {
+        "orig": "Splitting Stumps",
+        "text": "Расколотые пни"
+    },
+    "areas/jungle.json/floors/3/maps/10/name": {
+        "orig": "V'rda Vil West",
+        "text": "Западный В'рда Виль"
+    },
+    "areas/jungle.json/floors/3/maps/11/name": {
+        "orig": "V'rda Vil East",
+        "text": "Восточный В'рда Виль"
+    },
+    "areas/jungle.json/floors/3/maps/12/name": {
+        "orig": "V'rda Vil North",
+        "text": "Северный В'рда Виль"
+    },
+    "areas/jungle.json/floors/3/maps/13/name": {
+        "orig": "Chief's Den",
+        "text": "Главное логово"
+    },
+    "areas/jungle.json/floors/3/maps/14/name": {
+        "orig": "Clinging River",
+        "text": "Цепкая река"
+    },
+    "areas/jungle.json/floors/3/maps/15/name": {
+        "orig": "Ringing River",
+        "text": "Звенящая река"
+    },
+    "areas/jungle.json/floors/3/maps/16/name": {
+        "orig": "Old Timber",
+        "text": "Бывшая лесозаготовка"
+    },
+    "areas/jungle.json/floors/3/maps/17/name": {
+        "orig": "Tying Greens",
+        "text": "Опутывающая зелень"
+    },
+    "areas/jungle.json/floors/3/maps/18/name": {
+        "orig": "Peridot Approach",
+        "text": "Хризолитовый подход"
+    },
+    "areas/jungle.json/floors/3/maps/19/name": {
+        "orig": "Lost Lookout",
+        "text": "Потерянный дозор"
+    },
+    "areas/jungle.json/floors/3/maps/20/name": {
+        "orig": "Seared Lake",
+        "text": "Опалённое озеро"
+    },
+    "areas/jungle.json/floors/3/maps/21/name": {
+        "orig": "Infested Marshes South",
+        "text": "Южное заражённое болото"
+    },
+    "areas/jungle.json/floors/3/maps/22/name": {
+        "orig": "Infested Marshes North",
+        "text": "Северное заражённое болото"
+    },
+    "areas/jungle.json/floors/3/maps/23/name": {
+        "orig": "Foul Cavity",
+        "text": "Грязная впадина"
+    },
+    "areas/jungle.json/floors/3/maps/24/name": {
+        "orig": "Rite of Passage",
+        "text": "Обряд посвящения"
+    },
+    "areas/jungle.json/floors/3/maps/25/name": {
+        "orig": "Zir'vitar Temple Entrance",
+        "text": "Вход в Храм Зир'витар"
+    },
+    "areas/jungle.json/floors/3/maps/26/name": {
+        "orig": "Basin Keep Entrance",
+        "text": "Вход в Твердыню Бэйзина"
+    },
+    "areas/jungle.json/floors/3/maps/27/name": {
+        "orig": "So'najiz Temple Entrance",
+        "text": "Вход в Храм Со'найиз"
+    },
+    "areas/jungle.json/floors/3/maps/28/name": {
+        "orig": "Grand Krys'kajo Entrance",
+        "text": "Вход в Гранд Крис'кайо"
+    },
+    "areas/jungle.json/floors/3/maps/29/name": {
+        "orig": "Dripping Cave",
+        "text": "Капающая пещера"
+    },
+    "areas/jungle.json/floors/3/maps/30/name": {
+        "orig": "Tranquility Pond",
+        "text": "Пруд спокойствия"
+    },
+    "areas/jungle.json/floors/3/maps/31/name": {
+        "orig": "K'tara's House",
+        "text": "Дом К'тары"
+    },
+    "areas/jungle.json/floors/3/maps/32/name": {
+        "orig": "Chief's House",
+        "text": "Дом вождя"
+    },
+    "areas/jungle.json/floors/3/maps/33/name": {
+        "orig": "Lou's Office",
+        "text": "Офис Лу"
+    },
+    "areas/jungle.json/floors/3/maps/34/name": {
+        "orig": "Infested Heart",
+        "text": "Сердце заражения"
+    },
+    "areas/jungle.json/floors/3/maps/35/name": {
+        "orig": "The Descent",
+        "text": "Спуск"
+    },
+    "areas/jungle.json/floors/3/maps/36/name": {
+        "orig": "Root",
+        "text": "Корень"
+    },
+    "areas/jungle.json/floors/3/maps/37/name": {
+        "orig": "Lost Shrine Entrance",
+        "text": "Вход в Потерянную святыню"
+    },
+    "areas/jungle.json/floors/3/maps/38/name": {
+        "orig": "Lost Shrine ",
+        "text": "Потерянная святыня"
+    },
+    "areas/jungle.json/floors/3/maps/39/name": {
+        "orig": "So'najiz Lake Platform",
+        "text": "Платформа озера Со'найиз "
+    },
+    "areas/jungle.json/floors/3/maps/40/name": {
+        "orig": "Zir'vitar Temple Roof",
+        "text": "Крыша Храма Зир'витар"
+    }
+}

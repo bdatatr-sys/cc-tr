@@ -1,0 +1,182 @@
+{
+    "areas/cold-dng.json/name": {
+        "orig": "Bergen Tempel Mine",
+        "text": "Бергенская Храм-Шахта"
+    },
+    "areas/cold-dng.json/floors/0/maps/0/name": {
+        "orig": "Elevator",
+        "text": "Лифт"
+    },
+    "areas/cold-dng.json/floors/0/maps/1/name": {
+        "orig": "Forgotten Path 1",
+        "text": "Забытый путь 1"
+    },
+    "areas/cold-dng.json/floors/0/maps/2/name": {
+        "orig": "Forgotten Path 2",
+        "text": "Забытый путь 2"
+    },
+    "areas/cold-dng.json/floors/0/maps/3/name": {
+        "orig": "Forgotten Path 3",
+        "text": "Забытый путь 3"
+    },
+    "areas/cold-dng.json/floors/0/maps/4/name": {
+        "orig": "Forgotten Shaft 1",
+        "text": "Забытая шахта 1"
+    },
+    "areas/cold-dng.json/floors/0/maps/5/name": {
+        "orig": "Forgotten Shaft 2",
+        "text": "Забытая шахта 2"
+    },
+    "areas/cold-dng.json/floors/0/maps/6/name": {
+        "orig": "Forgotten Shaft 3",
+        "text": "Забытая шахта 3"
+    },
+    "areas/cold-dng.json/floors/0/maps/7/name": {
+        "orig": "Forgotten Shaft 4",
+        "text": "Забытая шахта 4"
+    },
+    "areas/cold-dng.json/floors/0/maps/8/name": {
+        "orig": "Forgotten Shaft 5",
+        "text": "Забытая шахта 5"
+    },
+    "areas/cold-dng.json/floors/0/maps/9/name": {
+        "orig": "Forgotten Test Chamber",
+        "text": "Забытый зал испытания"
+    },
+    "areas/cold-dng.json/floors/0/maps/10/name": {
+        "orig": "Infested Chamber",
+        "text": "Заражённый зал"
+    },
+    "areas/cold-dng.json/floors/1/maps/0/name": {
+        "orig": "Elevator",
+        "text": "Лифт"
+    },
+    "areas/cold-dng.json/floors/1/maps/1/name": {
+        "orig": "Frozen Shaft 1",
+        "text": "Замороженная шахта 1"
+    },
+    "areas/cold-dng.json/floors/1/maps/2/name": {
+        "orig": "Frozen Shaft 2",
+        "text": "Замороженная шахта 2"
+    },
+    "areas/cold-dng.json/floors/1/maps/3/name": {
+        "orig": "Frozen Shaft 3",
+        "text": "Замороженная шахта 3"
+    },
+    "areas/cold-dng.json/floors/1/maps/4/name": {
+        "orig": "Frozen Shaft 4",
+        "text": "Замороженная шахта 4"
+    },
+    "areas/cold-dng.json/floors/1/maps/5/name": {
+        "orig": "Frozen Shaft 5",
+        "text": "Замороженная шахта 5"
+    },
+    "areas/cold-dng.json/floors/1/maps/6/name": {
+        "orig": "Overrun Chamber",
+        "text": "Захваченный зал"
+    },
+    "areas/cold-dng.json/floors/1/maps/7/name": {
+        "orig": "Chamber of Fire",
+        "text": "Зал огня"
+    },
+    "areas/cold-dng.json/floors/2/maps/0/name": {
+        "orig": "Elevator",
+        "text": "Лифт"
+    },
+    "areas/cold-dng.json/floors/2/maps/1/name": {
+        "orig": "Storage Room 1",
+        "text": "Хранилище 1"
+    },
+    "areas/cold-dng.json/floors/2/maps/2/name": {
+        "orig": "Frozen Chamber 1",
+        "text": "Замороженный зал 1"
+    },
+    "areas/cold-dng.json/floors/2/maps/3/name": {
+        "orig": "Storage Room 3",
+        "text": "Хранилище 2"
+    },
+    "areas/cold-dng.json/floors/2/maps/4/name": {
+        "orig": "Storage Room 4",
+        "text": "Хранилище 3"
+    },
+    "areas/cold-dng.json/floors/2/maps/5/name": {
+        "orig": "Frozen Chamber 2",
+        "text": "Замороженный зал 2"
+    },
+    "areas/cold-dng.json/floors/2/maps/6/name": {
+        "orig": "Abandoned Chamber 2",
+        "text": "Заброшенный зал 2"
+    },
+    "areas/cold-dng.json/floors/3/maps/0/name": {
+        "orig": "Crossing Funnel",
+        "text": "Переходная воронка"
+    },
+    "areas/cold-dng.json/floors/3/maps/1/name": {
+        "orig": "Old Shaft 1",
+        "text": "Старая шахта 1"
+    },
+    "areas/cold-dng.json/floors/3/maps/2/name": {
+        "orig": "Old Shaft 2",
+        "text": "Старая шахта 2"
+    },
+    "areas/cold-dng.json/floors/3/maps/3/name": {
+        "orig": "Testing Chamber",
+        "text": "Зал испытания"
+    },
+    "areas/cold-dng.json/floors/3/maps/4/name": {
+        "orig": "Great Chasm",
+        "text": "Великая пропасть"
+    },
+    "areas/cold-dng.json/floors/3/maps/5/name": {
+        "orig": "Old Chamber",
+        "text": "Старый зал"
+    },
+    "areas/cold-dng.json/floors/3/maps/6/name": {
+        "orig": "Elevator",
+        "text": "Лифт"
+    },
+    "areas/cold-dng.json/floors/3/maps/7/name": {
+        "orig": "Control Room A",
+        "text": "Комната управления А"
+    },
+    "areas/cold-dng.json/floors/3/maps/8/name": {
+        "orig": "Control Room B",
+        "text": "Комната управления B"
+    },
+    "areas/cold-dng.json/floors/3/maps/9/name": {
+        "orig": "Abandoned Chamber 1",
+        "text": "Заброшенный зал 1"
+    },
+    "areas/cold-dng.json/floors/4/maps/0/name": {
+        "orig": "Elevator",
+        "text": "Лифт"
+    },
+    "areas/cold-dng.json/floors/4/maps/1/name": {
+        "orig": "Temple Chamber 1",
+        "text": "Зал 1"
+    },
+    "areas/cold-dng.json/floors/4/maps/2/name": {
+        "orig": "Temple Chamber 2",
+        "text": "Зал 2"
+    },
+    "areas/cold-dng.json/floors/4/maps/3/name": {
+        "orig": "Temple Chamber 3",
+        "text": "Зал 3"
+    },
+    "areas/cold-dng.json/floors/4/maps/4/name": {
+        "orig": "Elevator Control",
+        "text": "Управление лифтом"
+    },
+    "areas/cold-dng.json/floors/4/maps/5/name": {
+        "orig": "Forbidden Chasm",
+        "text": "Запретная пропасть"
+    },
+    "areas/cold-dng.json/floors/4/maps/6/name": {
+        "orig": "Forbidden Storage",
+        "text": "Запретное хранилище"
+    },
+    "areas/cold-dng.json/floors/4/maps/7/name": {
+        "orig": "Chamber of the Shade",
+        "text": "Зал тени"
+    }
+}

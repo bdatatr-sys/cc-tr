@@ -1,0 +1,1 @@
+{"enemies/jungle/algorithm.json/proxies/healing/action/3/thenStep/0/text":{"orig":"Revive","text":"Восстановление"},"enemies/jungle/algorithm.json/proxies/healing/action/3/thenStep/2/thenStep/0/text":{"orig":"Revive (retry)","text":"Восстановление (повтор)"},"enemies/jungle/algorithm.json/actions/StartRegen/3/text":{"orig":"Regen","text":"Восстановление"}}

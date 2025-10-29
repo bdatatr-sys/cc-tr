@@ -1,0 +1,114 @@
+{
+    "areas/bergen.json/name": {
+        "orig": "Bergen Village",
+        "text": "Берген"
+    },
+    "areas/bergen.json/floors/0/name": {
+        "orig": "Cellar",
+        "text": "Погреб"
+    },
+    "areas/bergen.json/floors/0/maps/0/name": {
+        "orig": "Seeker Hub Cellar",
+        "text": "Подвал центра Искателей"
+    },
+    "areas/bergen.json/floors/0/maps/1/name": {
+        "orig": "Miner's Elevator B1",
+        "text": "Шахтёрский лифт B1"
+    },
+    "areas/bergen.json/floors/0/maps/2/name": {
+        "orig": "New Mine #1",
+        "text": "Новая шахта #1"
+    },
+    "areas/bergen.json/floors/0/maps/3/name": {
+        "orig": "Omni Gilders Basement",
+        "text": "Подвал Златарей"
+    },
+    "areas/bergen.json/floors/0/maps/4/name": {
+        "orig": "Cave of Ascension",
+        "text": "Пещера вознесения"
+    },
+    "areas/bergen.json/floors/1/name": {
+        "orig": "Ground Floor",
+        "text": "Цокольный этаж"
+    },
+    "areas/bergen.json/floors/1/maps/0/name": {
+        "orig": "Holiday Man Cave",
+        "text": "Пещера Сантамы"
+    },
+    "areas/bergen.json/floors/1/maps/1/name": {
+        "orig": "Bergen South",
+        "text": "Юг Бергена"
+    },
+    "areas/bergen.json/floors/1/maps/2/name": {
+        "orig": "Bergen North",
+        "text": "Север Бергена"
+    },
+    "areas/bergen.json/floors/1/maps/3/name": {
+        "orig": "Temple Mine Entrance",
+        "text": "Вход в Храм-Шахту"
+    },
+    "areas/bergen.json/floors/1/maps/4/name": {
+        "orig": "Storage Room",
+        "text": "Склад"
+    },
+    "areas/bergen.json/floors/1/maps/5/name": {
+        "orig": "Bergen Bar",
+        "text": "Бергенский бар"
+    },
+    "areas/bergen.json/floors/1/maps/6/name": {
+        "orig": "House 1",
+        "text": "Дом 1"
+    },
+    "areas/bergen.json/floors/1/maps/7/name": {
+        "orig": "House 2",
+        "text": "Дом 2"
+    },
+    "areas/bergen.json/floors/1/maps/8/name": {
+        "orig": "Inn",
+        "text": "Гостиница"
+    },
+    "areas/bergen.json/floors/1/maps/9/name": {
+        "orig": "Omni Gilders Base",
+        "text": "База Златарей"
+    },
+    "areas/bergen.json/floors/1/maps/10/name": {
+        "orig": "Trader's Den",
+        "text": "Логово торговцев"
+    },
+    "areas/bergen.json/floors/1/maps/11/name": {
+        "orig": "Shop",
+        "text": "Магазин"
+    },
+    "areas/bergen.json/floors/1/maps/12/name": {
+        "orig": "Seeker Hub",
+        "text": "Центр Искателей"
+    },
+    "areas/bergen.json/floors/1/maps/13/name": {
+        "orig": "Diving Railway",
+        "text": "Ныряющие рельсы"
+    },
+    "areas/bergen.json/floors/1/maps/14/name": {
+        "orig": "Digging Mates HQ",
+        "text": "Штаб Братства шахтёров"
+    },
+    "areas/bergen.json/floors/1/maps/15/name": {
+        "orig": "Bergen Guard HQ",
+        "text": "Штаб Бергенской стражи"
+    },
+    "areas/bergen.json/floors/1/maps/16/name": {
+        "orig": "Bergen Monastery",
+        "text": "Бергенский монастырь"
+    },
+    "areas/bergen.json/floors/1/maps/17/name": {
+        "orig": "Cave of Aspiration",
+        "text": "Пещера стремления"
+    },
+    "areas/bergen.json/floors/1/maps/18/name": {
+        "orig": "Miner's Elevator G",
+        "text": "Шахтёрский лифт G"
+    },
+    "areas/bergen.json/floors/1/maps/19/name": {
+        "orig": "Cave of Progression",
+        "text": "Пещера прогресса"
+    }
+}

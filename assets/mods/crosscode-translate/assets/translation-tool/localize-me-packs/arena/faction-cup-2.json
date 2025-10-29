@@ -1,0 +1,70 @@
+{
+    "arena/faction-cup-2.json/core/name": {
+        "orig": "Faction Advanced Cup",
+        "text": "Расширенный кубок фракций"
+    },
+    "arena/faction-cup-2.json/core/info": {
+        "orig": "Refight several midgame battles found during your quests for the factions!",
+        "text": "Сразитесь вновь со средними врагами, найденными во время ваших квестов фракций!"
+    },
+    "arena/faction-cup-2.json/core/creator": {
+        "orig": "GFluegel",
+        "text": "GFluegel"
+    },
+    "arena/faction-cup-2.json/rounds/0/name": {
+        "orig": "Burning Birbs",
+        "text": "Пламенные птицы"
+    },
+    "arena/faction-cup-2.json/rounds/0/objective": {
+        "orig": "Defeat the \\c[3]\\v[combat.name.heat/special/volturbine-cave]s\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]!\nDon't let them \\c[3]regenerate over the flames\\c[0]!",
+        "text": "Победите \\c[3]Мегагрифов\\c[0] в \\c[3]Бордовой долине\\c[0]!\nНе позволяйте им \\c[3]регенерироваться над пламенем\\c[0]!"
+    },
+    "arena/faction-cup-2.json/rounds/1/name": {
+        "orig": "Malicious Mustache",
+        "text": "Злобные усы"
+    },
+    "arena/faction-cup-2.json/rounds/1/objective": {
+        "orig": "Have another duel with \\c[3]\\v[combat.name.heat/special/guard-hostile-mustache]\\c[0], Ba'kii Kum's most treasonous guard!\nAnd also trash his \\c[3]\\v[combat.name.heat/special/baki-turret_2]s\\c[0] while you're at it!",
+        "text": "Проведите ещё один поединок со \\c[3]стражником Биллстоном\\c[0], бакийским предателем!\nА также уничтожьте его \\c[3]Турели-легионеры 2.0\\c[0], пока вы там!"
+    },
+    "arena/faction-cup-2.json/rounds/2/name": {
+        "orig": "Heater Beater",
+        "text": "Пламенная колотушка"
+    },
+    "arena/faction-cup-2.json/rounds/2/objective": {
+        "orig": "Defeat the mighty metallic \\c[3]\\v[combat.name.cold/mine-diggingbot-quest]\\c[0] in the \\c[3]\\v[area.cold-dng.name]\\c[0]!\nTry to keep its \\c[3]heat\\c[0] in a \\c[3]balanced state\\c[0]!",
+        "text": "Победите могущественного металлического \\c[3]Плавильного дигмо\\c[0] в \\c[3]Храм-Шахте\\c[0]!\nПостарайтесь сохранить \\c[3]высокую температуру\\c[0] в \\c[3]сбалансированном состоянии\\c[0]!"
+    },
+    "arena/faction-cup-2.json/rounds/3/name": {
+        "orig": "Blazing Buffel",
+        "text": "Пылающий Бычара"
+    },
+    "arena/faction-cup-2.json/rounds/3/objective": {
+        "orig": "Defeat the \\c[3]\\v[combat.name.autumn-fall/buffalo-fire-quest]\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0]!\nOvercome it using \\c[3]ice\\c[0] and \\c[3]angles\\c[0]!",
+        "text": "Победите \\c[3]Огненное Копыто\\c[0] в \\c[3]Закате Осени\\c[0]!\nПреодолейте его, используя \\c[3]лёд\\c[0] и \\c[3]углы\\c[0]!"
+    },
+    "arena/faction-cup-2.json/rounds/4/name": {
+        "orig": "Tourist of Terror",
+        "text": "Турист террора"
+    },
+    "arena/faction-cup-2.json/rounds/4/objective": {
+        "orig": "Defeat the \\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0] who has resettled to \\c[3]\\v[area.jungle.name]\\c[0]!\nBreak his defense by using the teleporting \\c[3]\\v[combat.name.jungle/special/heater]\\c[0]!",
+        "text": "Победите \\c[3]Морковво-фруктоискателя\\c[0], который переселился в \\c[3]Сад Гайи\\c[0]!\nСломайте его защиту, используя телепортирующуюся \\c[3]Гиперсиловую плазмопечь\\c[0]!"
+    },
+    "arena/faction-cup-2.json/rounds/5/name": {
+        "orig": "Perky Plant",
+        "text": "Бодрое растение"
+    },
+    "arena/faction-cup-2.json/rounds/5/objective": {
+        "orig": "Defeat the \\c[3]\\v[combat.name.jungle/special/powerplant-quest-1]\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]!",
+        "text": "Победите \\c[3]Бафоцветика\\c[0] в \\c[3]Саду Гайи\\c[0]!"
+    },
+    "arena/faction-cup-2.json/rounds/6/name": {
+        "orig": "Dreaded Dry Dude",
+        "text": "Страшный сухой чувак"
+    },
+    "arena/faction-cup-2.json/rounds/6/objective": {
+        "orig": "Defeat the \\c[3]\\v[combat.name.heat/special/sandman-1]\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]!\n\\c[3]Quicksand\\c[0] may be annoying but \\c[3]teleporters\\c[0] are your friend!",
+        "text": "Победите \\c[3]Короля Какторро\\c[0] в \\c[3]Бордовой долине\\c[0]!\n\\c[3]Зыбучие пески\\c[0] могут раздражать, но \\c[3]телепорты\\c[0] - ваши друзья!"
+    }
+}

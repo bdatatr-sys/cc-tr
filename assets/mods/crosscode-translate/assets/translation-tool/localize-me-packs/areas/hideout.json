@@ -1,0 +1,34 @@
+{
+    "areas/hideout.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/hideout.json/floors/0/maps/0/name": {
+        "orig": "Entrance",
+        "text": "Вход"
+    },
+    "areas/hideout.json/floors/0/maps/1/name": {
+        "orig": "Left Path",
+        "text": "Левый путь"
+    },
+    "areas/hideout.json/floors/0/maps/2/name": {
+        "orig": "Right Path",
+        "text": "Правый путь"
+    },
+    "areas/hideout.json/floors/0/maps/3/name": {
+        "orig": "Upper Path",
+        "text": "Верхний путь"
+    },
+    "areas/hideout.json/floors/0/maps/4/name": {
+        "orig": "Corridors",
+        "text": "Коридоры"
+    },
+    "areas/hideout.json/floors/0/maps/5/name": {
+        "orig": "Satoshi's Workstation",
+        "text": "Рабочее место Сатоши"
+    },
+    "areas/hideout.json/floors/0/maps/6/name": {
+        "orig": "Dinner Room",
+        "text": "Столовая"
+    }
+}

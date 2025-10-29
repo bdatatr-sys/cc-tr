@@ -1,0 +1,1 @@
+{"version":3,"file":"social-menu.js","sourceRoot":"","sources":["../src/social-menu.ts"],"names":[],"mappings":";AAAA,EAAE,CAAC,MAAM,CAAC,gCAAgC,CAAC;KACxC,QAAQ,CAAC,yCAAyC,EAAE,gCAAgC,CAAC;KACrF,OAAO,CAAC,GAAG,EAAE;IACZ,IAAI,EAAE,CAAC,WAAW,KAAK,OAAO;QAAE,OAAO;IAEvC,EAAE,CAAC,iBAAiB,CAAC,SAAS,CAAC,6BAA6B,GAAG,IAAI,CAAC;AACtE,CAAC,CAAC,CAAC"}

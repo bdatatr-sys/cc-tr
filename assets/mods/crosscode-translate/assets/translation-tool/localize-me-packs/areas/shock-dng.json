@@ -1,0 +1,106 @@
+{
+    "areas/shock-dng.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/shock-dng.json/floors/0/name": {
+        "orig": "G",
+        "text": "G"
+    },
+    "areas/shock-dng.json/floors/0/maps/0/name": {
+        "orig": "Entry Test",
+        "text": "Вступительный тест"
+    },
+    "areas/shock-dng.json/floors/0/maps/1/name": {
+        "orig": "Compressed Waves",
+        "text": "Сжатые волны"
+    },
+    "areas/shock-dng.json/floors/0/maps/2/name": {
+        "orig": "Power Plants",
+        "text": "Силовые растения"
+    },
+    "areas/shock-dng.json/floors/0/maps/3/name": {
+        "orig": "Sinus Transmit",
+        "text": "Синусная передача"
+    },
+    "areas/shock-dng.json/floors/0/maps/4/name": {
+        "orig": "Nature Vs. Technic",
+        "text": "Природа VS Техника"
+    },
+    "areas/shock-dng.json/floors/0/maps/5/name": {
+        "orig": "Box Transmit",
+        "text": "Коробочная передача"
+    },
+    "areas/shock-dng.json/floors/0/maps/6/name": {
+        "orig": "Hoodwink",
+        "text": "Обманка"
+    },
+    "areas/shock-dng.json/floors/0/maps/7/name": {
+        "orig": "Spinning Transmit",
+        "text": "Вращающая передача"
+    },
+    "areas/shock-dng.json/floors/1/name": {
+        "orig": "F1",
+        "text": "F1"
+    },
+    "areas/shock-dng.json/floors/1/maps/0/name": {
+        "orig": "Principle of Transmit",
+        "text": "Принцип передачи"
+    },
+    "areas/shock-dng.json/floors/1/maps/1/name": {
+        "orig": "Trial of Transmit",
+        "text": "Испытание передачи"
+    },
+    "areas/shock-dng.json/floors/1/maps/2/name": {
+        "orig": "Moving Transmit",
+        "text": "Подвижная передача"
+    },
+    "areas/shock-dng.json/floors/1/maps/3/name": {
+        "orig": "Trial of Bullets",
+        "text": "Испытание пуль"
+    },
+    "areas/shock-dng.json/floors/1/maps/4/name": {
+        "orig": "Conclusion of Waves",
+        "text": "Завершение волн"
+    },
+    "areas/shock-dng.json/floors/1/maps/5/name": {
+        "orig": "Haunted Waves",
+        "text": "Призрачные волны"
+    },
+    "areas/shock-dng.json/floors/1/maps/6/name": {
+        "orig": "Wave Maze",
+        "text": "Волновой лабиринт"
+    },
+    "areas/shock-dng.json/floors/1/maps/7/name": {
+        "orig": "Conclusion of Waves",
+        "text": "Завершение волн"
+    },
+    "areas/shock-dng.json/floors/2/name": {
+        "orig": "F2",
+        "text": "F2"
+    },
+    "areas/shock-dng.json/floors/2/maps/0/name": {
+        "orig": "Stacking Blocks",
+        "text": "Укладка блоков"
+    },
+    "areas/shock-dng.json/floors/2/maps/1/name": {
+        "orig": "Endurance of Waves",
+        "text": "Стойкость волн"
+    },
+    "areas/shock-dng.json/floors/2/maps/2/name": {
+        "orig": "Irritating Transmit",
+        "text": "Раздражающая передача"
+    },
+    "areas/shock-dng.json/floors/2/maps/3/name": {
+        "orig": "Chamber of Wave",
+        "text": "Зал волны"
+    },
+    "areas/shock-dng.json/floors/3/name": {
+        "orig": "F3",
+        "text": "F3"
+    },
+    "areas/shock-dng.json/floors/3/maps/0/name": {
+        "orig": "Shocking Surprise",
+        "text": "Шокирующий сюрприз"
+    }
+}

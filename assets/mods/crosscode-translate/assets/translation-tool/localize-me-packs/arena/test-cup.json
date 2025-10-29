@@ -1,0 +1,50 @@
+{
+    "arena/test-cup.json/core/name": {
+        "orig": "Test Cup",
+        "text": "Тестовый кубок"
+    },
+    "arena/test-cup.json/core/info": {
+        "orig": "Ima use dis 2 test stuff.",
+        "text": "Я использую это для теста всякой всячины."
+    },
+    "arena/test-cup.json/rounds/0/name": {
+        "orig": "Default Test",
+        "text": "Стандартный тест"
+    },
+    "arena/test-cup.json/rounds/0/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.autumn-area.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Расцвета Осени\\c[0]!"
+    },
+    "arena/test-cup.json/rounds/1/name": {
+        "orig": "Level 1 Test",
+        "text": "Тест 1-го уровня"
+    },
+    "arena/test-cup.json/rounds/1/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.autumn-area.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Расцвета Осени\\c[0]!"
+    },
+    "arena/test-cup.json/rounds/2/name": {
+        "orig": "Level 99 Test",
+        "text": "Тест 99-го уровня"
+    },
+    "arena/test-cup.json/rounds/2/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.autumn-area.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Расцвета Осени\\c[0]!"
+    },
+    "arena/test-cup.json/rounds/3/name": {
+        "orig": "Custom Test",
+        "text": "Пользовательский тест"
+    },
+    "arena/test-cup.json/rounds/3/objective": {
+        "orig": "Defeat enemies hailing from \\c[3]\\v[area.autumn-area.name]\\c[0]!",
+        "text": "Победите врагов из \\c[3]Расцвета Осени\\c[0]!"
+    },
+    "arena/test-cup.json/rounds/4/name": {
+        "orig": "Malicious Mustache BLA",
+        "text": "Злонамеренные усы БЛА"
+    },
+    "arena/test-cup.json/rounds/4/objective": {
+        "orig": "Unused and stored here.",
+        "text": "Неиспользовано и хранится здесь."
+    }
+}

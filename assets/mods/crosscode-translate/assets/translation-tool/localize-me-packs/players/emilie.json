@@ -1,0 +1,50 @@
+{
+    "players/emilie.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
+        "orig": "Beatdown",
+        "text": "Взбучка"
+    },
+    "players/emilie.json/actions/NEUTRAL/THROW_SPECIAL1_A/name": {
+        "orig": "Ball of Fist",
+        "text": "Шар-кулак"
+    },
+    "players/emilie.json/actions/NEUTRAL/DASH_SPECIAL1_A/name": {
+        "orig": "Azure Strike",
+        "text": "Лазурный удар"
+    },
+    "players/emilie.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
+        "orig": "Faucon Poing",
+        "text": "Кулак сокола"
+    },
+    "players/emilie.json/actions/HEAT/DASH_SPECIAL1_A/name": {
+        "orig": "Crimson Strike",
+        "text": "Багровая атака"
+    },
+    "players/emilie.json/actions/COLD/THROW_SPECIAL1_A/name": {
+        "orig": "Freeze Nails",
+        "text": "Морозные гвозди"
+    },
+    "players/emilie.json/actions/COLD/THROW_SPECIAL1_A/description": {
+        "orig": "Quickly shoots a mass of icy spikes.",
+        "text": "Быстро выстрели множество ледяных шипов."
+    },
+    "players/emilie.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
+        "orig": "Frozen Cage",
+        "text": "Морозные оковы"
+    },
+    "players/emilie.json/actions/SHOCK/ATTACK_SPECIAL1_A/name": {
+        "orig": "Pummeling Strike",
+        "text": "Избиение"
+    },
+    "players/emilie.json/actions/SHOCK/DASH_SPECIAL1_A/name": {
+        "orig": "Amber Thrust",
+        "text": "Янтарный выпад"
+    },
+    "players/emilie.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
+        "orig": "Palm Basher",
+        "text": "Ладонь-убийца"
+    },
+    "players/emilie.json/actions/WAVE/THROW_SPECIAL1_A/name": {
+        "orig": "Fae Stream",
+        "text": "Поток феи"
+    }
+}

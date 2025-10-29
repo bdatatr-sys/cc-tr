@@ -1,0 +1,130 @@
+{
+    "areas/arid.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/arid.json/floors/0/handle": {
+        "orig": "F??",
+        "text": "F??"
+    },
+    "areas/arid.json/floors/0/maps/0/name": {
+        "orig": "Lab Entrance",
+        "text": "Вход в лабораторию"
+    },
+    "areas/arid.json/floors/0/maps/1/name": {
+        "orig": "Hallway H03",
+        "text": "Прихожая H03"
+    },
+    "areas/arid.json/floors/0/maps/2/name": {
+        "orig": "Meeting Room M04-01",
+        "text": "Переговорная M04-01"
+    },
+    "areas/arid.json/floors/0/maps/3/name": {
+        "orig": "Meeting Room M04-02",
+        "text": "Переговорная M04-02"
+    },
+    "areas/arid.json/floors/0/maps/4/name": {
+        "orig": "Junction J03-01",
+        "text": "Станция связи J03-01"
+    },
+    "areas/arid.json/floors/0/maps/5/name": {
+        "orig": "Sidwell's Office",
+        "text": "Офис Сидвелла"
+    },
+    "areas/arid.json/floors/1/maps/0/name": {
+        "orig": "South Challenge B1",
+        "text": "Южное испытание B1"
+    },
+    "areas/arid.json/floors/1/maps/1/name": {
+        "orig": "North Challenge B1",
+        "text": "Северное испытание B1"
+    },
+    "areas/arid.json/floors/1/maps/2/name": {
+        "orig": "Strange Lobby",
+        "text": "Странный вестибюль"
+    },
+    "areas/arid.json/floors/1/maps/3/name": {
+        "orig": "Strange Flat",
+        "text": "Странная квартира"
+    },
+    "areas/arid.json/floors/1/maps/4/name": {
+        "orig": "Storage Basement",
+        "text": "Подвал склада"
+    },
+    "areas/arid.json/floors/2/maps/0/name": {
+        "orig": "East Town",
+        "text": "Восточный город"
+    },
+    "areas/arid.json/floors/2/maps/1/name": {
+        "orig": "West Town",
+        "text": "Западный город"
+    },
+    "areas/arid.json/floors/2/maps/2/name": {
+        "orig": "Vermillion Tower",
+        "text": "Башня Вермиллион"
+    },
+    "areas/arid.json/floors/2/maps/3/name": {
+        "orig": "Crimson Lake",
+        "text": "Алое озеро"
+    },
+    "areas/arid.json/floors/2/maps/4/name": {
+        "orig": "Ebony Forest",
+        "text": "Эбонитовый лес"
+    },
+    "areas/arid.json/floors/2/maps/5/name": {
+        "orig": "Scarlet River",
+        "text": "Алая река"
+    },
+    "areas/arid.json/floors/2/maps/6/name": {
+        "orig": "River Delta",
+        "text": "Дельта реки"
+    },
+    "areas/arid.json/floors/2/maps/7/name": {
+        "orig": "Spiral Cliff",
+        "text": "Спиральный утёс"
+    },
+    "areas/arid.json/floors/2/maps/8/name": {
+        "orig": "Dormitory Entrance",
+        "text": "Вход в общежитие"
+    },
+    "areas/arid.json/floors/2/maps/9/name": {
+        "orig": "Dormitory Floor 1",
+        "text": "Общежитие - 1-й этаж"
+    },
+    "areas/arid.json/floors/2/maps/10/name": {
+        "orig": "Dormitory Room 4",
+        "text": "Общежитие - Комната 4"
+    },
+    "areas/arid.json/floors/2/maps/11/name": {
+        "orig": "Quest Hub",
+        "text": "Квест-хаб"
+    },
+    "areas/arid.json/floors/2/maps/12/name": {
+        "orig": "South Challenge",
+        "text": "Южное испытание"
+    },
+    "areas/arid.json/floors/2/maps/13/name": {
+        "orig": "North Challenge",
+        "text": "Северное испытание"
+    },
+    "areas/arid.json/floors/2/maps/14/name": {
+        "orig": "Storage Room 1",
+        "text": "Хранилище 1"
+    },
+    "areas/arid.json/floors/2/maps/15/name": {
+        "orig": "Storage Room 2",
+        "text": "Хранилище 2"
+    },
+    "areas/arid.json/floors/2/maps/16/name": {
+        "orig": "Store",
+        "text": "Магазин"
+    },
+    "areas/arid.json/floors/2/maps/17/name": {
+        "orig": "Tradehut",
+        "text": "Торговая хижина"
+    },
+    "areas/arid.json/floors/2/maps/18/name": {
+        "orig": "???",
+        "text": "???"
+    }
+}

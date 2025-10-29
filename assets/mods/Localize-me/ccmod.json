@@ -1,0 +1,21 @@
+{
+	"id": "localize-me",
+	"version": "1.0.0",
+	"title": {
+		"en_US":"Localize Me",
+		"fr_FR":"Régionalisez-Moi",
+		"de_DE":"Lokalisiert mich"
+	},
+	"dependencies": {
+		"crosscode": ">= 1.4.0"
+	},
+	"description": {
+		"en_US": "Add support for more locales, languages and translations"
+	},
+	"icons": {
+		"24": "icon.png"
+	},
+	"license": "MIT",
+	"homepage": "https://github.com/L-Sherry/Localize-Me",
+	"postload": "mod.js"
+}

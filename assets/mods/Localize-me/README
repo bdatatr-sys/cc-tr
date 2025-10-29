@@ -1,0 +1,33 @@
+A simple CCLoader-compatible mod to allow to add more locales/translations.
+
+You will need another mod to provide the locale that you want.
+
+Installation:
+- If not already done, install CCLoader or CCInjector
+- Just copy these files in a subdirectory of assets/mods/
+- Install the locale/translation mod that you want to use
+- Launch the game and look in the language settings, the locale mod
+  that you installed should appear, and can be selected like any
+  other language.  Restart the game as instructed.
+
+Uninstallation:
+- Just remove the files. Your saves should revert to english if they were
+  on a custom locale.
+
+This mod currently handles the following:
+- Adding more languages in the option menu, with flags
+- Loading translations and inserting them into the game
+- Optionally patching the PNG fonts to add more characters or improve them,
+  and allow importing new characters from other images.
+- Modding some parts of the game that contains hardcoded english texts.
+- Preliminary support for changing the way the game format numbers.
+
+For details on how to create a translation mod, see the Documentation.md file.
+
+To create, modify or update translations, check out Localize-Me-Tools
+at https://github.com/L-Sherry/Localize-Me-Tools
+
+This software is licensed under the MIT license. However, please check that
+your local judiriction does not restrict the use of such software.
+
+CCLoader: https://github.com/CCDirectLink/CCLoader

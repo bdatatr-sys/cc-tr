@@ -1,0 +1,86 @@
+{
+    "credits/radicalfish-core-dlc.json/entries/title/header": {
+        "orig": "- A New Home -",
+        "text": "- A New Home -"
+    },
+    "credits/radicalfish-core-dlc.json/entries/developed/header": {
+        "orig": "Developed by",
+        "text": "Developed by"
+    },
+    "credits/radicalfish-core-dlc.json/entries/creativeDirector/header": {
+        "orig": "Creative Director",
+        "text": "Creative Director"
+    },
+    "credits/radicalfish-core-dlc.json/entries/programmers/header": {
+        "orig": "Main Programmers",
+        "text": "Main Programmers"
+    },
+    "credits/radicalfish-core-dlc.json/entries/composers/header": {
+        "orig": "Music Composer",
+        "text": "Music Composer"
+    },
+    "credits/radicalfish-core-dlc.json/entries/sounds/header": {
+        "orig": "Sound Designer",
+        "text": "Sound Designer"
+    },
+    "credits/radicalfish-core-dlc.json/entries/storyLore/header": {
+        "orig": "Story & Lore",
+        "text": "Story & Lore"
+    },
+    "credits/radicalfish-core-dlc.json/entries/conceptArt/header": {
+        "orig": "Concept Art",
+        "text": "Concept Art"
+    },
+    "credits/radicalfish-core-dlc.json/entries/levelDesign/header": {
+        "orig": "Area Level Design",
+        "text": "Area Level Design"
+    },
+    "credits/radicalfish-core-dlc.json/entries/dungeonDesign/header": {
+        "orig": "Dungeon Level Design",
+        "text": "Dungeon Level Design"
+    },
+    "credits/radicalfish-core-dlc.json/entries/menuDesign/header": {
+        "orig": "Menu Design & Programming",
+        "text": "Menu Design & Programming"
+    },
+    "credits/radicalfish-core-dlc.json/entries/enemyDesign/header": {
+        "orig": "Enemy Design & Programming",
+        "text": "Enemy Design & Programming"
+    },
+    "credits/radicalfish-core-dlc.json/entries/questDesign/header": {
+        "orig": "Quest Design ",
+        "text": "Quest Design "
+    },
+    "credits/radicalfish-core-dlc.json/entries/worldGraphics/header": {
+        "orig": "Overworld Graphics",
+        "text": "Overworld Graphics"
+    },
+    "credits/radicalfish-core-dlc.json/entries/effectsAnimations/header": {
+        "orig": "Effects & Animations",
+        "text": "Effects & Animations"
+    },
+    "credits/radicalfish-core-dlc.json/entries/faces/header": {
+        "orig": "Portrait Design & Graphics",
+        "text": "Portrait Design & Graphics"
+    },
+    "credits/radicalfish-core-dlc.json/entries/npcSprites/header": {
+        "orig": "NPC Graphics",
+        "text": "NPC Graphics"
+    },
+    "credits/radicalfish-core-dlc.json/entries/business/header": {
+        "orig": "Business Adviser ",
+        "text": "Business Adviser "
+    },
+    "credits/radicalfish-core-dlc.json/entries/localization/header": {
+        "orig": "German Localization",
+        "text": "German Localization"
+    },
+    "credits/radicalfish-core-dlc.json/entries/promotionalArt/header": {
+        "orig": "Promotional Art",
+        "text": "Promotional Art"
+    },
+    "credits/radicalfish-core-dlc.json/entries/specialThanks/header": {
+        "orig": "Special Thanks",
+        "text": "Special Thanks"
+    }
+}

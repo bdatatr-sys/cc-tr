@@ -1,0 +1,78 @@
+{
+    "arena/vermillion-cup.json/core/name": {
+        "orig": "Vermillion Cup",
+        "text": "Кубок Вермиллион"
+    },
+    "arena/vermillion-cup.json/core/info": {
+        "orig": "A cup featuring enemies from the \\v[area.arid.name] only Lea can access.",
+        "text": "Кубок с участием врагов из Пустоши Вермиллион, доступный только Лее."
+    },
+    "arena/vermillion-cup.json/core/creator": {
+        "orig": "???",
+        "text": "???"
+    },
+    "arena/vermillion-cup.json/rounds/0/name": {
+        "orig": "Multi Microbes",
+        "text": "Мульти-микробы"
+    },
+    "arena/vermillion-cup.json/rounds/0/objective": {
+        "orig": "Defeat the virus enemies from \\c[3]\\v[area.arid.name]\\c[0]!",
+        "text": "Победите вирусов из \\c[3]Пустоши Вермиллион\\c[0]!"
+    },
+    "arena/vermillion-cup.json/rounds/1/name": {
+        "orig": "Basic Brutes",
+        "text": "Обычные вышибалы"
+    },
+    "arena/vermillion-cup.json/rounds/1/objective": {
+        "orig": "Defeat the brute enemies from \\c[3]\\v[area.arid.name]\\c[0]!",
+        "text": "Победите врагов-вышибал из \\c[3]Пустоши Вермиллион\\c[0]!"
+    },
+    "arena/vermillion-cup.json/rounds/2/name": {
+        "orig": "Rhino Rumble",
+        "text": "Носорожий грохот"
+    },
+    "arena/vermillion-cup.json/rounds/2/objective": {
+        "orig": "Defeat the rhino enemies from \\c[3]\\v[area.arid.name]\\c[0]!",
+        "text": "Победите врагов-носорогов из \\c[3]Пустоши Вермиллион\\c[0]!"
+    },
+    "arena/vermillion-cup.json/rounds/3/name": {
+        "orig": "Dice Dusters",
+        "text": "Пыльные игральные кости"
+    },
+    "arena/vermillion-cup.json/rounds/3/objective": {
+        "orig": "Defeat the dice mage enemies from \\c[3]\\v[area.arid.name]\\c[0]!",
+        "text": "Победите магов-кубов из \\c[3]Пустоши Вермиллион\\c[0]!"
+    },
+    "arena/vermillion-cup.json/rounds/4/name": {
+        "orig": "The Elemental Turrets",
+        "text": "Элементальные турели"
+    },
+    "arena/vermillion-cup.json/rounds/4/objective": {
+        "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.arid/element-turret-boss]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Финальной турели IX\\c[0] из \\c[3]Пустоши Вермиллион\\c[0]!"
+    },
+    "arena/vermillion-cup.json/rounds/5/name": {
+        "orig": "The Infinite Snail",
+        "text": "Бесконечная улитка"
+    },
+    "arena/vermillion-cup.json/rounds/5/objective": {
+        "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.arid/snail]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Гастрополиса\\c[0] из \\c[3]Пустоши Вермиллион\\c[0]!"
+    },
+    "arena/vermillion-cup.json/rounds/6/name": {
+        "orig": "The Designer",
+        "text": "Дизайнер"
+    },
+    "arena/vermillion-cup.json/rounds/6/objective": {
+        "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.boss/designer-2]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Дизайнера\\c[0] из \\c[3]Пустоши Вермиллион\\c[0]!"
+    },
+    "arena/vermillion-cup.json/rounds/7/name": {
+        "orig": "The Creator",
+        "text": "Создатель"
+    },
+    "arena/vermillion-cup.json/rounds/7/objective": {
+        "orig": "Beat a stronger version of \\c[3]\\v[combat.name.boss/elephant]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Создателя\\c[0] из \\c[3]Пустоши Вермиллион\\c[0]!"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "arena/boss-cup.json/core/name": {
+        "orig": "Dungeon Boss Cup",
+        "text": "Кубок боссов подземелий"
+    },
+    "arena/boss-cup.json/core/info": {
+        "orig": "Take on stronger versions of the boss fights of all the temples and dungeons.",
+        "text": "Справьтесь с усиленными версиями боссов из всех храмов и подземелий."
+    },
+    "arena/boss-cup.json/core/creator": {
+        "orig": "Lachsen",
+        "text": "Lachsen"
+    },
+    "arena/boss-cup.json/rounds/0/name": {
+        "orig": "The Lethal Turret",
+        "text": "Смертоносная турель"
+    },
+    "arena/boss-cup.json/rounds/0/objective": {
+        "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.turret-boss]\\c[0] boss from \\c[3]\\v[area.rhombus-dng.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Тяжёлой турели Ромба 2.0\\c[0] из \\c[3]Подземелья Ромба\\c[0]!"
+    },
+    "arena/boss-cup.json/rounds/1/name": {
+        "orig": "The Frozen Robot",
+        "text": "Замороженный робот"
+    },
+    "arena/boss-cup.json/rounds/1/objective": {
+        "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.mine-diggingbot-cold]\\c[0] boss from \\c[3]\\v[area.cold-dng.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Заражённого дигмо\\c[0] из \\c[3]Храм-Шахты\\c[0]!"
+    },
+    "arena/boss-cup.json/rounds/2/name": {
+        "orig": "The Colossal Gear",
+        "text": "Колоссальный механизм"
+    },
+    "arena/boss-cup.json/rounds/2/objective": {
+        "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.boss-driller]\\c[0] boss from \\c[3]\\v[area.cold-dng.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]X01 Бурильщика H.F.S.\\c[0] из \\c[3]Храм-Шахты\\c[0]!"
+    },
+    "arena/boss-cup.json/rounds/3/name": {
+        "orig": "The Fierce Antlion",
+        "text": "Свирепый муравьиный лев"
+    },
+    "arena/boss-cup.json/rounds/3/objective": {
+        "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.heat/antlion]\\c[0] boss from \\c[3]\\v[area.heat-dng.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Пинзо'джрахрррн\\c[0] из \\c[3]Храма Фай'ро\\c[0]!"
+    },
+    "arena/boss-cup.json/rounds/4/name": {
+        "orig": "The Gigantic Moth",
+        "text": "Гигантская моль"
+    },
+    "arena/boss-cup.json/rounds/4/objective": {
+        "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.heat/megamoth]\\c[0] boss from \\c[3]\\v[area.heat-dng.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Мастера Магмоль\\c[0] из \\c[3]Храма Фай'ро\\c[0]!"
+    },
+    "arena/boss-cup.json/rounds/5/name": {
+        "orig": "The Ghost of Lightning",
+        "text": "Призрак молний"
+    },
+    "arena/boss-cup.json/rounds/5/objective": {
+        "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.jungle/shockboss]\\c[0] boss from \\c[3]\\v[area.shock-dng.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Плазменного фантома\\c[0] из \\c[3]Храма Зир'витар\\c[0]!"
+    },
+    "arena/boss-cup.json/rounds/6/name": {
+        "orig": "The Mighty Blob",
+        "text": "Могучий сгусток"
+    },
+    "arena/boss-cup.json/rounds/6/objective": {
+        "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.jungle/waveboss]\\c[0] boss from \\c[3]\\v[area.wave-dng.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Сэра Желатинуса Звёздникуса\\c[0] из \\c[3]Храма Со'найиз\\c[0]!"
+    },
+    "arena/boss-cup.json/rounds/7/name": {
+        "orig": "The Ape Warrior",
+        "text": "Обезьяна-воин"
+    },
+    "arena/boss-cup.json/rounds/7/objective": {
+        "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0] boss from \\c[3]\\v[area.tree-dng.name]\\c[0]!",
+        "text": "Победите усиленную версию \\c[3]Сына Востока\\c[0] из \\c[3]Гранд Крис'кайо\\c[0]!"
+    },
+    "arena/boss-cup.json/rounds/8/name": {
+        "orig": "The Monstrous Whale",
+        "text": "Чудовищный кит"
+    },
+    "arena/boss-cup.json/rounds/8/objective": {
+        "orig": "Beat stronger versions of the \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0] and \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0] boss from \\c[3]\\v[area.tree-dng.name]\\c[0]!",
+        "text": "Победите усиленные версии \\c[3]Сына Востока\\c[0] и \\c[3]Древнего Стража\\c[0] из \\c[3]Гранд Крис'кайо\\c[0]!"
+    }
+}

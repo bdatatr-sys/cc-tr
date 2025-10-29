@@ -1,0 +1,82 @@
+{
+    "credits/radicalfish-core.json/entries/developed/header": {
+        "orig": "Developed by",
+        "text": "Developed by"
+    },
+    "credits/radicalfish-core.json/entries/creativeDirector/header": {
+        "orig": "Creative Director",
+        "text": "Creative Director"
+    },
+    "credits/radicalfish-core.json/entries/programmers/header": {
+        "orig": "Main Programmers",
+        "text": "Main Programmers"
+    },
+    "credits/radicalfish-core.json/entries/composers/header": {
+        "orig": "Music Composer",
+        "text": "Music Composer"
+    },
+    "credits/radicalfish-core.json/entries/sounds/header": {
+        "orig": "Sound Designer",
+        "text": "Sound Designer"
+    },
+    "credits/radicalfish-core.json/entries/storyLore/header": {
+        "orig": "Story & Lore",
+        "text": "Story & Lore"
+    },
+    "credits/radicalfish-core.json/entries/conceptArt/header": {
+        "orig": "Concept Art",
+        "text": "Concept Art"
+    },
+    "credits/radicalfish-core.json/entries/levelDesign/header": {
+        "orig": "Area Level Design",
+        "text": "Area Level Design"
+    },
+    "credits/radicalfish-core.json/entries/dungeonDesign/header": {
+        "orig": "Dungeon Level Design",
+        "text": "Dungeon Level Design"
+    },
+    "credits/radicalfish-core.json/entries/menuDesign/header": {
+        "orig": "Menu Design & Programming",
+        "text": "Menu Design & Programming"
+    },
+    "credits/radicalfish-core.json/entries/enemyDesign/header": {
+        "orig": "Enemy Design & Programming",
+        "text": "Enemy Design & Programming"
+    },
+    "credits/radicalfish-core.json/entries/questDesign/header": {
+        "orig": "Quest Design ",
+        "text": "Quest Design "
+    },
+    "credits/radicalfish-core.json/entries/worldGraphics/header": {
+        "orig": "Overworld Graphics",
+        "text": "Overworld Graphics"
+    },
+    "credits/radicalfish-core.json/entries/effectsAnimations/header": {
+        "orig": "Effects & Animations",
+        "text": "Effects & Animations"
+    },
+    "credits/radicalfish-core.json/entries/faces/header": {
+        "orig": "Portrait Design & Graphics",
+        "text": "Portrait Design & Graphics"
+    },
+    "credits/radicalfish-core.json/entries/npcSprites/header": {
+        "orig": "NPC Graphics",
+        "text": "NPC Graphics"
+    },
+    "credits/radicalfish-core.json/entries/business/header": {
+        "orig": "Business Adviser ",
+        "text": "Business Adviser "
+    },
+    "credits/radicalfish-core.json/entries/localization/header": {
+        "orig": "German Localization",
+        "text": "German Localization"
+    },
+    "credits/radicalfish-core.json/entries/promotionalArt/header": {
+        "orig": "Promotional Art",
+        "text": "Promotional Art"
+    },
+    "credits/radicalfish-core.json/entries/specialThanks/header": {
+        "orig": "Special Thanks",
+        "text": "Special Thanks"
+    }
+}

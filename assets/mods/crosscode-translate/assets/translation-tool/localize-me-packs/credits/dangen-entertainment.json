@@ -1,0 +1,42 @@
+{
+    "credits/dangen-entertainment.json/entries/license-1/header": {
+        "orig": "Licensed and published in Japan by",
+        "text": "Licensed and published in Japan by"
+    },
+    "credits/dangen-entertainment.json/entries/dev-relations/header": {
+        "orig": "Developer Relations",
+        "text": "Developer Relations"
+    },
+    "credits/dangen-entertainment.json/entries/pr-and-marketing/header": {
+        "orig": "PR & Marketing",
+        "text": "PR & Marketing"
+    },
+    "credits/dangen-entertainment.json/entries/loc-manager/header": {
+        "orig": "Localization Manager",
+        "text": "Localization Manager"
+    },
+    "credits/dangen-entertainment.json/entries/stream-prod/header": {
+        "orig": "Streaming Producer",
+        "text": "Streaming Producer"
+    },
+    "credits/dangen-entertainment.json/entries/advisior/header": {
+        "orig": "Advisor",
+        "text": "Advisor"
+    },
+    "credits/dangen-entertainment.json/entries/jap-trans-header/header": {
+        "orig": "Japanese Localization",
+        "text": "Japanese Localization"
+    },
+    "credits/dangen-entertainment.json/entries/jap-trans/header": {
+        "orig": "Translation",
+        "text": "Translation"
+    },
+    "credits/dangen-entertainment.json/entries/jap-trans-edit/header": {
+        "orig": "Editing",
+        "text": "Editing"
+    },
+    "credits/dangen-entertainment.json/entries/jap-trans-qa/header": {
+        "orig": "QA Tester",
+        "text": "QA Tester"
+    }
+}

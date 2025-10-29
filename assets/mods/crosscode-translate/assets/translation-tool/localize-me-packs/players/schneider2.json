@@ -1,0 +1,46 @@
+{
+    "players/schneider2.json/actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name": {
+        "orig": "ERST SCHLITZER!!!",
+        "text": "ERST SCHLITZER!!!"
+    },
+    "players/schneider2.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
+        "orig": "Wirbelschlitzer",
+        "text": "Wirbelschlitzer"
+    },
+    "players/schneider2.json/actions/NEUTRAL/DASH_SPECIAL1_A/name": {
+        "orig": "Erstschlag",
+        "text": "Erstschlag"
+    },
+    "players/schneider2.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
+        "orig": "Flammenwirbler",
+        "text": "Flammenwirbler"
+    },
+    "players/schneider2.json/actions/HEAT/DASH_SPECIAL1_A/name": {
+        "orig": "Feuersprint",
+        "text": "Feuersprint"
+    },
+    "players/schneider2.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
+        "orig": "Kältewirbler",
+        "text": "Kältewirbler"
+    },
+    "players/schneider2.json/actions/COLD/DASH_SPECIAL1_A/name": {
+        "orig": "Eisbahn",
+        "text": "Eisbahn"
+    },
+    "players/schneider2.json/actions/SHOCK/ATTACK_SPECIAL1_A/name": {
+        "orig": "Schockwirbler",
+        "text": "Schockwirbler"
+    },
+    "players/schneider2.json/actions/SHOCK/DASH_SPECIAL1_A/name": {
+        "orig": "Donnerpfeil",
+        "text": "Donnerpfeil"
+    },
+    "players/schneider2.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
+        "orig": "Wellenwirbler",
+        "text": "Wellenwirbler"
+    },
+    "players/schneider2.json/actions/WAVE/DASH_SPECIAL1_A/name": {
+        "orig": "Wellenritt",
+        "text": "Wellenritt"
+    }
+}

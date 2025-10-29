@@ -1,0 +1,74 @@
+{
+    "areas/heat-village.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/heat-village.json/floors/0/name": {
+        "orig": "Cellar",
+        "text": "Погреб"
+    },
+    "areas/heat-village.json/floors/0/maps/0/name": {
+        "orig": "Seeker Hub Cellar",
+        "text": "Подвал центра Искателей"
+    },
+    "areas/heat-village.json/floors/0/maps/1/name": {
+        "orig": "Distillery",
+        "text": "Винокурня"
+    },
+    "areas/heat-village.json/floors/1/name": {
+        "orig": "Ground",
+        "text": "Земля"
+    },
+    "areas/heat-village.json/floors/1/maps/0/name": {
+        "orig": "Solar Farm",
+        "text": "Солнечная ферма"
+    },
+    "areas/heat-village.json/floors/1/maps/1/name": {
+        "orig": "Market",
+        "text": "Рынок"
+    },
+    "areas/heat-village.json/floors/1/maps/2/name": {
+        "orig": "Seeker Hub",
+        "text": "Центр Искателей"
+    },
+    "areas/heat-village.json/floors/1/maps/3/name": {
+        "orig": "Shop",
+        "text": "Магазин"
+    },
+    "areas/heat-village.json/floors/1/maps/4/name": {
+        "orig": "Shad Home",
+        "text": "Дом шадов"
+    },
+    "areas/heat-village.json/floors/1/maps/5/name": {
+        "orig": "Arid Breeze HQ",
+        "text": "Штаб Сухого бриза"
+    },
+    "areas/heat-village.json/floors/1/maps/6/name": {
+        "orig": "Ba'kii Guard HQ",
+        "text": "Штаб Бакийской стражи"
+    },
+    "areas/heat-village.json/floors/1/maps/7/name": {
+        "orig": "Bazaar House",
+        "text": "Базарный дом"
+    },
+    "areas/heat-village.json/floors/1/maps/8/name": {
+        "orig": "Dusty Home",
+        "text": "Пыльный дом"
+    },
+    "areas/heat-village.json/floors/1/maps/9/name": {
+        "orig": "Children of Shadoon HQ",
+        "text": "Дети Шадуна"
+    },
+    "areas/heat-village.json/floors/2/name": {
+        "orig": "Upper",
+        "text": "Верхний"
+    },
+    "areas/heat-village.json/floors/2/maps/0/name": {
+        "orig": "Seeker Hub 2nd Floor",
+        "text": "Центр Искателей 2-й этаж"
+    },
+    "areas/heat-village.json/floors/2/maps/1/name": {
+        "orig": "Bazaar House Storage",
+        "text": "Склад Базарного дома"
+    }
+}

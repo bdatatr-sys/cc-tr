@@ -1,0 +1,114 @@
+{
+    "areas/wave-dng.json/name": {
+        "orig": "untitled",
+        "text": "untitled"
+    },
+    "areas/wave-dng.json/floors/0/name": {
+        "orig": "B1",
+        "text": "B1"
+    },
+    "areas/wave-dng.json/floors/0/maps/0/name": {
+        "orig": "Principle of Conveyance",
+        "text": "Принцип транспортировки"
+    },
+    "areas/wave-dng.json/floors/0/maps/1/name": {
+        "orig": "Trial of Fishing",
+        "text": "Испытание рыбалки"
+    },
+    "areas/wave-dng.json/floors/0/maps/2/name": {
+        "orig": "Principle of Attraction",
+        "text": "Принцип притяжения"
+    },
+    "areas/wave-dng.json/floors/0/maps/3/name": {
+        "orig": "Trial of Persistence",
+        "text": "Испытание стойкости"
+    },
+    "areas/wave-dng.json/floors/0/maps/4/name": {
+        "orig": "Moving Attraction",
+        "text": "Подвижное притяжение"
+    },
+    "areas/wave-dng.json/floors/0/maps/5/name": {
+        "orig": "Trial of Attraction",
+        "text": "Испытание притяжения"
+    },
+    "areas/wave-dng.json/floors/0/maps/6/name": {
+        "orig": "Slowing Attraction",
+        "text": "Замедленное притяжение"
+    },
+    "areas/wave-dng.json/floors/0/maps/7/name": {
+        "orig": "Captivated Conveyance",
+        "text": "Пленённая транспортировка"
+    },
+    "areas/wave-dng.json/floors/0/maps/8/name": {
+        "orig": "Trial of Wobble",
+        "text": "Испытание колебания"
+    },
+    "areas/wave-dng.json/floors/0/maps/9/name": {
+        "orig": "Standing Attraction",
+        "text": "Стоячее притяжение"
+    },
+    "areas/wave-dng.json/floors/0/maps/10/name": {
+        "orig": "Trial of Channels",
+        "text": "Испытание каналов"
+    },
+    "areas/wave-dng.json/floors/0/maps/11/name": {
+        "orig": "Attracting Conveyance",
+        "text": "Притягивающая транспортировка"
+    },
+    "areas/wave-dng.json/floors/0/maps/12/name": {
+        "orig": "Chaining Conveyance",
+        "text": "Цепная транспортировка"
+    },
+    "areas/wave-dng.json/floors/0/maps/13/name": {
+        "orig": "Trial of Base Colors",
+        "text": "Испытание базовых цветов"
+    },
+    "areas/wave-dng.json/floors/0/maps/14/name": {
+        "orig": "Trial of Impulses",
+        "text": "Испытание импульсов"
+    },
+    "areas/wave-dng.json/floors/0/maps/15/name": {
+        "orig": "Fast Conveyance",
+        "text": "Быстрая транспортировка"
+    },
+    "areas/wave-dng.json/floors/0/maps/16/name": {
+        "orig": "Standing Conveyance",
+        "text": "Стоячая транспортировка"
+    },
+    "areas/wave-dng.json/floors/0/maps/17/name": {
+        "orig": "Flaming Conveyance",
+        "text": "Пылающая транспортировка"
+    },
+    "areas/wave-dng.json/floors/0/maps/18/name": {
+        "orig": "Trial of Conveyance",
+        "text": "Испытание транспортировки"
+    },
+    "areas/wave-dng.json/floors/0/maps/19/name": {
+        "orig": "Conveyable Attraction",
+        "text": "Транспортируемое притяжение"
+    },
+    "areas/wave-dng.json/floors/0/maps/20/name": {
+        "orig": "Chamber of Shock",
+        "text": "Зал шока"
+    },
+    "areas/wave-dng.json/floors/0/maps/21/name": {
+        "orig": "Conclusion of Conveyance",
+        "text": "Заключение транспортировки"
+    },
+    "areas/wave-dng.json/floors/0/maps/22/name": {
+        "orig": "Trial of Conduct",
+        "text": "Испытание проводки"
+    },
+    "areas/wave-dng.json/floors/0/maps/23/name": {
+        "orig": "Bouncing Surprise",
+        "text": "Прыгающий сюрприз"
+    },
+    "areas/wave-dng.json/floors/1/name": {
+        "orig": "G",
+        "text": "G"
+    },
+    "areas/wave-dng.json/floors/1/maps/0/name": {
+        "orig": "Entry Test",
+        "text": "Вступительный тест"
+    }
+}

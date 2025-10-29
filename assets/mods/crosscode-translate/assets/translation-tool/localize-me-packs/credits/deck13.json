@@ -1,0 +1,30 @@
+{
+    "credits/deck13.json/entries/license-1/header": {
+        "orig": "Published by",
+        "text": "Published by"
+    },
+    "credits/deck13.json/entries/directors/header": {
+        "orig": "Managing Director",
+        "text": "Managing Director"
+    },
+    "credits/deck13.json/entries/marketing/header": {
+        "orig": "PR & Marketing Manager",
+        "text": "PR & Marketing Manager"
+    },
+    "credits/deck13.json/entries/qaLead/header": {
+        "orig": "QA Lead",
+        "text": "QA Lead"
+    },
+    "credits/deck13.json/entries/qaTester/header": {
+        "orig": "QA Tester",
+        "text": "QA Tester"
+    },
+    "credits/deck13.json/entries/translationST/header": {
+        "orig": "German Localization Special Thanks",
+        "text": "German Localization Special Thanks"
+    },
+    "credits/deck13.json/entries/specialThanks/header": {
+        "orig": "Special Thanks",
+        "text": "Special Thanks"
+    }
+}

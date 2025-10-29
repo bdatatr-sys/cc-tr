@@ -1,0 +1,10 @@
+{
+    "maps/rd-test.json/entities/1/settings/npcStates/3/event/1/message": {
+        "orig": "Sad...",
+        "text": "Грустно..."
+    },
+    "maps/rd-test.json/entities/1/settings/npcStates/3/event/2/message": {
+        "orig": "SHOCKED!",
+        "text": "ШОКИРОВАН!"
+    }
+}

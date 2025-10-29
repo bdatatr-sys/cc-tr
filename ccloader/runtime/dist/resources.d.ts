@@ -1,0 +1,22 @@
+import { PatchList, ResourcePatchList } from './patch-list.js';
+import * as types from 'ultimate-crosscode-typedefs/modloader-stdlib/resources';
+import { ResourceGenerator } from 'ultimate-crosscode-typedefs/modloader-stdlib/patch-list';
+export declare const MOD_PROTOCOL = "mod:";
+export declare const MOD_PROTOCOL_PREFIX: string;
+export declare const assetOverridesTable: Map<string, string>;
+export declare const textGenerators: PatchList<ResourceGenerator<string, types.TextGeneratorContext>>;
+export declare const jsonPatches: ResourcePatchList<unknown, types.JSONPatcherContext>;
+export declare const jsonGenerators: PatchList<ResourceGenerator<unknown, types.JSONGeneratorContext>>;
+export declare const imagePatches: ResourcePatchList<HTMLCanvasElement, types.ImagePatcherContext>;
+export declare const imageGenerators: PatchList<ResourceGenerator<HTMLImageElement | HTMLCanvasElement, types.ImageGeneratorContext>>;
+export declare function loadText(path: string, options?: types.LoadTextOptions | null): Promise<string>;
+export declare function loadJSON<T = unknown>(path: string, options?: types.LoadJSONOptions | null): Promise<T>;
+export declare function loadImage(path: string, options?: types.LoadImageOptions | null): Promise<HTMLImageElement | HTMLCanvasElement>;
+export declare function resolvePath(uri: string, options?: types.ResolvePathOptions | null): string;
+export declare function resolvePathToURL(path: string, options?: types.ResolvePathOptions | null): string;
+export declare function resolvePathAdvanced(uri: string, options?: types.ResolvePathOptions | null): types.ResolvePathAdvancedResult;
+export declare function wrapPathIntoURL(path: string): URL;
+export declare function getGameAssetsURL(): URL;
+export declare function getCacheSuffix(): string;
+export declare const namespace: typeof ccmod.resources;
+//# sourceMappingURL=resources.d.ts.map
