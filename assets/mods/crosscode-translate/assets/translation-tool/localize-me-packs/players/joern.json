@@ -1,62 +1,62 @@
 {
     "players/joern.json/actions/NEUTRAL/ATTACK_SPECIAL1/name": {
         "orig": "Gravity Taunt",
-        "text": "Грави-вызов"
+        "text": "Гравітаційний Виклик"
     },
     "players/joern.json/actions/NEUTRAL/THROW_SPECIAL1/name": {
         "orig": "Gravity Taunt",
-        "text": "Грави-вызов"
+        "text": "Гравітаційний Виклик"
     },
     "players/joern.json/actions/NEUTRAL/GUARD_SPECIAL1/name": {
         "orig": "Kinetic Shield",
-        "text": "Кинетический щит"
+        "text": "Кінетичний Щит"
     },
     "players/joern.json/actions/HEAT/ATTACK_SPECIAL1/name": {
         "orig": "Heat Taunt",
-        "text": "Тепловой вызов"
+        "text": "Тепловий Виклик"
     },
     "players/joern.json/actions/HEAT/THROW_SPECIAL1/name": {
         "orig": "Heat Taunt",
-        "text": "Тепловой вызов"
+        "text": "Тепловий Виклик"
     },
     "players/joern.json/actions/HEAT/GUARD_SPECIAL1/name": {
         "orig": "Heatshield",
-        "text": "Тепловой щит"
+        "text": "Тепловий Щит"
     },
     "players/joern.json/actions/COLD/ATTACK_SPECIAL1/name": {
         "orig": "Cold Taunt",
-        "text": "Холодный вызов"
+        "text": "Холодний Виклик"
     },
     "players/joern.json/actions/COLD/THROW_SPECIAL1/name": {
         "orig": "Cold Taunt",
-        "text": "Холодный вызов"
+        "text": "Холодний Виклик"
     },
     "players/joern.json/actions/COLD/GUARD_SPECIAL1/name": {
         "orig": "Coldshield",
-        "text": "Холодный щит"
+        "text": "Холодний Щит"
     },
     "players/joern.json/actions/SHOCK/ATTACK_SPECIAL1/name": {
         "orig": "Shock Taunt",
-        "text": "Шоковый вызов"
+        "text": "Шоковий Виклик"
     },
     "players/joern.json/actions/SHOCK/THROW_SPECIAL1/name": {
         "orig": "Shock Taunt",
-        "text": "Шоковый вызов"
+        "text": "Шоковий Виклик"
     },
     "players/joern.json/actions/SHOCK/GUARD_SPECIAL1/name": {
         "orig": "Shockshield",
-        "text": "Шоковый щит"
+        "text": "Шоковий Щит"
     },
     "players/joern.json/actions/WAVE/ATTACK_SPECIAL1/name": {
         "orig": "Wave Taunt",
-        "text": "Волновой вызов"
+        "text": "Хвильовий Виклик"
     },
     "players/joern.json/actions/WAVE/THROW_SPECIAL1/name": {
         "orig": "Wave Taunt",
-        "text": "Волновой вызов"
+        "text": "Хвильовий Виклик"
     },
     "players/joern.json/actions/WAVE/GUARD_SPECIAL1/name": {
         "orig": "Waveshield",
-        "text": "Волновой щит"
+        "text": "Хвильовий Щит"
     }
 }

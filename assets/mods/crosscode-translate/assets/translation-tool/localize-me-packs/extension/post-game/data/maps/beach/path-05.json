@@ -1,1 +1,58 @@
-{"extension/post-game/data/maps/beach/path-05.json/entities/703/settings/condAnims/0/interact/hoverText":{"orig":"Memorial Statue","text":"Статуя-мемориал"},"extension/post-game/data/maps/beach/path-05.json/entities/721/settings/text":{"orig":"Sir Blobikus Memorial","text":"Мемориал сэру Желатинусу"},"extension/post-game/data/maps/beach/path-05.json/entities/731/settings/event/0/message":{"orig":"Surrounded by water...\\. aren't you guys a bit nervous?","text":"Окружённые водой...\\. а вы, ребят, не нервничаете?"},"extension/post-game/data/maps/beach/path-05.json/entities/731/settings/event/1/message":{"orig":"It might look pleasant, but it's actually quite deadly here.","text":"Это может показаться приятным, но на самом деле здесь довольно опасно."},"extension/post-game/data/maps/beach/path-05.json/entities/732/settings/event/0/message":{"orig":"Naturally shaped stone bridge.\\. No, of course it doesn't make sense.\\. Looks nice, though.","text":"Каменный мост естественной формы.\\. Нет, конечно, это нелогично.\\. Хотя выглядит неплохо."},"extension/post-game/data/maps/beach/path-05.json/entities/733/settings/event/0/message":{"orig":"Those stones remind me a bit of those... \\c[3]indecisive flowers\\c[0] in Vermillion Wasteland!\\. Remember those, Lea?","text":"Эти камни немного напоминают мне те... \\c[3]нерешительные цветы\\c[0] в Пустоши Вермиллион!\\. Помнишь их, Лея?"},"extension/post-game/data/maps/beach/path-05.json/entities/733/settings/event/1/message":{"orig":"...","text":"..."},"extension/post-game/data/maps/beach/path-05.json/entities/733/settings/event/2/message":{"orig":"This is just as narrow... but at least you don't have to repeat the whole thing when you fall into the water.","text":"Эти столбы такие же узкие... но, по крайней мере, тебе не нужно всё повторять, когда ты падаешь в воду."},"extension/post-game/data/maps/beach/path-05.json/entities/734/settings/event/0/0/0/message":{"orig":"Of course!\\. The Ancients always reward those that explore ahead of time!\\. It seems we missed a switch!","text":"Конечно!\\. Древние всегда награждают тех, кто исследует заранее!\\. Похоже, мы пропустили переключатель!"},"extension/post-game/data/maps/beach/path-05.json/entities/734/settings/event/0/1/0/message":{"orig":"Ugh!\\. Of course we had to hit another switch first.\\. OF COURSE!","text":"Аргх!\\. Конечно, сначала нам надо было нажать на очередной переключатель.\\. НУ КОНЕЧНО!"},"extension/post-game/data/maps/beach/path-05.json/entities/734/settings/event/0/2/0/message":{"orig":"Oh, we didn't activate that jump panel yet?\\. That sucks...","text":"Ой, мы ещё не активировали ту панель для прыжков?\\. Отстой..."},"extension/post-game/data/maps/beach/path-05.json/entities/734/settings/event/0/3/0/message":{"orig":"Huh...\\. Guess we can't go on here!\\. I suppose we have to hit that switch first.","text":"Хмм...\\. Похоже, мы не можем здесь пройти!\\. Полагаю, сначала нужно нажать на этот переключатель."},"extension/post-game/data/maps/beach/path-05.json/entities/735/settings/event/0/0/0/message":{"orig":"Are we there yet?","text":"Мы уже на месте?"},"extension/post-game/data/maps/beach/path-05.json/entities/735/settings/event/0/1/0/message":{"orig":"Doesn't look like it ends here, huh?","text":"Не похоже, что здесь всё кончается, да?"}}
+{
+  "extension/post-game/data/maps/beach/path-05.json/entities/703/settings/condAnims/0/interact/hoverText": {
+    "orig": "Memorial Statue",
+    "text": "Статуя-мемориал"
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/721/settings/text": {
+    "orig": "Sir Blobikus Memorial",
+    "text": "Мемориал сэру Желатинусу"
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/731/settings/event/0/message": {
+    "orig": "Surrounded by water...\\. aren't you guys a bit nervous?",
+    "text": "Окружённые водой...\\. а вы, ребят, не нервничаете?"
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/731/settings/event/1/message": {
+    "orig": "It might look pleasant, but it's actually quite deadly here.",
+    "text": "Это может показаться приятным, но на самом деле здесь довольно опасно."
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/732/settings/event/0/message": {
+    "orig": "Naturally shaped stone bridge.\\. No, of course it doesn't make sense.\\. Looks nice, though.",
+    "text": "Каменный мост естественной формы.\\. Нет, конечно, это нелогично.\\. Хотя выглядит неплохо."
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/733/settings/event/0/message": {
+    "orig": "Those stones remind me a bit of those... \\c[3]indecisive flowers\\c[0] in Vermillion Wasteland!\\. Remember those, Lea?",
+    "text": "Эти камни немного напоминают мне те... \\c[3]нерешительные цветы\\c[0] в Пустоши Вермиллион!\\. Помнишь их, Лея?"
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/733/settings/event/1/message": {
+    "orig": "...",
+    "text": "..."
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/733/settings/event/2/message": {
+    "orig": "This is just as narrow... but at least you don't have to repeat the whole thing when you fall into the water.",
+    "text": "Эти столбы такие же узкие... но, по крайней мере, тебе не нужно всё повторять, когда ты падаешь в воду."
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/734/settings/event/0/0/0/message": {
+    "orig": "Of course!\\. The Ancients always reward those that explore ahead of time!\\. It seems we missed a switch!",
+    "text": "Конечно!\\. Древние всегда награждают тех, кто исследует заранее!\\. Похоже, мы пропустили переключатель!"
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/734/settings/event/0/1/0/message": {
+    "orig": "Ugh!\\. Of course we had to hit another switch first.\\. OF COURSE!",
+    "text": "Аргх!\\. Конечно, сначала нам надо было нажать на очередной переключатель.\\. НУ КОНЕЧНО!"
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/734/settings/event/0/2/0/message": {
+    "orig": "Oh, we didn't activate that jump panel yet?\\. That sucks...",
+    "text": "Ой, мы ещё не активировали ту панель для прыжков?\\. Отстой..."
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/734/settings/event/0/3/0/message": {
+    "orig": "Huh...\\. Guess we can't go on here!\\. I suppose we have to hit that switch first.",
+    "text": "Хмм...\\. Похоже, мы не можем здесь пройти!\\. Полагаю, сначала нужно нажать на этот переключатель."
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/735/settings/event/0/0/0/message": {
+    "orig": "Are we there yet?",
+    "text": "Мы уже на месте?"
+  },
+  "extension/post-game/data/maps/beach/path-05.json/entities/735/settings/event/0/1/0/message": {
+    "orig": "Doesn't look like it ends here, huh?",
+    "text": "Не похоже, что здесь всё кончается, да?"
+  }
+}

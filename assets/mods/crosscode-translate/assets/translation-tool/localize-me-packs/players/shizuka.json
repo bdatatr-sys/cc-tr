@@ -1,130 +1,130 @@
 {
     "players/shizuka.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
         "orig": "Spin Dance",
-        "text": "Круговой танец"
+        "text": "Круговий Танець"
     },
     "players/shizuka.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/description": {
         "orig": "A wide-ranged spinning move hitting many nearby enemies.",
-        "text": "Широкое вращательное движение, поражающее большую площадь."
+        "text": "Обертальний рух, що цілить у багатьох оточуючих ворогів."
     },
     "players/shizuka.json/actions/NEUTRAL/THROW_SPECIAL1_A/name": {
         "orig": "Bullet Rain",
-        "text": "Дождь из пуль"
+        "text": "Кулевий дощ"
     },
     "players/shizuka.json/actions/NEUTRAL/THROW_SPECIAL1_A/description": {
         "orig": "Fire a mass of small shots in a narrow angle.",
-        "text": "Выстрели множество маленьких снарядов с маленьким разбросом."
+        "text": "Постріл багатьма маленькими снарядами під вузьким кутом."
     },
     "players/shizuka.json/actions/NEUTRAL/DASH_SPECIAL1_B/name": {
         "orig": "First Cut",
-        "text": "Начальный разрез"
+        "text": "Перша Кров"
     },
     "players/shizuka.json/actions/NEUTRAL/DASH_SPECIAL1_B/description": {
         "orig": "A very powerful attack that will hit exactly one enemy.",
-        "text": "Очень мощная атака, которая может поразить только одного врага."
+        "text": "Потужна атака, яка наносить шкоду лише одному ворогу."
     },
     "players/shizuka.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
         "orig": "Fire Whirl",
-        "text": "Огненный вихрь"
+        "text": "Вогняний Вир"
     },
     "players/shizuka.json/actions/HEAT/ATTACK_SPECIAL1_A/description": {
         "orig": "Performs a fierce whirl attack, engulfing your enemies in flames.",
-        "text": "Проведи свирепую вихревую атаку, поглощая врагов пламенем."
+        "text": "Виконай запеклу обертальну атаку, що охоплює ворогів полум'ям.."
     },
     "players/shizuka.json/actions/HEAT/THROW_SPECIAL1_A/name": {
         "orig": "Burn!",
-        "text": "Гори!"
+        "text": "Палай!"
     },
     "players/shizuka.json/actions/HEAT/THROW_SPECIAL1_A/description": {
         "orig": "A controllable blazing burst of fire that deals damage over a small area.",
-        "text": "Контролируемый полыхающий огненный взрыв, наносящий урон в небольшом радиусе."
+        "text": "Керований спалах полум'я, що завдає шкоди у невеликій зоні."
     },
     "players/shizuka.json/actions/HEAT/DASH_SPECIAL1_A/name": {
         "orig": "Crimson Strike",
-        "text": "Багровая атака"
+        "text": "Багряний удар"
     },
     "players/shizuka.json/actions/HEAT/DASH_SPECIAL1_A/description": {
         "orig": "Dash through your enemies while leaving a trail of fire.",
-        "text": "Сделай рывок через врагов, оставляя огненный след."
+        "text": "Ривок крізь ворогів, залишаючи за собою вогняний слід."
     },
     "players/shizuka.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
         "orig": "Ice Twirl",
-        "text": "Ледяной вихрь"
+        "text": "Крижаний вир"
     },
     "players/shizuka.json/actions/COLD/ATTACK_SPECIAL1_A/description": {
         "orig": "Performs a stationary ice whirl attack with wide range and strong knockback.",
-        "text": "Соверши вихревую атаку на месте с большим радиусом и сильным отталкиванием."
+        "text": "Виконай крижану вихрову атаку з великим радіусом дії та сильним відштовхуванням."
     },
     "players/shizuka.json/actions/COLD/THROW_SPECIAL1_A/name": {
         "orig": "Snow Flawke",
-        "text": "Снежный изъян"
+        "text": "Сніговий Вибух"
     },
     "players/shizuka.json/actions/COLD/THROW_SPECIAL1_A/description": {
         "orig": "Hit enemies with a big snow explosion, caging them within icicles.",
-        "text": "Порази врагов большим снежным взрывом, который окружает врагов сосульками."
+        "text": "Сильний сніговий вибух, який оточує ворогів бурульками."
     },
     "players/shizuka.json/actions/COLD/THROW_SPECIAL1_NO/name": {
         "orig": "Hail Flurry",
-        "text": "Шквальный град"
+        "text": "Шквал ледиць"
     },
     "players/shizuka.json/actions/COLD/THROW_SPECIAL1_NO/description": {
         "orig": "Quickly shoots a mass of icy spikes.",
-        "text": "Быстро выстрели множество ледяных шипов."
+        "text": "Швидкий постріл багатьма крижаними шипами."
     },
     "players/shizuka.json/actions/COLD/DASH_SPECIAL1_A/name": {
         "orig": "Indigo Strike",
-        "text": "Удар индиго"
+        "text": "Удар Індиго"
     },
     "players/shizuka.json/actions/COLD/DASH_SPECIAL1_A/description": {
         "orig": "Dash with high speed, leaving a trail of icicles behind you, damaging enemies on contact.",
-        "text": "Сделай быстрый рывок, оставляя след из сосулек за собой, которые наносят урон врагам при контакте."
+        "text": "Зроби швидкий ривок, залишаючи за собою слід із бурульок, котрі наносять шкоду ворогам при контакті."
     },
     "players/shizuka.json/actions/SHOCK/ATTACK_SPECIAL1/name": {
         "orig": "Tesla Twist",
-        "text": "Вращение Теслы"
+        "text": "Дзиґа Тесли"
     },
     "players/shizuka.json/actions/SHOCK/ATTACK_SPECIAL1/description": {
         "orig": "Attack with a series of multiple fast spin attacks within a small radius.",
-        "text": "Атакуй серией быстрых вращений с маленьким радиусом."
+        "text": "Атакуй серією швидких обертальних атак в маленькому радіусі."
     },
     "players/shizuka.json/actions/SHOCK/THROW_SPECIAL1/name": {
         "orig": "Homing Wisp",
-        "text": "Управляемые огни"
+        "text": "Самонаводні Вогники"
     },
     "players/shizuka.json/actions/SHOCK/THROW_SPECIAL1/description": {
         "orig": "Shoot an array of small homing projectiles.",
-        "text": "Выстрели множество маленьких самонаводящихся снарядов."
+        "text": "Постріл серією маленьких самонаводних снарядів."
     },
     "players/shizuka.json/actions/SHOCK/DASH_SPECIAL1_B/name": {
         "orig": "Thunder Dart",
-        "text": "Громовой дротик"
+        "text": "Громовий Дротик"
     },
     "players/shizuka.json/actions/SHOCK/DASH_SPECIAL1_B/description": {
         "orig": "Dash through enemies leaving a shocking trail of lightning.",
-        "text": "Сделай рывок через врагов, оставляя шоковый след из молний."
+        "text": "Зроби ривок через ворогів, залишаючи по собі блискавичний слід."
     },
     "players/shizuka.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
         "orig": "Ki Thrust",
-        "text": "Выпад Ки"
+        "text": "Випад Чі"
     },
     "players/shizuka.json/actions/WAVE/ATTACK_SPECIAL1_A/description": {
         "orig": "Frontal attack with high damage, sending all hit enemies flying.",
-        "text": "Атака вперёд с высоким уроном, отправляющая врагов в полёт."
+        "text": "Фронтова атака, яка наносить багато шкоди та відправляє цілі в політ."
     },
     "players/shizuka.json/actions/WAVE/THROW_SPECIAL1_A/name": {
         "orig": "Fae Round",
-        "text": "Пуля феи"
+        "text": "Куля Феї"
     },
     "players/shizuka.json/actions/WAVE/THROW_SPECIAL1_A/description": {
         "orig": "Shoots a super fast projectile penetrating a line of enemies.",
-        "text": "Выстрели сверхбыстрым снарядом, пробивающим линию врагов."
+        "text": "Надшвидкий снаряд, що пробиває лінію ворогів."
     },
     "players/shizuka.json/actions/WAVE/DASH_SPECIAL1_A/name": {
         "orig": "Verdant Strike",
-        "text": "Зелёный удар"
+        "text": "Зелений Удар"
     },
     "players/shizuka.json/actions/WAVE/DASH_SPECIAL1_A/description": {
         "orig": "Dash with high speed, damaging and stunning enemies along the way.",
-        "text": "Сделай рывок на большой скорости, нанося урон и оглушая всех противников на пути."
+        "text": "Ривок на високій швидкості, що завдаює шкоди та приголомшує ворогів на шляху."
     }
 }

@@ -1,46 +1,46 @@
 {
     "players/glasses.json/actions/NEUTRAL/THROW_SPECIAL1/name": {
         "orig": "MAGIC MISSILE",
-        "text": "МАГИЧЕСКИЙ СНАРЯД"
+        "text": "МАГІЧНА РАКЕТА"
     },
     "players/glasses.json/actions/NEUTRAL/THROW_SPECIAL1/description": {
         "orig": "Use it to attack the darkness.",
-        "text": "Используй это, чтобы атаковать тьму."
+        "text": "Дозволяє атакувати пітьму."
     },
     "players/glasses.json/actions/NEUTRAL/THROW_SPECIAL1_NOPE/name": {
         "orig": "BUFF H3X!",
-        "text": "БАФАЙ Х3КС!"
+        "text": "BUFF H3X!"
     },
     "players/glasses.json/actions/HEAT/THROW_SPECIAL1/name": {
         "orig": "Heat Missile",
-        "text": "Тепловая ракета"
+        "text": "Теплова Ракета"
     },
     "players/glasses.json/actions/HEAT/THROW_SPECIAL1/description": {
         "orig": "Use it to attack the darkness.",
-        "text": "Используй это, чтобы атаковать тьму."
+        "text": "Дозволяє атакувати пітьму."
     },
     "players/glasses.json/actions/COLD/THROW_SPECIAL1/name": {
         "orig": "Cold Missile",
-        "text": "Холодная ракета"
+        "text": "Холодна Ракета"
     },
     "players/glasses.json/actions/COLD/THROW_SPECIAL1/description": {
         "orig": "Use it to attack the darkness.",
-        "text": "Используй это, чтобы атаковать тьму."
+        "text": "Дозволяє атакувати пітьму."
     },
     "players/glasses.json/actions/SHOCK/THROW_SPECIAL1/name": {
         "orig": "Shock Missile",
-        "text": "Шоковая ракета"
+        "text": "Шокуюча Ракета"
     },
     "players/glasses.json/actions/SHOCK/THROW_SPECIAL1/description": {
         "orig": "Use it to attack the darkness.",
-        "text": "Используй это, чтобы атаковать тьму."
+        "text": "Дозволяє атакувати пітьму."
     },
     "players/glasses.json/actions/WAVE/THROW_SPECIAL1/name": {
         "orig": "Wave Missile",
-        "text": "Волновая ракета"
+        "text": "Хвилююча Ракета"
     },
     "players/glasses.json/actions/WAVE/THROW_SPECIAL1/description": {
         "orig": "Use it to attack the darkness.",
-        "text": "Используй это, чтобы атаковать тьму."
+        "text": "Дозволяє атакувати пітьму."
     }
 }

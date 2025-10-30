@@ -1,170 +1,175 @@
 {
     "players/apollo.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
         "orig": "Spin Dance",
-        "text": "Круговой танец"
+        "text": "Круговий Танець"
     },
     "players/apollo.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/description": {
         "orig": "A wide-ranged spinning move hitting many nearby enemies.",
-        "text": "Широкое вращательное движение, поражающее большую площадь."
+        "text": "Обертальний рух, що цілить у багатьох оточуючих ворогів."
     },
     "players/apollo.json/actions/NEUTRAL/ATTACK_SPECIAL2_A/name": {
         "orig": "Spiral Dance",
-        "text": "Спиральный танец"
+        "text": "Спіральний танець"
     },
     "players/apollo.json/actions/NEUTRAL/ATTACK_SPECIAL2_A/description": {
         "orig": "A Spin Dance with more spins, hits, damage, and knockback.",
-        "text": "Круговой танец с большим количеством вращений, ударов, урона и отталкивания."
+        "text": "Поліпшений Круговий Танець: більше обертів, ударів, шкоди та відштовхування."
     },
     "players/apollo.json/actions/NEUTRAL/THROW_SPECIAL1_A/name": {
         "orig": "Bullet Rain",
-        "text": "Дождь из пуль"
+        "text": "Кулевий Дощ"
     },
     "players/apollo.json/actions/NEUTRAL/THROW_SPECIAL1_A/description": {
         "orig": "Fire a mass of small shots in a narrow angle.",
-        "text": "Выстрели множество маленьких снарядов с маленьким разбросом."
+        "text": "Постріл багатьма маленькими снарядами під вузьким кутом."
     },
     "players/apollo.json/actions/NEUTRAL/THROW_SPECIAL2_A/name": {
         "orig": "Bullet Inferno",
-        "text": "Пулевой ад"
+        "text": "Кулеве Пекло"
     },
     "players/apollo.json/actions/NEUTRAL/THROW_SPECIAL2_A/description": {
         "orig": "Fire an even larger mass of homing shots at your target.",
-        "text": "Выстрели ещё больше самонаводящихся снарядов в цель."
+        "text": "Ще більше самонавідних куль, що летять прямо у ціль."
     },
     "players/apollo.json/actions/NEUTRAL/DASH_SPECIAL1_A/name": {
         "orig": "Azure Strike",
-        "text": "Лазурный удар"
+        "text": "Лазуровий удар"
     },
     "players/apollo.json/actions/NEUTRAL/DASH_SPECIAL1_A/description": {
         "orig": "Dash right through your enemies, damaging everything in your way.",
-        "text": "Сделай рывок прямо через врагов, нанося урон всем на пути."
+        "text": "Ривок через ворогів, з нанесенням шкоди всім на твоєму шляху."
     },
     "players/apollo.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
         "orig": "Flame Jab",
-        "text": "Пламенный джеб"
+        "text": "Вогняний укол"
     },
     "players/apollo.json/actions/HEAT/ATTACK_SPECIAL1_A/description": {
         "orig": "A blazing thrust of fire piercing through enemies in front of you.",
-        "text": "Полыхающий выпад, пронизывающий врагов перед тобой."
+        "text": "Палаючий випад, що пронизує всіх ворогів попереду."
     },
     "players/apollo.json/actions/HEAT/ATTACK_SPECIAL1_NO/name": {
         "orig": "Fire Whirl",
-        "text": "Огненный вихрь"
+        "text": "Вогняний Вир"
     },
     "players/apollo.json/actions/HEAT/ATTACK_SPECIAL1_NO/description": {
         "orig": "Performs a fierce whirl attack, engulfing your enemies in flames.",
-        "text": "Проведи свирепую вихревую атаку, поглощая врагов пламенем."
+        "text": "Виконай запеклу обертальну атаку, що охоплює ворогів полум'ям.."
     },
     "players/apollo.json/actions/HEAT/ATTACK_SPECIAL2_A/name": {
         "orig": "Blazing Dragon",
-        "text": "Напор дракона"
+        "text": "Палаючий Дракон"
     },
     "players/apollo.json/actions/HEAT/ATTACK_SPECIAL2_A/description": {
         "orig": "Lock in enemies with 2 powerful strikes followed by a flaming air combo.",
-        "text": "Обездвижь врагов двумя мощными ударами, за которыми следует огненное воздушное комбо."
+        "text": "Скуй ворогів двома потужними ударами, після яких іде вогняне повітряне комбо."
     },
     "players/apollo.json/actions/HEAT/THROW_SPECIAL1_A/name": {
         "orig": "Burn!",
-        "text": "Гори!"
+        "text": "Палай!"
     },
     "players/apollo.json/actions/HEAT/THROW_SPECIAL1_A/description": {
         "orig": "A controllable blazing burst of fire that deals damage over a small area.",
-        "text": "Контролируемый полыхающий огненный взрыв, наносящий урон в небольшом радиусе."
+        "text": "Керований спалах полум'я, що завдає шкоди у невеликій зоні."
     },
     "players/apollo.json/actions/HEAT/DASH_SPECIAL1_A/name": {
         "orig": "Crimson Strike",
-        "text": "Багровая атака"
+        "text": "Багряний удар"
     },
     "players/apollo.json/actions/HEAT/DASH_SPECIAL1_A/description": {
         "orig": "Dash through your enemies while leaving a trail of fire.",
-        "text": "Сделай рывок через врагов, оставляя огненный след."
+        "text": "Ривок крізь ворогів, залишаючи за собою вогняний слід."
     },
     "players/apollo.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
         "orig": "Ice Twirl",
-        "text": "Ледяной вихрь"
+        "text": "Крижаний вир"
     },
     "players/apollo.json/actions/COLD/ATTACK_SPECIAL1_A/description": {
         "orig": "Performs a stationary ice whirl attack with wide range and strong knockback.",
-        "text": "Соверши вихревую атаку на месте с большим радиусом и сильным отталкиванием."
+        "text": "Виконай крижану вихрову атаку з великим радіусом дії та сильним відштовхуванням."
     },
     "players/apollo.json/actions/COLD/ATTACK_SPECIAL2_A/name": {
         "orig": "Blizzard Hawk",
-        "text": "Метельный ястреб"
+        "text": "Морозний Яструб"
     },
     "players/apollo.json/actions/COLD/ATTACK_SPECIAL2_A/description": {
         "orig": "Take a stand and do massive damage with 3 frozen stars.",
-        "text": "Займи позицию и нанеси огромный урон тремя ледяными звёздами."
+        "text": "Займи позицію та завдай величезної шкоди трьома крижаними зорями."
     },
     "players/apollo.json/actions/COLD/THROW_SPECIAL1_A/name": {
         "orig": "Hail Flurry",
-        "text": "Шквальный град"
+        "text": "Шквал ледиць"
     },
     "players/apollo.json/actions/COLD/THROW_SPECIAL1_A/description": {
         "orig": "Quickly shoots a mass of icy spikes.",
-        "text": "Быстро выстрели множество ледяных шипов."
+        "text": "Швидкий постріл багатьма крижаними шипами."
     },
+
+
+
+
+
     "players/apollo.json/actions/COLD/DASH_SPECIAL1_A/name": {
         "orig": "Indigo Strike",
-        "text": "Удар индиго"
+        "text": "Удар Індиго"
     },
     "players/apollo.json/actions/COLD/DASH_SPECIAL1_A/description": {
         "orig": "Dash with high speed, leaving a trail of icicles behind you, damaging enemies on contact.",
-        "text": "Сделай быстрый рывок, оставляя след из сосулек за собой, которые наносят урон врагам при контакте."
+        "text": "Зроби швидкий ривок, залишаючи за собою слід із бурульок, котрі наносять шкоду ворогам при контакті."
     },
     "players/apollo.json/actions/SHOCK/ATTACK_SPECIAL1/name": {
         "orig": "Tesla Twist",
-        "text": "Вращение Теслы"
+        "text": "Дзиґа Тесли"
     },
     "players/apollo.json/actions/SHOCK/ATTACK_SPECIAL1/description": {
         "orig": "Attack with a series of multiple fast spin attacks within a small radius.",
-        "text": "Атакуй серией быстрых вращений с маленьким радиусом."
+        "text": "Атака серією швидких обертальних атак у малому радіусі."
     },
     "players/apollo.json/actions/SHOCK/THROW_SPECIAL1/name": {
         "orig": "Diving Spark",
-        "text": "Пикирующая искра"
+        "text": "Пірнаюча Іскра"
     },
     "players/apollo.json/actions/SHOCK/THROW_SPECIAL1/description": {
         "orig": "Throw a projectile that creates a delayed lightning bolt damaging everything around it.",
-        "text": "Брось снаряд, который с задержкой создаёт удар молнии, наносящий урон всему вокруг."
+        "text": "Снаряд, який після попадання створює удар блискавкою, який завдає шкоди найближчим ворогам."
     },
     "players/apollo.json/actions/SHOCK/THROW_SPECIAL1_NO/name": {
         "orig": "Homing Wisp",
-        "text": "Управляемые огни"
+        "text": "Самонаводні Вогники"
     },
     "players/apollo.json/actions/SHOCK/THROW_SPECIAL1_NO/description": {
         "orig": "Shoot an array of small homing projectiles.",
-        "text": "Выстрели множество маленьких самонаводящихся снарядов."
+        "text": "Постріл серією маленьких самонаводних снарядів."
     },
     "players/apollo.json/actions/SHOCK/DASH_SPECIAL1_B/name": {
         "orig": "Thunder Dart",
-        "text": "Громовой дротик"
+        "text": "Громовий Дротик"
     },
     "players/apollo.json/actions/SHOCK/DASH_SPECIAL1_B/description": {
         "orig": "Dash through enemies leaving a shocking trail of lightning.",
-        "text": "Сделай рывок через врагов, оставляя шоковый след из молний."
+        "text": "Зроби ривок через ворогів, залишаючи по собі блискавичний слід."
     },
     "players/apollo.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
         "orig": "Ki Thrust",
-        "text": "Выпад Ки"
+        "text": "Випад Чі"
     },
     "players/apollo.json/actions/WAVE/ATTACK_SPECIAL1_A/description": {
         "orig": "Frontal attack with high damage, sending all hit enemies flying.",
-        "text": "Атака вперёд с высоким уроном, отправляющая врагов в полёт."
+        "text": "Фронтова атака, яка наносить багато шкоди та відправляє цілі в політ."
     },
     "players/apollo.json/actions/WAVE/THROW_SPECIAL1_B/name": {
         "orig": "Essence Drain",
-        "text": "Поглощение жизни"
+        "text": "Поглинання Життєвої Сили"
     },
     "players/apollo.json/actions/WAVE/THROW_SPECIAL1_B/description": {
         "orig": "Hit enemies with a swarm of projectiles absorbing its HP.",
-        "text": "Атакуй врагов роем снарядов, поглощающих их HP."
+        "text": "Атакуй ворога роєм снарядів, та поглинь його здоров'я."
     },
     "players/apollo.json/actions/WAVE/DASH_SPECIAL1_A/name": {
         "orig": "Verdant Strike",
-        "text": "Зелёный удар"
+        "text": "Зелений Удар"
     },
     "players/apollo.json/actions/WAVE/DASH_SPECIAL1_A/description": {
         "orig": "Dash with high speed, damaging and stunning enemies along the way.",
-        "text": "Сделай рывок на большой скорости, нанося урон и оглушая всех противников на пути."
+        "text": "Ривок на високій швидкості, що завдаює шкоди та приголомшує ворогів на шляху."
     }
 }

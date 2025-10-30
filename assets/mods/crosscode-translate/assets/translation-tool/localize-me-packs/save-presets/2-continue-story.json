@@ -1,10 +1,10 @@
 {
     "save-presets/2-continue-story.json/title": {
         "orig": "Continue Story",
-        "text": "Продолжить историю"
+        "text": "Продовжити Історію"
     },
     "save-presets/2-continue-story.json/sub": {
         "orig": "Start from where 0.4 ended",
-        "text": "Начните там, где кончилась 0.4"
+        "text": "Почніть звідти, де завершилась 0.4"
     }
 }

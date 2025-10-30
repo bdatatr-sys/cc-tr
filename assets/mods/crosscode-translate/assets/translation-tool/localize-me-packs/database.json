@@ -1,475 +1,475 @@
 {
-    "database.json/achievements/story-01/name": {
-        "orig": "Chapter 1 Complete",
-        "text": "Глава 1 завершена"
-    },
-    "database.json/achievements/story-01/description": {
-        "orig": "Completed Chapter 1.",
-        "text": "Завершите главу 1."
-    },
-    "database.json/achievements/story-02/name": {
-        "orig": "Chapter 2 Complete",
-        "text": "Глава 2 завершена"
-    },
-    "database.json/achievements/story-02/description": {
-        "orig": "Completed Chapter 2.",
-        "text": "Завершите главу 2."
-    },
-    "database.json/achievements/story-03/name": {
-        "orig": "Chapter 3 Complete",
-        "text": "Глава 3 завершена"
-    },
-    "database.json/achievements/story-03/description": {
-        "orig": "Completed Chapter 3.",
-        "text": "Завершите главу 3."
-    },
-    "database.json/achievements/story-04/name": {
-        "orig": "Chapter 4 Complete",
-        "text": "Глава 4 завершена"
-    },
-    "database.json/achievements/story-04/description": {
-        "orig": "Completed Chapter 4.",
-        "text": "Завершите главу 4."
-    },
-    "database.json/achievements/story-05/name": {
-        "orig": "Chapter 5 Complete",
-        "text": "Глава 5 завершена"
-    },
-    "database.json/achievements/story-05/description": {
-        "orig": "Completed Chapter 5.",
-        "text": "Завершите главу 5."
-    },
-    "database.json/achievements/story-06/name": {
-        "orig": "Chapter 6 Complete",
-        "text": "Глава 6 завершена"
-    },
-    "database.json/achievements/story-06/description": {
-        "orig": "Completed Chapter 6.",
-        "text": "Завершите главу 6."
-    },
-    "database.json/achievements/story-07/name": {
-        "orig": "Chapter 7 Complete",
-        "text": "Глава 7 завершена"
-    },
-    "database.json/achievements/story-07/description": {
-        "orig": "Completed Chapter 7.",
-        "text": "Завершите главу 7."
-    },
-    "database.json/achievements/story-08/name": {
-        "orig": "Chapter 8 Complete",
-        "text": "Глава 8 завершена"
-    },
-    "database.json/achievements/story-08/description": {
-        "orig": "Completed Chapter 8.",
-        "text": "Завершите главу 8."
-    },
-    "database.json/achievements/story-09/name": {
-        "orig": "Chapter 9 Complete",
-        "text": "Глава 9 завершена"
-    },
-    "database.json/achievements/story-09/description": {
-        "orig": "Completed Chapter 9.",
-        "text": "Завершите главу 9."
-    },
-    "database.json/achievements/story-10/name": {
-        "orig": "Chapter 10 Complete",
-        "text": "Глава 10 завершена"
-    },
-    "database.json/achievements/story-10/description": {
-        "orig": "Completed Chapter 10.",
-        "text": "Завершите главу 10."
-    },
-    "database.json/achievements/player-level-01/name": {
-        "orig": "Rookie Seeker",
-        "text": "Искатель-новичок"
-    },
-    "database.json/achievements/player-level-01/description": {
-        "orig": "Reach \\c[3]Level 25\\c[0].",
-        "text": "Достигните \\c[3]25 уровня\\c[0]."
-    },
-    "database.json/achievements/player-level-02/name": {
-        "orig": "Veteran Seeker",
-        "text": "Опытный Искатель"
-    },
-    "database.json/achievements/player-level-02/description": {
-        "orig": "Reach \\c[3]Level 50\\c[0].",
-        "text": "Достигните \\c[3]50 уровня\\c[0]."
-    },
-    "database.json/achievements/player-level-03/name": {
-        "orig": "Legendary Seeker",
-        "text": "Легендарный Искатель"
-    },
-    "database.json/achievements/player-level-03/description": {
-        "orig": "Reach \\c[3]Level 75\\c[0].",
-        "text": "Достигните \\c[3]75 уровня\\c[0]."
-    },
-    "database.json/achievements/player-level-04/name": {
-        "orig": "Ye 'ol Level Cap",
-        "text": "Старое доброе ограничение уровня"
-    },
-    "database.json/achievements/player-level-04/description": {
-        "orig": "Reach \\c[3]Level 99\\c[0]. Nothing can stop you now.",
-        "text": "Достигните \\c[3]99 уровня\\c[0]. Теперь вас ничто не остановит."
-    },
-    "database.json/achievements/player-money-01/name": {
-        "orig": "Rookie Banker",
-        "text": "Банкир-новичок"
-    },
-    "database.json/achievements/player-money-01/description": {
-        "orig": "Amass a \\c[3]total of \\v[misc.localNum.250000] Credits\\c[0] throughout your journey.",
-        "text": "Накопите \\c[3]в общей сложности \\v[misc.localNum.250000] кредитов\\c[0] во время странствий."
-    },
-    "database.json/achievements/player-money-02/name": {
-        "orig": "Veteran Banker",
-        "text": "Опытный банкир "
-    },
-    "database.json/achievements/player-money-02/description": {
-        "orig": "Amass a \\c[3]total of \\v[misc.localNum.500000] Credits\\c[0] throughout your journey.",
-        "text": "Накопите \\c[3]в общей сложности \\v[misc.localNum.500000] кредитов\\c[0] во время странствий."
-    },
-    "database.json/achievements/player-money-03/name": {
-        "orig": "Legendary Banker",
-        "text": "Легендарный банкир"
-    },
-    "database.json/achievements/player-money-03/description": {
-        "orig": "Amass a \\c[3]total of \\v[misc.localNum.750000] Credits\\c[0] throughout your journey.",
-        "text": "Накопите \\c[3]в общей сложности \\v[misc.localNum.750000] кредитов\\c[0] во время странствий."
-    },
-    "database.json/achievements/player-money-04/name": {
-        "orig": "Let's swim in my Vault!",
-        "text": "Давай купаться в моём хранилище!"
-    },
-    "database.json/achievements/player-money-04/description": {
-        "orig": "Amass a \\c[3]total of \\v[misc.localNum.1000000] Credits\\c[0] throughout your journey.",
-        "text": "Накопите \\c[3]в общей сложности \\v[misc.localNum.1000000] кредитов\\c[0] во время странствий."
-    },
-    "database.json/achievements/playtime-01/name": {
-        "orig": "Time well spent",
-        "text": "Время потрачено не зря"
-    },
-    "database.json/achievements/playtime-01/description": {
-        "orig": "Play the game for a \\c[3]total of 10 hours\\c[0]. Don't worry there's no speedrun version.",
-        "text": "Играйте в игру \\c[3]10 часов\\c[0]. Не волнуйтесь, спидран-версии нет."
-    },
-    "database.json/achievements/steps-taken-01/name": {
-        "orig": "I can run for Miles!",
-        "text": "Я могу пробежать много миль!"
-    },
-    "database.json/achievements/steps-taken-01/description": {
-        "orig": "Make a \\c[3]total of \\v[misc.localNum.50000] Steps\\c[0].",
-        "text": "Сделайте \\c[3]\\v[misc.localNum.50000] шагов\\c[0]."
-    },
-    "database.json/achievements/jumps-done-01/name": {
-        "orig": "I'm also good at Plumbing",
-        "text": "Ещё я хороший водопроводчик"
-    },
-    "database.json/achievements/jumps-done-01/description": {
-        "orig": "Jump a \\c[3]total of \\v[misc.localNum.1000] times\\c[0].",
-        "text": "Прыгните \\c[3]\\v[misc.localNum.1000] раз\\c[0]."
-    },
-    "database.json/achievements/items-used-01/name": {
-        "orig": "Rookie Foodie",
-        "text": "Гурман-новичок"
-    },
-    "database.json/achievements/items-used-01/description": {
-        "orig": "Use a total of \\c[3]25 Consumables\\c[0].",
-        "text": "Используйте в общей сложности \\c[3]25 расходников\\c[0]."
-    },
-    "database.json/achievements/items-used-02/name": {
-        "orig": "Veteran Foodie",
-        "text": "Опытный гурман"
-    },
-    "database.json/achievements/items-used-02/description": {
-        "orig": "Use a total of \\c[3]50 Consumables\\c[0].",
-        "text": "Используйте в общей сложности \\c[3]50 расходников\\c[0]."
-    },
-    "database.json/achievements/items-used-03/name": {
-        "orig": "Legendary Foodie",
-        "text": "Легендарный гурман"
-    },
-    "database.json/achievements/items-used-03/description": {
-        "orig": "Use a total of \\c[3]100 Consumables\\c[0].",
-        "text": "Используйте в общей сложности \\c[3]100 расходников\\c[0]."
-    },
-    "database.json/achievements/items-used-04/name": {
-        "orig": "Need more Buffs!",
-        "text": "Нужно больше бафов!"
-    },
-    "database.json/achievements/items-used-04/description": {
-        "orig": "Use a total of \\c[3]200 Consumables\\c[0]. I'm stuffed!",
-        "text": "Используйте в общей сложности \\c[3]200 расходников\\c[0]."
-    },
-    "database.json/achievements/items-used-total-01/name": {
-        "orig": "Rookie Gourmet",
-        "text": "Дегустатор-новичок"
-    },
-    "database.json/achievements/items-used-total-01/description": {
-        "orig": "\\c[3]Find\\c[0] and use at least \\c[3]25% of all Consumables\\c[0].",
-        "text": "\\c[3]Найдите\\c[0] и используйте \\c[3]25% всех расходников\\c[0]."
-    },
-    "database.json/achievements/items-used-total-02/name": {
-        "orig": "Veteran Gourmet",
-        "text": "Опытный дегустатор"
-    },
-    "database.json/achievements/items-used-total-02/description": {
-        "orig": "\\c[3]Find\\c[0] and use at least \\c[3]50% of all Consumables\\c[0].",
-        "text": "\\c[3]Найдите\\c[0] и используйте \\c[3]50% всех расходников\\c[0]."
-    },
-    "database.json/achievements/items-used-total-03/name": {
-        "orig": "Legendary Gourmet",
-        "text": "Легендарный дегустатор"
-    },
-    "database.json/achievements/items-used-total-03/description": {
-        "orig": "\\c[3]Find\\c[0] and use at least \\c[3]75% of all Consumables\\c[0].",
-        "text": "\\c[3]Найдите\\c[0] и используйте \\c[3]75% всех расходников\\c[0]."
-    },
-    "database.json/achievements/items-used-total-04/name": {
-        "orig": "Culinary Connoisseur",
-        "text": "Кулинарный знаток"
-    },
-    "database.json/achievements/items-used-total-04/description": {
-        "orig": "\\c[3]Find\\c[0] and use \\c[3]100% of all Consumables\\c[0]. Write a book about it!",
-        "text": "\\c[3]Найдите\\c[0] и используйте \\c[3]100% всех расходников\\c[0]. Напишите об этом книгу!"
-    },
-    "database.json/achievements/chest-key-01/name": {
-        "orig": "The Key Question",
-        "text": "Ключевой вопрос"
-    },
-    "database.json/achievements/chest-key-01/description": {
-        "orig": "\\c[3]Find the \\v[item.154.name]\\c[0]. Unlock all the bronze chests! ",
-        "text": "\\c[3]Найдите \\v[item.154.name]\\c[0].\nОткрывает все бронзовые сундуки!"
-    },
-    "database.json/achievements/chest-key-02/name": {
-        "orig": "That's really Low Key",
-        "text": "Это в самом деле скромный ключ"
-    },
-    "database.json/achievements/chest-key-02/description": {
-        "orig": "\\c[3]Find the \\v[item.155.name]\\c[0]. Unlock all the silver chests! ",
-        "text": "\\c[3]Найдите \\v[item.155.name]\\c[0].\nОткрывает все серебряные сундуки!"
-    },
-    "database.json/achievements/chest-key-03/name": {
-        "orig": "The Final Key",
-        "text": "Последний ключ"
-    },
-    "database.json/achievements/chest-key-03/description": {
-        "orig": "\\c[3]Find the \\v[item.156.name]\\c[0]. Unlock all the chests! ",
-        "text": "\\c[3]Найдите \\v[item.156.name]\\c[0].\nОткрывает все сундуки!"
-    },
-    "database.json/achievements/expo-sandwich/name": {
-        "orig": "Exponential Sandwiches",
-        "text": "Экспоненциальные сэндвичи"
-    },
-    "database.json/achievements/expo-sandwich/description": {
-        "orig": "Obtain \\c[3]4 Cross\\c[0], \\c[3]8 Mega\\c[0], \\c[3]16 Chef\\c[0], \\c[3]32 Hi\\c[0] and \\c[3]64 Normal Sandwiches\\c[0].",
-        "text": "Получите \\c[3]4 Cross\\c[0], \\c[3]8 Мега\\c[0], \\c[3]16 от Шефа\\c[0], \\c[3]32 Эй\\c[0] и \\c[3]64 обычных сэндвича\\c[0]."
-    },
-    "database.json/achievements/metal-gears/name": {
-        "orig": "IT CAN'T BE?",
-        "text": "IT CAN'T BE?"
-    },
-    "database.json/achievements/metal-gears/description": {
-        "orig": "Have a \\c[3]total of 99 Metal Gears\\c[0] in your Inventory. Gaming has changed.",
-        "text": "Накопите \\c[3]в общей сложности 99 шестерёнок\\c[0] в инвентаре. Правила игры изменились."
-    },
-    "database.json/achievements/old-drill/name": {
-        "orig": "Pierce through the Heaven",
-        "text": "Пронзить небеса"
-    },
-    "database.json/achievements/old-drill/description": {
-        "orig": "\\c[3]Obtain the \\v[item.323.name]\\c[0]. Pass it on to the next generation when the time arrives.",
-        "text": "\\c[3]Получите \\v[item.323.name]\\c[0]. Передайте его следующему поколению, когда придёт время."
-    },
-    "database.json/achievements/normal-trees/name": {
-        "orig": "There is no Cow Level",
-        "text": "Нет никакого коровьего уровня"
-    },
-    "database.json/achievements/normal-trees/description": {
-        "orig": "\\c[3]Visit all perfectly normal landmarks\\c[0] in all areas.",
-        "text": "\\c[3]Посетите все совершенно правильные ориентиры\\c[0] во всех локациях."
-    },
-    "database.json/achievements/monk-trials/name": {
-        "orig": "Peace of Mind",
-        "text": "Спокойствие духа"
-    },
-    "database.json/achievements/monk-trials/description": {
-        "orig": "Finish all Trial Caves in Bergen with \\c[3]all handicaps in under 1:45\\c[0].",
-        "text": "Пройдите все Пещеры испытаний, со всеми усложнениями, в Бергене, \\c[3]уложившись в 1:45\\c[0]."
-    },
-    "database.json/achievements/spider-cave/name": {
-        "orig": "I hate Spiders!",
-        "text": "Я ненавижу пауков!"
-    },
-    "database.json/achievements/spider-cave/description": {
-        "orig": "Survive \\c[3]5 Minutes\\c[0] in the \\c[3]Ring of Spiders - Endless Mode\\c[0] alone.",
-        "text": "Выживите \\c[3]5 минут\\c[0] в \\c[3]бесконечном режиме Кольца пауков\\c[0] в одиночку."
-    },
-    "database.json/achievements/flawless-emilie/name": {
-        "orig": "At the Speed of Sound",
-        "text": "Со скоростью звука"
-    },
-    "database.json/achievements/flawless-emilie/description": {
-        "orig": "Win \\c[3]every dungeon race against Emilie\\c[0]. ",
-        "text": "Победите в \\c[3]каждом забеге в подземелье против Эмили\\c[0]."
-    },
-    "database.json/achievements/flawless-apollo/name": {
-        "orig": "True Spheromancer",
-        "text": "Истинный сферомант"
-    },
-    "database.json/achievements/flawless-apollo/description": {
-        "orig": "Win \\c[3]every PvP Battle against Apollo without losing a single round\\c[0]. ",
-        "text": "Победите в \\c[3]каждой PvP-битве против Аполло, не проиграв ни единого раунда\\c[0]."
-    },
-    "database.json/achievements/unique-equip/name": {
-        "orig": "One of a Kind",
-        "text": "Единственный в своём роде"
-    },
-    "database.json/achievements/unique-equip/description": {
-        "orig": "Have a \\c[3]unique equipment piece\\c[0] (violet) equipped into \\c[3]each body-part\\c[0].",
-        "text": "Экипируйте \\c[3]особые части снаряжения\\c[0] (фиолетовые) в \\c[3]каждый слот\\c[0]."
-    },
-    "database.json/achievements/enemies-found-01/name": {
-        "orig": "Rookie Zoologists ",
-        "text": "Зоолог-новичок"
-    },
-    "database.json/achievements/enemies-found-01/description": {
-        "orig": "\\c[3]Find 25% of all enemies\\c[0] in CrossWorlds.",
-        "text": "\\c[3]Найдите 25% всех врагов\\c[0] в CrossWorlds."
-    },
-    "database.json/achievements/enemies-found-02/name": {
-        "orig": "Veteran Zoologists ",
-        "text": "Опытный зоолог"
-    },
-    "database.json/achievements/enemies-found-02/description": {
-        "orig": "\\c[3]Find 50% of all enemies\\c[0] in CrossWorlds.",
-        "text": "\\c[3]Найдите 50% врагов\\c[0] в CrossWorlds."
-    },
-    "database.json/achievements/enemies-found-03/name": {
-        "orig": "Legendary Zoologists ",
-        "text": "Легендарный зоолог"
-    },
-    "database.json/achievements/enemies-found-03/description": {
-        "orig": "\\c[3]Find 75% of all enemies\\c[0] in CrossWorlds.",
-        "text": "\\c[3]Найдите 75% врагов\\c[0] в CrossWorlds."
-    },
-    "database.json/achievements/enemies-found-04/name": {
-        "orig": "The Fauna of the World",
-        "text": "Мировая фауна"
-    },
-    "database.json/achievements/enemies-found-04/description": {
-        "orig": "\\c[3]Find 100% of all enemies\\c[0] in CrossWorlds.",
-        "text": "\\c[3]Найдите 100% врагов\\c[0] в CrossWorlds."
-    },
-    "database.json/achievements/true-avatar/name": {
-        "orig": "The Avatar",
-        "text": "Аватар"
-    },
-    "database.json/achievements/true-avatar/description": {
-        "orig": "Execute a \\c[3]Level 3 Combat Art with each Element\\c[0]. ",
-        "text": "Выполните \\c[3]технику боя 3-го уровня с каждым из элементов\\c[0]."
-    },
-    "database.json/achievements/perfect-dashes/name": {
-        "orig": "I know all the I-Frames",
-        "text": "Я знаю все кадры неуязвимости"
-    },
-    "database.json/achievements/perfect-dashes/description": {
-        "orig": "\\c[3]Perfect Dodge\\c[0] a total of 100 times. So close.",
-        "text": "Сделайте \\c[3]Идеальное уклонение\\c[0] в сумме 100 раз. Это было близко."
-    },
-    "database.json/achievements/perfect-guard/name": {
-        "orig": "You Can't Touch This",
-        "text": "You Can't Touch This"
-    },
-    "database.json/achievements/perfect-guard/description": {
-        "orig": "\\c[3]Perfect Guard\\c[0] a total of 200 times. ",
-        "text": "Сделайте \\c[3]Идеальный блок\\c[0] в сумме 200 раз."
-    },
-    "database.json/achievements/guard-counter/name": {
-        "orig": "Not today!",
-        "text": "Не сегодня! "
-    },
-    "database.json/achievements/guard-counter/description": {
-        "orig": "Successfully execute a \\c[3]Guard Counter 200 times\\c[0].",
-        "text": "Успешно выполните \\c[3]Ответный удар 200 раз\\c[0]."
-    },
-    "database.json/achievements/low-health-wins/name": {
-        "orig": "True Survivor",
-        "text": "Остаться в живых"
-    },
-    "database.json/achievements/low-health-wins/description": {
-        "orig": "Survive 50 fights with \\c[3]33% or less of your max health\\c[0]. ",
-        "text": "Выживите в 50 битвах с \\c[3]33% HP или менее\\c[0]."
-    },
+"database.json/achievements/story-01/name": {
+    "orig": "Chapter 1 Complete",
+    "text": "Глава 1 завершена"
+},
+"database.json/achievements/story-01/description": {
+    "orig": "Completed Chapter 1.",
+    "text": "Завершено першу главу."
+},
+"database.json/achievements/story-02/name": {
+    "orig": "Chapter 2 Complete",
+    "text": "Глава 2 завершена"
+},
+"database.json/achievements/story-02/description": {
+    "orig": "Completed Chapter 2.",
+    "text": "Завершено другу главу."
+},
+"database.json/achievements/story-03/name": {
+    "orig": "Chapter 3 Complete",
+    "text": "Глава 3 завершена"
+},
+"database.json/achievements/story-03/description": {
+    "orig": "Completed Chapter 3.",
+    "text": "Завершено третю главу."
+},
+"database.json/achievements/story-04/name": {
+    "orig": "Chapter 4 Complete",
+    "text": "Глава 4 завершена"
+},
+"database.json/achievements/story-04/description": {
+    "orig": "Completed Chapter 4.",
+    "text": "Завершено четверту главу."
+},
+"database.json/achievements/story-05/name": {
+    "orig": "Chapter 5 Complete",
+    "text": "Глава 5 завершена"
+},
+"database.json/achievements/story-05/description": {
+    "orig": "Completed Chapter 5.",
+    "text": "Завершено п'яту главу."
+},
+"database.json/achievements/story-06/name": {
+    "orig": "Chapter 6 Complete",
+    "text": "Глава 6 завершена"
+},
+"database.json/achievements/story-06/description": {
+    "orig": "Completed Chapter 6.",
+    "text": "Завершено шосту главу."
+},
+"database.json/achievements/story-07/name": {
+    "orig": "Chapter 7 Complete",
+    "text": "Глава 7 завершена"
+},
+"database.json/achievements/story-07/description": {
+    "orig": "Completed Chapter 7.",
+    "text": "Завершено сьому главу."
+},
+"database.json/achievements/story-08/name": {
+    "orig": "Chapter 8 Complete",
+    "text": "Глава 8 завершена"
+},
+"database.json/achievements/story-08/description": {
+    "orig": "Completed Chapter 8.",
+    "text": "Завершено восьму главу."
+},
+"database.json/achievements/story-09/name": {
+    "orig": "Chapter 9 Complete",
+    "text": "Глава 9 завершена"
+},
+"database.json/achievements/story-09/description": {
+    "orig": "Completed Chapter 9.",
+    "text": "Завершено дев'яту главу."
+},
+"database.json/achievements/story-10/name": {
+    "orig": "Chapter 10 Complete",
+    "text": "Глава 10 завершена"
+},
+"database.json/achievements/story-10/description": {
+    "orig": "Completed Chapter 10.",
+    "text": "Завершено десяту главу."
+},
+"database.json/achievements/player-level-01/name": {
+    "orig": "Rookie Seeker",
+    "text": "Новачок-пошукач"
+},
+"database.json/achievements/player-level-01/description": {
+    "orig": "Reach \\c[3]Level 25\\c[0].",
+    "text": "Досягніть \\c[3]25 рівня\\c[0]."
+},
+"database.json/achievements/player-level-02/name": {
+    "orig": "Veteran Seeker",
+    "text": "Досвідчений пошукач"
+},
+"database.json/achievements/player-level-02/description": {
+    "orig": "Reach \\c[3]Level 50\\c[0].",
+    "text": "Досягніть \\c[3]50 рівня\\c[0]."
+},
+"database.json/achievements/player-level-03/name": {
+    "orig": "Legendary Seeker",
+    "text": "Легендарний пошукач"
+},
+"database.json/achievements/player-level-03/description": {
+    "orig": "Reach \\c[3]Level 75\\c[0].",
+    "text": "Досягніть \\c[3]75 рівня\\c[0]."
+},
+"database.json/achievements/player-level-04/name": {
+    "orig": "Ye 'ol Level Cap",
+    "text": "Старий добрий рівень максимум"
+},
+"database.json/achievements/player-level-04/description": {
+    "orig": "Reach \\c[3]Level 99\\c[0]. Nothing can stop you now.",
+    "text": "Досягніть \\c[3]99 рівня\\c[0]. Тепер вас нічого не зупинить."
+},
+"database.json/achievements/player-money-01/name": {
+    "orig": "Rookie Banker",
+    "text": "Новачок-банкір"
+},
+"database.json/achievements/player-money-01/description": {
+    "orig": "Amass a \\c[3]total of \\v[misc.localNum.250000] Credits\\c[0] throughout your journey.",
+    "text": "Накопичте \\c[3]всього \\v[misc.localNum.250000] кредитів\\c[0] за час подорожі."
+},
+"database.json/achievements/player-money-02/name": {
+    "orig": "Veteran Banker",
+    "text": "Досвідчений банкір"
+},
+"database.json/achievements/player-money-02/description": {
+    "orig": "Amass a \\c[3]total of \\v[misc.localNum.500000] Credits\\c[0] throughout your journey.",
+    "text": "Накопичте \\c[3]всього \\v[misc.localNum.500000] кредитів\\c[0] за час подорожі."
+},
+"database.json/achievements/player-money-03/name": {
+    "orig": "Legendary Banker",
+    "text": "Легендарний банкір"
+},
+"database.json/achievements/player-money-03/description": {
+    "orig": "Amass a \\c[3]total of \\v[misc.localNum.750000] Credits\\c[0] throughout your journey.",
+    "text": "Накопичте \\c[3]всього \\v[misc.localNum.750000] кредитів\\c[0] за час подорожі."
+},
+"database.json/achievements/player-money-04/name": {
+    "orig": "Let's swim in my Vault!",
+    "text": "Пірнаймо в моєму сховищі!"
+},
+"database.json/achievements/player-money-04/description": {
+    "orig": "Amass a \\c[3]total of \\v[misc.localNum.1000000] Credits\\c[0] throughout your journey.",
+    "text": "Накопичте \\c[3]всього \\v[misc.localNum.1000000] кредитів\\c[0] за час подорожі."
+},
+"database.json/achievements/playtime-01/name": {
+    "orig": "Time well spent",
+    "text": "Час витрачено не марно"
+},
+"database.json/achievements/playtime-01/description": {
+    "orig": "Play the game for a \\c[3]total of 10 hours\\c[0]. Don't worry there's no speedrun version.",
+    "text": "Грайте в гру \\c[3]10 годин\\c[0]. Не хвилюйтесь, немає жодної спідран-версії."
+},
+"database.json/achievements/steps-taken-01/name": {
+    "orig": "I can run for Miles!",
+    "text": "Я можу бігти кілометри!"
+},
+"database.json/achievements/steps-taken-01/description": {
+    "orig": "Make a \\c[3]total of \\v[misc.localNum.50000] Steps\\c[0].",
+    "text": "Зробіть \\c[3]всього \\v[misc.localNum.50000] кроків\\c[0]."
+},
+"database.json/achievements/jumps-done-01/name": {
+    "orig": "I'm also good at Plumbing",
+    "text": "Я ще й хороший водопровідник"
+},
+"database.json/achievements/jumps-done-01/description": {
+    "orig": "Jump a \\c[3]total of \\v[misc.localNum.1000] times\\c[0].",
+    "text": "Підскочіть \\c[3]всього \\v[misc.localNum.1000] разів\\c[0]."
+},
+"database.json/achievements/items-used-01/name": {
+    "orig": "Rookie Foodie",
+    "text": "Новачок-гурман"
+},
+"database.json/achievements/items-used-01/description": {
+    "orig": "Use a total of \\c[3]25 Consumables\\c[0].",
+    "text": "Використайте всього \\c[3]25 витратних матеріалів\\c[0]."
+},
+"database.json/achievements/items-used-02/name": {
+    "orig": "Veteran Foodie",
+    "text": "Досвідчений гурман"
+},
+"database.json/achievements/items-used-02/description": {
+    "orig": "Use a total of \\c[3]50 Consumables\\c[0].",
+    "text": "Використайте всього \\c[3]50 витратних матеріалів\\c[0]."
+},
+"database.json/achievements/items-used-03/name": {
+    "orig": "Legendary Foodie",
+    "text": "Легендарний гурман"
+},
+"database.json/achievements/items-used-03/description": {
+    "orig": "Use a total of \\c[3]100 Consumables\\c[0].",
+    "text": "Використайте всього \\c[3]100 витратних матеріалів\\c[0]."
+},
+"database.json/achievements/items-used-04/name": {
+    "orig": "Need more Buffs!",
+    "text": "Потрібно більше бафів!"
+},
+"database.json/achievements/items-used-04/description": {
+    "orig": "Use a total of \\c[3]200 Consumables\\c[0]. I'm stuffed!",
+    "text": "Використайте всього \\c[3]200 витратних матеріалів\\c[0]."
+},
+"database.json/achievements/items-used-total-01/name": {
+    "orig": "Rookie Gourmet",
+    "text": "Новачок-гастроном"
+},
+"database.json/achievements/items-used-total-01/description": {
+    "orig": "\\c[3]Find\\c[0] and use at least \\c[3]25% of all Consumables\\c[0].",
+    "text": "\\c[3]Знайдіть\\c[0] і використайте принаймні \\c[3]25% всіх витратних матеріалів\\c[0]."
+},
+"database.json/achievements/items-used-total-02/name": {
+    "orig": "Veteran Gourmet",
+    "text": "Досвідчений гастроном"
+},
+"database.json/achievements/items-used-total-02/description": {
+    "orig": "\\c[3]Find\\c[0] and use at least \\c[3]50% of all Consumables\\c[0].",
+    "text": "\\c[3]Знайдіть\\c[0] і використайте принаймні \\c[3]50% всіх витратних матеріалів\\c[0]."
+},
+"database.json/achievements/items-used-total-03/name": {
+    "orig": "Legendary Gourmet",
+    "text": "Легендарний гастроном"
+},
+"database.json/achievements/items-used-total-03/description": {
+    "orig": "\\c[3]Find\\c[0] and use at least \\c[3]75% of all Consumables\\c[0].",
+    "text": "\\c[3]Знайдіть\\c[0] і використайте принаймні \\c[3]75% всіх витратних матеріалів\\c[0]."
+},
+"database.json/achievements/items-used-total-04/name": {
+    "orig": "Culinary Connoisseur",
+    "text": "Кулінарний експерт"
+},
+"database.json/achievements/items-used-total-04/description": {
+    "orig": "\\c[3]Find\\c[0] and use \\c[3]100% of all Consumables\\c[0]. Write a book about it!",
+    "text": "\\c[3]Знайдіть\\c[0] і використайте \\c[3]100% всіх витратних матеріалів\\c[0]. Напишіть про це книгу!"
+},
+"database.json/achievements/chest-key-01/name": {
+    "orig": "The Key Question",
+    "text": "Ключове питання"
+},
+"database.json/achievements/chest-key-01/description": {
+    "orig": "\\c[3]Find the \\v[item.154.name]\\c[0]. Unlock all the bronze chests!",
+    "text": "\\c[3]Знайдіть \\v[item.154.name]\\c[0].\nВідкрийте всі бронзові скрині!"
+},
+"database.json/achievements/chest-key-02/name": {
+    "orig": "That's really Low Key",
+    "text": "Це справді скромний ключ"
+},
+"database.json/achievements/chest-key-02/description": {
+    "orig": "\\c[3]Find the \\v[item.155.name]\\c[0]. Unlock all the silver chests!",
+    "text": "\\c[3]Знайдіть \\v[item.155.name]\\c[0].\nВідкрийте всі срібні скрині!"
+},
+"database.json/achievements/chest-key-03/name": {
+    "orig": "The Final Key",
+    "text": "Останній ключ"
+},
+"database.json/achievements/chest-key-03/description": {
+    "orig": "\\c[3]Find the \\v[item.156.name]\\c[0]. Unlock all the chests!",
+    "text": "\\c[3]Знайдіть \\v[item.156.name]\\c[0].\nВідкрийте всі скрині!"
+},
+"database.json/achievements/expo-sandwich/name": {
+    "orig": "Exponential Sandwiches",
+    "text": "Експоненціальні сендвічі"
+},
+"database.json/achievements/expo-sandwich/description": {
+    "orig": "Obtain \\c[3]4 Cross\\c[0], \\c[3]8 Mega\\c[0], \\c[3]16 Chef\\c[0], \\c[3]32 Hi\\c[0] and \\c[3]64 Normal Sandwiches\\c[0].",
+    "text": "Отримайте \\c[3]4 Cross\\c[0], \\c[3]8 Мега\\c[0], \\c[3]16 Шеф\\c[0], \\c[3]32 Хай\\c[0] і \\c[3]64 звичайних сендвічів\\c[0]."
+},
+"database.json/achievements/metal-gears/name": {
+    "orig": "IT CAN'T BE?",
+    "text": "Це не може бути?"
+},
+"database.json/achievements/metal-gears/description": {
+    "orig": "Have a \\c[3]total of 99 Metal Gears\\c[0] in your Inventory. Gaming has changed.",
+    "text": "Майте \\c[3]всього 99 металевих шестерень\\c[0] в інвентарі. Ігри змінилися."
+},
+"database.json/achievements/old-drill/name": {
+    "orig": "Pierce through the Heaven",
+    "text": "Пронзити небо"
+},
+"database.json/achievements/old-drill/description": {
+    "orig": "\\c[3]Obtain the \\v[item.323.name]\\c[0]. Pass it on to the next generation when the time arrives.",
+    "text": "\\c[3]Отримайте \\v[item.323.name]\\c[0]. Передайте це наступному поколінню, коли настане час."
+},
+"database.json/achievements/normal-trees/name": {
+    "orig": "There is no Cow Level",
+    "text": "Немає рівня корови"
+},
+"database.json/achievements/normal-trees/description": {
+    "orig": "\\c[3]Visit all perfectly normal landmarks\\c[0] in all areas.",
+    "text": "\\c[3]Відвідайте всі абсолютно нормальні орієнтири\\c[0] у всіх локаціях."
+},
+"database.json/achievements/monk-trials/name": {
+    "orig": "Peace of Mind",
+    "text": "Спокій розуму"
+},
+"database.json/achievements/monk-trials/description": {
+    "orig": "Finish all Trial Caves in Bergen with \\c[3]all handicaps in under 1:45\\c[0].",
+    "text": "Пройдіть всі Печери випробувань у Бергені з \\c[3]всіма ускладненнями за 1:45\\c[0]."
+},
+"database.json/achievements/spider-cave/name": {
+    "orig": "I hate Spiders!",
+    "text": "Я ненавиджу павуків!"
+},
+"database.json/achievements/spider-cave/description": {
+    "orig": "Survive \\c[3]5 Minutes\\c[0] in the \\c[3]Ring of Spiders - Endless Mode\\c[0] alone.",
+    "text": "Виживіть \\c[3]5 хвилин\\c[0] у \\c[3]безкінечному режимі Кільця павуків\\c[0] наодинці."
+},
+"database.json/achievements/flawless-emilie/name": {
+    "orig": "At the Speed of Sound",
+    "text": "На швидкості звуку"
+},
+"database.json/achievements/flawless-emilie/description": {
+    "orig": "Win \\c[3]every dungeon race against Emilie\\c[0].",
+    "text": "Перемогти у \\c[3]кожному забігу в підземеллі проти Емілі\\c[0]."
+},
+"database.json/achievements/flawless-apollo/name": {
+    "orig": "True Spheromancer",
+    "text": "Істинний сферомант"
+},
+"database.json/achievements/flawless-apollo/description": {
+    "orig": "Win \\c[3]every PvP Battle against Apollo without losing a single round\\c[0].",
+    "text": "Перемогти у \\c[3]кожній PvP-битві проти Аполлона, не програвши жодного раунду\\c[0]."
+},
+"database.json/achievements/unique-equip/name": {
+    "orig": "One of a Kind",
+    "text": "Єдиний в своєму роді"
+},
+"database.json/achievements/unique-equip/description": {
+    "orig": "Have a \\c[3]unique equipment piece\\c[0] (violet) equipped into \\c[3]each body-part\\c[0].",
+    "text": "Екіпіруйте \\c[3]унікальні частини обладунків\\c[0] (фіолетові) у \\c[3]кожен слот\\c[0]."
+},
+"database.json/achievements/enemies-found-01/name": {
+    "orig": "Rookie Zoologists",
+    "text": "Зоолог-новачок"
+},
+"database.json/achievements/enemies-found-01/description": {
+    "orig": "\\c[3]Find 25% of all enemies\\c[0] in CrossWorlds.",
+    "text": "\\c[3]Знайдіть 25% всіх ворогів\\c[0] у CrossWorlds."
+},
+"database.json/achievements/enemies-found-02/name": {
+    "orig": "Veteran Zoologists",
+    "text": "Досвідчений зоолог"
+},
+"database.json/achievements/enemies-found-02/description": {
+    "orig": "\\c[3]Find 50% of all enemies\\c[0] in CrossWorlds.",
+    "text": "\\c[3]Знайдіть 50% всіх ворогів\\c[0] у CrossWorlds."
+},
+"database.json/achievements/enemies-found-03/name": {
+    "orig": "Legendary Zoologists",
+    "text": "Легендарний зоолог"
+},
+"database.json/achievements/enemies-found-03/description": {
+    "orig": "\\c[3]Find 75% of all enemies\\c[0] in CrossWorlds.",
+    "text": "\\c[3]Знайдіть 75% всіх ворогів\\c[0] у CrossWorlds."
+},
+"database.json/achievements/enemies-found-04/name": {
+    "orig": "The Fauna of the World",
+    "text": "Фауна світу"
+},
+"database.json/achievements/enemies-found-04/description": {
+    "orig": "\\c[3]Find 100% of all enemies\\c[0] in CrossWorlds.",
+    "text": "\\c[3]Знайдіть 100% всіх ворогів\\c[0] у CrossWorlds."
+},
+"database.json/achievements/true-avatar/name": {
+    "orig": "The Avatar",
+    "text": "Аватар"
+},
+"database.json/achievements/true-avatar/description": {
+    "orig": "Execute a \\c[3]Level 3 Combat Art with each Element\\c[0].",
+    "text": "Виконайте \\c[3]техніку бою 3-го рівня з кожним елементом\\c[0]."
+},
+"database.json/achievements/perfect-dashes/name": {
+    "orig": "I know all the I-Frames",
+    "text": "Я знаю всі кадри невразливості"
+},
+"database.json/achievements/perfect-dashes/description": {
+    "orig": "\\c[3]Perfect Dodge\\c[0] a total of 100 times. So close.",
+    "text": "Зробіть \\c[3]Ідеальне ухилення\\c[0] 100 разів. Так близько."
+},
+"database.json/achievements/perfect-guard/name": {
+    "orig": "You Can't Touch This",
+    "text": "Ти не зможеш це торкнутися"
+},
+"database.json/achievements/perfect-guard/description": {
+    "orig": "\\c[3]Perfect Guard\\c[0] a total of 200 times.",
+    "text": "Зробіть \\c[3]Ідеальний блок\\c[0] 200 разів."
+},
+"database.json/achievements/guard-counter/name": {
+    "orig": "Not today!",
+    "text": "Не сьогодні!"
+},
+"database.json/achievements/guard-counter/description": {
+    "orig": "Successfully execute a \\c[3]Guard Counter 200 times\\c[0].",
+    "text": "Успішно виконайте \\c[3]Контратаку 200 разів\\c[0]."
+},
+"database.json/achievements/low-health-wins/name": {
+    "orig": "True Survivor",
+    "text": "Справжній виживальник"
+},
+"database.json/achievements/low-health-wins/description": {
+    "orig": "Survive 50 fights with \\c[3]33% or less of your max health\\c[0].",
+    "text": "Виживіть у 50 битвах з \\c[3]33% або менше від вашого максимального здоров'я\\c[0]."
+},
     "database.json/achievements/enviro-kills/name": {
         "orig": "Nature is Scary",
-        "text": "Природа - это страшно"
+        "text": "Природа страшна"
     },
     "database.json/achievements/enviro-kills/description": {
         "orig": "Defeat \\c[3]100 enemies by using the environment\\c[0] as the final blow.",
-        "text": "Победите \\c[3]100 врагов, добивая их с помощью окружения\\c[0]. "
+        "text": "Здолайте \\c[3]100 ворогів, добиваючи їх за допомогою оточення\\c[0]."
     },
     "database.json/achievements/reports-found-01/name": {
         "orig": "Reporting for Duty",
-        "text": "Служебная отчётность"
+        "text": "Службова звітність"
     },
     "database.json/achievements/reports-found-01/description": {
         "orig": "\\c[2]Unlock 76%\\c[0] of all Enemy Reports. We're all Reporters now.",
-        "text": "\\c[2]Разблокируйте 76%\\c[0] отчётов о противниках. Мы все теперь журналисты."
+        "text": "\\c[2]Розблокуйте 76%\\c[0] усіх Звітів про ворогів. Тепер ми всі журналісти."
     },
     "database.json/achievements/one-punch/name": {
         "orig": "ONE PUNCH!",
-        "text": "ONE PUNCH!"
+        "text": "Один удар!"
     },
     "database.json/achievements/one-punch/description": {
         "orig": "Deal \\c[3]\\v[misc.localNum.50000] Damage with a single hit\\c[0]. A punch that echoed throughout history.",
-        "text": "Нанесите \\c[3]\\v[misc.localNum.50000] урона с одного удара\\c[0]. Удар, что отдаётся эхом в истории."
+        "text": "Завдайте \\c[3]\\v[misc.localNum.50000] шкоди одним ударом\\c[0]. Удар, що відлунює в історії."
     },
     "database.json/achievements/one-hit-kills/name": {
         "orig": "One Shot, One Kill",
-        "text": "Один выстрел - один труп"
+        "text": "Один постріл — один труп"
     },
     "database.json/achievements/one-hit-kills/description": {
         "orig": "Defeat \\c[3]500 enemies\\c[0], each with \\c[3]a single attack\\c[0].",
-        "text": "Победите \\c[3]500 врагов\\c[0], каждого с \\c[3]одной атаки\\c[0]."
+        "text": "Здолайте \\c[3]500 ворогів\\c[0], кожного з \\c[3]одним ударом\\c[0]."
     },
     "database.json/achievements/kill-boss-crab/name": {
         "orig": "Real History",
-        "text": "Настоящая история"
+        "text": "Справжня історія"
     },
     "database.json/achievements/kill-boss-crab/description": {
         "orig": "\\c[3]Defeat the \\v[combat.name.boss-test]\\c[0] on the Cargo Ship.",
-        "text": "\\c[3]Победите Огромного враждебного краба\\c[0] на Грузовом корабле."
+        "text": "\\c[3]Здолайте Гігантського ворожого краба\\c[0] на Грузовому Кораблі."
     },
     "database.json/achievements/kill-boss-turret/name": {
         "orig": "Master of Turrets",
-        "text": "Мастер турелей"
+        "text": "Майстер турелей"
     },
     "database.json/achievements/kill-boss-turret/description": {
         "orig": "\\c[3]Defeat the \\v[combat.name.turret-boss]\\c[0] in the Rhombus Dungeon.",
-        "text": "\\c[3]Победите Тяжёлую турель Ромба\\c[0] в Подземелье Ромба."
+        "text": "\\c[3]Здолайте Важку турель Ромба\\c[0] в Підземеллі Ромба."
     },
     "database.json/achievements/kill-boss-driller/name": {
         "orig": "The bigger they are...",
-        "text": "Чем они больше..."
+        "text": "Чим вони більші..."
     },
     "database.json/achievements/kill-boss-driller/description": {
         "orig": "\\c[3]Defeat the \\v[combat.name.boss-driller]\\c[0] in the \\v[area.cold-dng.name].",
-        "text": "\\c[3]Победите \\v[combat.name.boss-driller]\\c[0] в Храм-Шахте."
+        "text": "\\c[3]Здолайте \\v[combat.name.boss-driller]\\c[0] у Храмі-Шахті."
     },
     "database.json/achievements/kill-boss-worm/name": {
         "orig": "They have 5 Hearts",
-        "text": "У них пять сердец"
+        "text": "У них п'ять сердець"
     },
     "database.json/achievements/kill-boss-worm/description": {
         "orig": "\\c[3]Defeat \\v[combat.name.heat/sandworm-boss]\\c[0] below the Maroon Tree in \\v[area.heat-area.name].",
-        "text": "\\c[3]Победите Тии'ма\\c[0] под Бордовым деревом в Бордовой долине."
+        "text": "\\c[3]Здолайте Тії'му\\c[0] під Бордовим деревом у Бордовій долині."
     },
     "database.json/achievements/kill-boss-moth/name": {
         "orig": "Kill it with Fire!",
-        "text": "Убей с огоньком!"
+        "text": "Убий вогнем!"
     },
     "database.json/achievements/kill-boss-moth/description": {
         "orig": "\\c[3]Defeat \\v[combat.name.heat/megamoth]\\c[0] in the \\v[area.heat-dng.name].",
-        "text": "\\c[3]Победите Мастера Магмоль\\c[0] в Храме Фай'ро."
+        "text": "\\c[3]Здолайте Мастера Магмоля\\c[0] у Храмі Фай'ро."
     },
     "database.json/achievements/kill-boss-frobbit/name": {
         "orig": "The Trickster",
@@ -477,111 +477,113 @@
     },
     "database.json/achievements/kill-boss-frobbit/description": {
         "orig": "\\c[3]Defeat \\v[combat.name.daft-frobbit]\\c[0] in \\v[area.autumn-fall.name].",
-        "text": "\\c[3]Победите Голограмму кроляга\\c[0] в Закате Осени."
+        "text": "\\c[3]Здолайте Голограму кроляга\\c[0] у Закаті Осені."
     },
     "database.json/achievements/kill-boss-slug/name": {
         "orig": "Ultimate Power",
-        "text": "Невероятная мощь"
+        "text": "Неймовірна сила"
     },
     "database.json/achievements/kill-boss-slug/description": {
         "orig": "\\c[3]Defeat \\v[combat.name.arid/snail]\\c[0] in \\v[area.arid-dng-1.name].",
-        "text": "\\c[3]Победите Гастрополиса\\c[0] в Подземелье Вермиллион."
+        "text": "\\c[3]Здолайте Гастрополіс\\c[0] у Подземеллі Вермілліон."
     },
     "database.json/achievements/kill-boss-phantom/name": {
         "orig": "A Shadow from the Past",
-        "text": "Тень из прошлого"
+        "text": "Тінь з минулого"
     },
     "database.json/achievements/kill-boss-phantom/description": {
         "orig": "\\c[3]Defeat the \\v[combat.name.jungle/shockboss]\\c[0] in the \\v[area.shock-dng.name].",
-        "text": "\\c[3]Победите Плазменного фантома\\c[0] в Храме Зир'витар."
+        "text": "\\c[3]Здолайте Плазмового фантома\\c[0] у Храмі Зірвітар."
     },
+
+
     "database.json/achievements/kill-boss-blob/name": {
         "orig": "The Canonical Enemy",
-        "text": "Каноничный противник"
+        "text": "Канонічний ворог"
     },
     "database.json/achievements/kill-boss-blob/description": {
         "orig": "\\c[3]Defeat the \\v[combat.name.jungle/waveboss]\\c[0] in the \\v[area.wave-dng.name].",
-        "text": "\\c[3]Победите Сэра Желатинуса Звёздникуса\\c[0] в Храме Со'найиз."
+        "text": "\\c[3]Здолайте Сера Блобуса Зорянікуса\\c[0] в Храмі Со'наїз."
     },
     "database.json/achievements/kill-boss-sloth/name": {
         "orig": "The None-Winged Devil",
-        "text": "Бескрылый дьявол"
+        "text": "Безкрилий диявол"
     },
     "database.json/achievements/kill-boss-sloth/description": {
         "orig": "\\c[3]Defeat the \\v[combat.name.minibosses/sloth-black]\\c[0] in \\v[area.jungle.name].",
-        "text": "\\c[3]Победите Сефикрота\\c[0] в Саду Гайи."
+        "text": "\\c[3]Побийте Сефикрота\\c[0] в Саду Гайї."
     },
     "database.json/achievements/kill-boss-ape/name": {
         "orig": "A Test of Power",
-        "text": "Испытание силы"
+        "text": "Тест на силу"
     },
     "database.json/achievements/kill-boss-ape/description": {
         "orig": "\\c[3]Defeat the \\v[combat.name.jungle/ape-boss]\\c[0] in the \\v[area.tree-dng.name].",
-        "text": "\\c[3]Победите Сына Востока\\c[0] в Гранд Крис'кайо."
+        "text": "\\c[3]Побийте Сина Сходу\\c[0] в Гранд Крис'кайо."
     },
     "database.json/achievements/kill-boss-apewhale/name": {
         "orig": "Battle on the Crown",
-        "text": "Битва на кроне"
+        "text": "Битва на короні"
     },
     "database.json/achievements/kill-boss-apewhale/description": {
         "orig": "\\c[3]Defeat the \\v[combat.name.jungle/ape-boss] & the \\v[combat.name.jungle/whale-boss]\\c[0] in the \\v[area.tree-dng.name].",
-        "text": "\\c[3]Победите Сына Востока и Древнего Стража\\c[0] в Гранд Крис'кайо."
+        "text": "\\c[3]Побийте Сина Сходу і Древнього Стража\\c[0] в Гранд Крис'кайо."
     },
     "database.json/achievements/kill-boss-samurai/name": {
         "orig": "The Dawn's Blade",
-        "text": "Клинок рассвета"
+        "text": "Клинок світанку"
     },
     "database.json/achievements/kill-boss-samurai/description": {
         "orig": "\\c[3]Defeat the \\v[combat.name.forest/samurai-boss]\\c[0] in \\v[area.forest.name].",
-        "text": "\\c[3]Победите Сумеречного мастера\\c[0] в Сапфировом крае."
+        "text": "\\c[3]Побийте Сумеречного майстра\\c[0] в Сапфировому краї."
     },
     "database.json/achievements/kill-boss-shizuka/name": {
         "orig": "Restless Frustration",
-        "text": "Беспокойное расстройство"
+        "text": "Бурхливе розчарування"
     },
     "database.json/achievements/kill-boss-shizuka/description": {
         "orig": "\\c[3]Defeat \\v[combat.name.avatar/shizuka]\\c[0] in \\v[area.hideout.name] at least once.",
-        "text": "\\c[3]Победите Шизуку\\c[0] в Старом укрытии хотя бы раз."
+        "text": "\\c[3]Побийте Шизуку\\c[0] в Старому сховищі хоча б раз."
     },
     "database.json/achievements/kill-boss-designer/name": {
         "orig": "The Experience",
-        "text": "Опыт"
+        "text": "Досвід"
     },
     "database.json/achievements/kill-boss-designer/description": {
         "orig": "\\c[3]Defeat the \\v[combat.name.boss/designer-2]\\c[0] in \\v[area.arid-dng-2.name].",
-        "text": "\\c[3]Победите Дизайнера\\c[0] в Башне Вермиллион."
+        "text": "\\c[3]Побийте Дизайнера\\c[0] в Башті Вермілліон."
     },
     "database.json/achievements/kill-boss-elephant/name": {
         "orig": "The Ultimate Experience",
-        "text": "Незабываемый опыт"
+        "text": "Незабутній досвід"
     },
     "database.json/achievements/kill-boss-elephant/description": {
         "orig": "\\c[3]Defeat \\v[combat.name.boss/elephant]\\c[0] in the \\v[area.arid-dng-2.name].",
-        "text": "\\c[3]Победите Создателя\\c[0] в Башне Вермиллион."
+        "text": "\\c[3]Побийте Творця\\c[0] в Башті Вермілліон."
     },
     "database.json/achievements/kill-apollo-01/name": {
         "orig": "Showdown at Bergen",
-        "text": "Разборки в Бергене"
+        "text": "Розбірки в Бергені"
     },
     "database.json/achievements/kill-apollo-01/description": {
         "orig": "Win the \\c[3]PvP Battle against Apollo\\c[0]. ",
-        "text": "Победите в \\c[3]PvP против Аполло\\c[0]."
+        "text": "Побийте в \\c[3]PvP проти Аполло\\c[0]."
     },
     "database.json/achievements/kill-apollo-02/name": {
         "orig": "Showdown at Faj'ro",
-        "text": "Разборки в Фай'ро"
+        "text": "Розбірки в Фай'ро"
     },
     "database.json/achievements/kill-apollo-02/description": {
         "orig": "Win the \\c[3]second PvP Battle against Apollo\\c[0]. ",
-        "text": "Победите во \\c[3]втором PvP против Аполло\\c[0]."
+        "text": "Побийте в \\c[3]другому PvP проти Аполло\\c[0]."
     },
     "database.json/achievements/kill-apollo-03/name": {
         "orig": "Showdown at Gaia's Garden",
-        "text": "Разборки в Саду Гайи"
+        "text": "Розбірки в Саду Гайї"
     },
     "database.json/achievements/kill-apollo-03/description": {
         "orig": "Win the \\c[3]third PvP Battle against Apollo\\c[0]. ",
-        "text": "Победите в \\c[3]третьем PvP против Аполло\\c[0]."
+        "text": "Побийте в \\c[3]третьому PvP проти Аполло\\c[0]."
     },
     "database.json/achievements/kill-special-blue/name": {
         "orig": "Gotta go Fast",
@@ -589,7 +591,7 @@
     },
     "database.json/achievements/kill-special-blue/description": {
         "orig": "Find and \\c[3]defeat the \\v[combat.name.minibosses/blue-hedge]\\c[0].",
-        "text": "Найдите и \\c[3]победите Синего дикоборза\\c[0]."
+        "text": "Знайдіть і \\c[3]побийте Синього дикобриза\\c[0]."
     },
     "database.json/achievements/kill-special-peng/name": {
         "orig": "Drop the Beat",
@@ -597,287 +599,288 @@
     },
     "database.json/achievements/kill-special-peng/description": {
         "orig": "Find and \\c[3]defeat \\v[combat.name.minibosses/penguin-rapper]\\c[0].",
-        "text": "Найдите и \\c[3]победите Короля пинов Дакара\\c[0]."
+        "text": "Знайдіть і \\c[3]побийте Короля пінів Дакара\\c[0]."
     },
     "database.json/achievements/kill-special-shark/name": {
         "orig": "A cursed Booty",
-        "text": "Проклятый трофей"
+        "text": "Проклятий трофей"
     },
     "database.json/achievements/kill-special-shark/description": {
         "orig": "Find and \\c[3]defeat \\v[combat.name.minibosses/cursed-sandshark]\\c[0].",
-        "text": "Найдите и \\c[3]победите Проклятого Шаркстера\\c[0]."
+        "text": "Знайдіть і \\c[3]побийте Проклятого Шаркстера\\c[0]."
     },
     "database.json/achievements/kill-special-fish/name": {
         "orig": "Old and Mean",
-        "text": "Старый и злой"
+        "text": "Старий і злий"
     },
     "database.json/achievements/kill-special-fish/description": {
         "orig": "Find and \\c[3]defeat \\v[combat.name.minibosses/deep-fish]\\c[0].",
-        "text": "Найдите и \\c[3]победите Глубоководного удильщика\\c[0]."
+        "text": "Знайдіть і \\c[3]побийте Глибоководного вудильника\\c[0]."
     },
     "database.json/achievements/kill-special-henry/name": {
         "orig": "That was... Unexpected",
-        "text": "Это было... неожиданно"
+        "text": "Це було... неочікувано"
     },
     "database.json/achievements/kill-special-henry/description": {
         "orig": "Find and \\c[3]defeat \\v[combat.name.minibosses/henry]\\c[0].",
-        "text": "Найдите и \\c[3]победите Генри\\c[0]."
+        "text": "Знайдіть і \\c[3]побийте Генрі\\c[0]."
     },
     "database.json/achievements/element-heat/name": {
         "orig": "Playing with Fire",
-        "text": "Игра с огнём"
+        "text": "Ігри із Вогнем"
     },
     "database.json/achievements/element-heat/description": {
         "orig": "Acquire the \\c[3]Heat Element\\c[0]. It's getting hot in here.",
-        "text": "Получите \\c[3]элемент Пламени\\c[0]. Здесь становится жарковато."
+        "text": "Отримайте \\c[3]Елемент Полум'я\\c[0]. Це що, опік?"
     },
     "database.json/achievements/element-cold/name": {
         "orig": "Feeling Ice-solated",
-        "text": "Леденящее чувство"
+        "text": "Як же Зимно!"
     },
     "database.json/achievements/element-cold/description": {
         "orig": "Acquire the \\c[3]Cold Element\\c[0]. Can anyone else not feel their fingers?",
-        "text": "Получите \\c[3]элемент Холода\\c[0]. Я не чувствую пальцев!"
+        "text": "Отримайте \\c[3]Елемент Холоду\\c[0]. А тут свіженько."
     },
     "database.json/achievements/element-shock/name": {
         "orig": "Lightning Returns",
-        "text": "Молния возвращается"
+        "text": "Блискавично!"
     },
     "database.json/achievements/element-shock/description": {
         "orig": "Acquire the \\c[3]Shock Element\\c[0]. This is Shocking!",
-        "text": "Получите \\c[3]элемент Шока\\c[0]. Это шокирует!"
+        "text": "Отримайте \\c[3]Елемент Шоку\\c[0]. Шокуюче!"
     },
     "database.json/achievements/element-wave/name": {
         "orig": "What is that anyway?",
-        "text": "Что это вообще?"
+        "text": "Це ше шо?"
     },
     "database.json/achievements/element-wave/description": {
         "orig": "Acquire the \\c[3]Wave Element\\c[0]. Groovy.",
-        "text": "Получите \\c[3]элемент Волны\\c[0]. Качает."
+        "text": "Отримайте \\c[3]Елемент Хвилі\\c[0]. Хвилююче."
     },
     "database.json/achievements/combat-arts-01/name": {
         "orig": "Rookie Artist",
-        "text": "Исполнитель-новичок"
+        "text": "Новачок-артист"
     },
     "database.json/achievements/combat-arts-01/description": {
         "orig": "Execute a total of \\c[3]\\v[misc.localNum.100] Combat Arts\\c[0].",
-        "text": "Выполнить в общей сложности \\c[3]\\v[misc.localNum.100] техник боя\\c[0]."
+        "text": "Виконайте в сумі \\c[3]\\v[misc.localNum.100] бойових технік\\c[0]."
     },
     "database.json/achievements/combat-arts-02/name": {
         "orig": "Veteran Artist",
-        "text": "Опытный исполнитель"
+        "text": "Досвідчений артист"
     },
     "database.json/achievements/combat-arts-02/description": {
         "orig": "Execute a total of \\c[3]\\v[misc.localNum.250] Combat Arts\\c[0].",
-        "text": "Выполнить в общей сложности \\c[3]\\v[misc.localNum.250] техник боя\\c[0]."
+        "text": "Виконайте в сумі \\c[3]\\v[misc.localNum.250] бойових технік\\c[0]."
     },
     "database.json/achievements/combat-arts-03/name": {
         "orig": "Legendary Artist",
-        "text": "Легендарный исполнитель"
+        "text": "Легендарний артист"
     },
     "database.json/achievements/combat-arts-03/description": {
         "orig": "Execute a total of \\c[3]\\v[misc.localNum.500] Combat Arts\\c[0].",
-        "text": "Выполните в общей сложности \\c[3]\\v[misc.localNum.500] техник боя\\c[0]."
+        "text": "Виконайте в сумі \\c[3]\\v[misc.localNum.500] бойових технік\\c[0]."
     },
     "database.json/achievements/combat-arts-04/name": {
         "orig": "Ultimate Combat Artisan",
-        "text": "Ультимативный мастер боя"
+        "text": "Ультимативний майстер бою"
     },
     "database.json/achievements/combat-arts-04/description": {
         "orig": "Execute a total of \\c[3]\\v[misc.localNum.1000] Combat Arts\\c[0].",
-        "text": "Выполните в общей сложности \\c[3]\\v[misc.localNum.1000] техник боя\\c[0]."
+        "text": "Виконайте в сумі \\c[3]\\v[misc.localNum.1000] бойових технік\\c[0]."
     },
     "database.json/achievements/kill-01/name": {
         "orig": "Rookie Huntress",
-        "text": "Охотница-новичок"
+        "text": "Мисливиця-новачок"
     },
     "database.json/achievements/kill-01/description": {
         "orig": "Defeat a total of \\c[3]1000 enemies\\c[0].",
-        "text": "Победите в общей сложности \\c[3]1000 врагов\\c[0]."
+        "text": "Здолайте в сумі \\c[3]1000 ворогів\\c[0]."
     },
     "database.json/achievements/kill-02/name": {
         "orig": "Veteran Huntress",
-        "text": "Опытная охотница"
+        "text": "Досвідчена мисливиця"
     },
+
     "database.json/achievements/kill-02/description": {
         "orig": "Defeat a total of \\c[3]2000 enemies\\c[0].",
-        "text": "Победите в общей сложности \\c[3]2000 врагов\\c[0]."
+        "text": "Здолайте в сумі \\c[3]2000 ворогів\\c[0]."
     },
     "database.json/achievements/kill-03/name": {
         "orig": "Legendary Huntress",
-        "text": "Легендарная охотница"
+        "text": "Легендарна мисливиця"
     },
     "database.json/achievements/kill-03/description": {
         "orig": "Defeat a total of \\c[3]\\v[misc.localNum.4000] Enemies\\c[0].",
-        "text": "Победите в общей сложности \\c[3]\\v[misc.localNum.4000] врагов\\c[0]."
+        "text": "Здолайте в сумі \\c[3]\\v[misc.localNum.4000] ворогів\\c[0]."
     },
     "database.json/achievements/kill-04/name": {
         "orig": "Daughter of Artemis",
-        "text": "Дочь Артемиды"
+        "text": "Дочка Артеміди"
     },
     "database.json/achievements/kill-04/description": {
         "orig": "Defeat a total of \\c[3]\\v[misc.localNum.8000] Enemies\\c[0]. At this point you know the drill.",
-        "text": "Победите в общей сложности \\c[3]\\v[misc.localNum.8000] врагов\\c[0]. Вы уже точно знаете, как это делается."
+        "text": "Здолайте в сумі \\c[3]\\v[misc.localNum.8000] ворогів\\c[0]. Ви вже точно знаєте, як це робиться."
     },
     "database.json/achievements/dmg-01/name": {
         "orig": "Rookie Brawler",
-        "text": "Крушитель-новичок"
+        "text": "Новачок Нищитель"
     },
     "database.json/achievements/dmg-01/description": {
         "orig": "Deal a total of \\c[3]\\v[misc.localNum.100000] Damage\\c[0].",
-        "text": "Нанесите в общей сложности \\c[3]\\v[misc.localNum.100000] урона\\c[0]."
+        "text": "Нанесіть в сумі \\c[3]\\v[misc.localNum.100000] шкоди\\c[0]."
     },
     "database.json/achievements/dmg-02/name": {
         "orig": "Veteran Brawler",
-        "text": "Опытный крушитель"
+        "text": "Досвідчений Нищитель"
     },
     "database.json/achievements/dmg-02/description": {
         "orig": "Deal a total of \\c[3]\\v[misc.localNum.250000] Damage\\c[0].",
-        "text": "Нанесите в общей сложности \\c[3]\\v[misc.localNum.250000] урона\\c[0]."
+        "text": "Нанесіть в сумі \\c[3]\\v[misc.localNum.250000] шкоди\\c[0]."
     },
     "database.json/achievements/dmg-03/name": {
         "orig": "Legendary Brawler",
-        "text": "Легендарный крушитель"
+        "text": "Легендарний Нищитель"
     },
     "database.json/achievements/dmg-03/description": {
         "orig": "Deal a total of \\c[3]\\v[misc.localNum.500000] Damage\\c[0].",
-        "text": "Нанесите в общей сложности \\c[3]\\v[misc.localNum.500000] урона\\c[0]."
+        "text": "Нанесіть в сумі \\c[3]\\v[misc.localNum.500000] шкоди\\c[0]."
     },
     "database.json/achievements/dmg-04/name": {
         "orig": "Making Rocky Proud",
-        "text": "Рокки будет гордиться"
+        "text": "Рокі гордитиметься"
     },
     "database.json/achievements/dmg-04/description": {
         "orig": "Deal a total of \\c[3]\\v[misc.localNum.1000000] Damage\\c[0]. It's time to stop now.",
-        "text": "Нанесите в общей сложности \\c[3]\\v[misc.localNum.1000000] урона\\c[0]. Пора остановиться."
+        "text": "Нанесіть в сумі \\c[3]\\v[misc.localNum.1000000] шкоди\\c[0]. Та годі вже!"
     },
     "database.json/achievements/streak-01/name": {
         "orig": "Rookie Streaker",
-        "text": "Стрикер-новичок"
+        "text": "Новачок страйкер"
     },
     "database.json/achievements/streak-01/description": {
         "orig": "Stay in a combo streak for \\c[3]5 minutes\\c[0].",
-        "text": "Находитесь в комбо \\c[3]5 минут подряд\\c[0]."
+        "text": "Залишайтеся в комбо \\c[3]5 хвилин\\c[0]."
     },
     "database.json/achievements/streak-02/name": {
         "orig": "Veteran Streaker",
-        "text": "Опытный стрикер"
+        "text": "Досвідчений страйкер"
     },
     "database.json/achievements/streak-02/description": {
         "orig": "Stay in a combo streak for \\c[3]10 minutes\\c[0].",
-        "text": "Находитесь в комбо \\c[3]10 минут подряд\\c[0]."
+        "text": "Залишайтеся в комбо \\c[3]10 хвилин\\c[0]."
     },
     "database.json/achievements/streak-03/name": {
         "orig": "Legendary Streaker",
-        "text": "Легендарный стрикер"
+        "text": "Легендарний страйкер"
     },
     "database.json/achievements/streak-03/description": {
-        "orig": "Stay in a combo streak for \\c[3]15 minutes\\c[0]. ",
-        "text": "Находитесь в комбо \\c[3]15 минут подряд\\c[0]."
+        "orig": "Stay in a combo streak for \\c[3]15 minutes\\c[0].",
+        "text": "Залишайтеся в комбо \\c[3]15 хвилин\\c[0]."
     },
     "database.json/achievements/streak-04/name": {
         "orig": "Combo Breaker!",
-        "text": "Combo Breaker!"
+        "text": "Комбо-брейкер!"
     },
     "database.json/achievements/streak-04/description": {
         "orig": "Stay in a combo streak for \\c[3]20 minutes\\c[0]. Come on, this is enough.",
-        "text": "Находитесь в комбо \\c[3]20 минут подряд\\c[0]. Хватит уже, этого достаточно."
+        "text": "Залишайтеся в комбо \\c[3]20 хвилин\\c[0]. Годі, вже досить."
     },
     "database.json/achievements/streak-kills-01/name": {
         "orig": "Rookie Frenzy",
-        "text": "Безумец-новичок"
+        "text": "Рвач Новачок"
     },
     "database.json/achievements/streak-kills-01/description": {
         "orig": "Defeat a total of \\c[3]25 enemies doing a combat streak\\c[0].",
-        "text": "Победите в общей сложности \\c[3]25 противников, выполняя комбо\\c[0]."
+        "text": "Здолайте в сумі \\c[3]25 ворогів під час бойового комбо\\c[0]."
     },
     "database.json/achievements/streak-kills-02/name": {
         "orig": "Veteran Frenzy",
-        "text": "Опытный безумец"
+        "text": "Досвідчений Рвач"
     },
     "database.json/achievements/streak-kills-02/description": {
         "orig": "Defeat a total of \\c[3]50 enemies doing a combat streak\\c[0].",
-        "text": "Победите в общей сложности \\c[3]50 противников, выполняя комбо\\c[0]."
+        "text": "Здолайте в сумі \\c[3]50 ворогів під час бойового комбо\\c[0]."
     },
     "database.json/achievements/streak-kills-03/name": {
         "orig": "Legendary Frenzy",
-        "text": "Легендарный безумец"
+        "text": "Легендарний Рвач"
     },
     "database.json/achievements/streak-kills-03/description": {
         "orig": "Defeat a total of \\c[3]100 enemies doing a combat streak\\c[0].",
-        "text": "Победите в общей сложности \\c[3]100 противников, выполняя комбо\\c[0]."
+        "text": "Здолайте в сумі \\c[3]100 ворогів під час бойового комбо\\c[0]."
     },
     "database.json/achievements/streak-kills-04/name": {
         "orig": "Smokin' Sick Style!!!",
-        "text": "Smokin' Sick Style!!!"
+        "text": "Дурний стиль!!!"
     },
     "database.json/achievements/streak-kills-04/description": {
-        "orig": "Defeat a total of \\c[3]200 enemies doing a combat streak\\c[0].  Calm down!",
-        "text": "Победите в общей сложности \\c[3]200 противников, выполняя комбо\\c[0]. Успокойтесь!"
+        "orig": "Defeat a total of \\c[3]200 enemies doing a combat streak\\c[0]. Calm down!",
+        "text": "Здолайте в сумі \\c[3]200 ворогів під час бойового комбо\\c[0]. Успокойтесь!"
     },
     "database.json/achievements/heal-01/name": {
         "orig": "Rookie Healer",
-        "text": "Целитель-новичок"
+        "text": "Цілитель-новичок"
     },
     "database.json/achievements/heal-01/description": {
         "orig": "Heal a total of \\c[3]\\v[misc.localNum.50000] HP\\c[0].",
-        "text": "Исцелите в общей сложности \\c[3]\\v[misc.localNum.50000] HP\\c[0]."
+        "text": "Вилікуйте в сумі \\c[3]\\v[misc.localNum.50000] HP\\c[0]."
     },
     "database.json/achievements/heal-02/name": {
         "orig": "Veteran Healer",
-        "text": "Опытный целитель"
+        "text": "Досвідчений цілитель"
     },
     "database.json/achievements/heal-02/description": {
         "orig": "Heal a total of \\c[3]\\v[misc.localNum.100000] HP\\c[0].",
-        "text": "Исцелите в общей сложности \\c[3]\\v[misc.localNum.100000] HP\\c[0]."
+        "text": "Вилікуйте в сумі \\c[3]\\v[misc.localNum.100000] HP\\c[0]."
     },
     "database.json/achievements/heal-03/name": {
         "orig": "Legendary Healer",
-        "text": "Легендарный целитель"
+        "text": "Легендарний цілитель"
     },
     "database.json/achievements/heal-03/description": {
         "orig": "Heal a total of \\c[3]\\v[misc.localNum.200000] HP\\c[0].",
-        "text": "Исцелите в общей сложности \\c[3]\\v[misc.localNum.200000] HP\\c[0]."
+        "text": "Вилікуйте в сумі \\c[3]\\v[misc.localNum.200000] HP\\c[0]."
     },
     "database.json/achievements/heal-04/name": {
         "orig": "I need Healing!",
-        "text": "I Need Healing!"
+        "text": "Мені потрібно лікування!"
     },
     "database.json/achievements/heal-04/description": {
         "orig": "Heal a total of \\c[3]\\v[misc.localNum.400000] HP\\c[0]. 0heals!",
-        "text": "Исцелите в общей сложности \\c[3]\\v[misc.localNum.400000] HP\\c[0]."
+        "text": "Вилікуйте в сумі \\c[3]\\v[misc.localNum.400000] HP\\c[0]."
     },
     "database.json/achievements/throw-01/name": {
         "orig": "Rookie Flinger",
-        "text": "Метатель-новичок"
+        "text": "Новачок-метальник"
     },
     "database.json/achievements/throw-01/description": {
         "orig": "Throw and hit a total of \\c[3]\\v[misc.localNum.1000] Balls\\c[0].",
-        "text": "Бросьте в цель в общей сложности \\c[3]\\v[misc.localNum.1000] шаров\\c[0]."
+        "text": "Киньте і влучте в сумі \\c[3]\\v[misc.localNum.1000] м'ячів\\c[0]."
     },
     "database.json/achievements/throw-02/name": {
         "orig": "Veteran Flinger",
-        "text": "Опытный метатель"
+        "text": "Досвідчений метальник"
     },
     "database.json/achievements/throw-02/description": {
         "orig": "Throw and hit a total of \\c[3]\\v[misc.localNum.5000] Balls\\c[0].",
-        "text": "Бросьте в цель в общей сложности \\c[3]\\v[misc.localNum.5000] шаров\\c[0]."
+        "text": "Киньте і влучте в сумі \\c[3]\\v[misc.localNum.5000] м'ячів\\c[0]."
     },
     "database.json/achievements/throw-03/name": {
         "orig": "Legendary Flinger",
-        "text": "Легендарный метатель"
+        "text": "Легендарний метальник"
     },
     "database.json/achievements/throw-03/description": {
         "orig": "Throw and hit a total of \\c[3]\\v[misc.localNum.10000] Balls\\c[0].",
-        "text": "Бросьте в цель в общей сложности \\c[3]\\v[misc.localNum.10000] шаров\\c[0]."
+        "text": "Киньте і влучте в сумі \\c[3]\\v[misc.localNum.10000] м'ячів\\c[0]."
     },
     "database.json/achievements/throw-04/name": {
         "orig": "It's called a VRPit",
-        "text": "Это называется VRPit"
+        "text": "Це називається VRPit"
     },
     "database.json/achievements/throw-04/description": {
         "orig": "Throw and hit a total of \\c[3]\\v[misc.localNum.50000] Balls\\c[0]. Your arms must be tired.",
-        "text": "Бросьте в цель в общей сложности \\c[3]\\v[misc.localNum.50000] шаров\\c[0]. Ваши руки, наверное, устали."
+        "text": "Киньте і влучте в сумі \\c[3]\\v[misc.localNum.50000] м'ячів\\c[0]. Рученьки певне ниють."
     },
     "database.json/achievements/melee-01/name": {
         "orig": "Rookie Assault",
@@ -885,124 +888,128 @@
     },
     "database.json/achievements/melee-01/description": {
         "orig": "Successfully land \\c[3]\\v[misc.localNum.1000] close combat attacks\\c[0].",
-        "text": "Нанесите \\c[3]\\v[misc.localNum.1000] атак ближнего боя\\c[0]."
+        "text": "Успішно нанесіть \\c[3]\\v[misc.localNum.1000] атак ближнього бою\\c[0]."
     },
+
+
     "database.json/achievements/melee-02/name": {
         "orig": "Veteran Assault",
-        "text": "Опытный штурмовик"
+        "text": "Досвідчений штурмовик"
     },
     "database.json/achievements/melee-02/description": {
         "orig": "Successfully land \\c[3]\\v[misc.localNum.5000] close combat attacks\\c[0].",
-        "text": "Нанесите \\c[3]\\v[misc.localNum.5000] атак ближнего боя\\c[0]."
+        "text": "Успішно нанесіть \\c[3]\\v[misc.localNum.5000] атак ближнього бою\\c[0]."
     },
     "database.json/achievements/melee-03/name": {
         "orig": "Legendary Assault",
-        "text": "Легендарный штурмовик"
+        "text": "Легендарний штурмовик"
     },
     "database.json/achievements/melee-03/description": {
         "orig": "Successfully land \\c[3]\\v[misc.localNum.10000] close combat attacks\\c[0].",
-        "text": "Нанесите \\c[3]\\v[misc.localNum.10000] атак ближнего боя\\c[0]."
+        "text": "Успішно нанесіть \\c[3]\\v[misc.localNum.10000] атак ближнього бою\\c[0]."
     },
     "database.json/achievements/melee-04/name": {
         "orig": "The Iron Fist",
-        "text": "Железный кулак"
+        "text": "Залізний кулак"
     },
     "database.json/achievements/melee-04/description": {
         "orig": "Successfully land \\c[3]\\v[misc.localNum.50000] close combat attacks\\c[0]. Mashing to victory!",
-        "text": "Нанесите \\c[3]\\v[misc.localNum.50000] атак ближнего боя\\c[0]. Пробиваемся к победе!"
+        "text": "Успішно нанесіть \\c[3]\\v[misc.localNum.50000] атак ближнього бою\\c[0]. Вперед до перемоги!"
     },
     "database.json/achievements/dash-01/name": {
         "orig": "Rookie Dancer",
-        "text": "Танцор-новичок"
+        "text": "Танцюрист-новачок"
     },
     "database.json/achievements/dash-01/description": {
         "orig": "Dash a total of \\c[3]\\v[misc.localNum.1000] times\\c[0].",
-        "text": "Сделайте рывок в общей сложности \\c[3]\\v[misc.localNum.1000] раз\\c[0]."
+        "text": "Зробіть ривок в сумі \\c[3]\\v[misc.localNum.1000] разів\\c[0]."
     },
     "database.json/achievements/dash-02/name": {
         "orig": "Veteran Dancer",
-        "text": "Опытный танцор"
+        "text": "Досвідчений танцюрист"
     },
     "database.json/achievements/dash-02/description": {
         "orig": "Dash a total of \\c[3]\\v[misc.localNum.5000] times\\c[0].",
-        "text": "Сделайте рывок в общей сложности \\c[3]\\v[misc.localNum.5000] раз\\c[0]."
+        "text": "Зробіть ривок в сумі \\c[3]\\v[misc.localNum.5000] разів\\c[0]."
     },
     "database.json/achievements/dash-03/name": {
         "orig": "Legendary Dancer",
-        "text": "Легендарный танцор"
+        "text": "Легендарний танцюрист"
     },
     "database.json/achievements/dash-03/description": {
         "orig": "Dash a total of \\c[3]\\v[misc.localNum.10000] times\\c[0].",
-        "text": "Сделайте рывок в общей сложности \\c[3]\\v[misc.localNum.10000] раз\\c[0]."
+        "text": "Зробіть ривок в сумі \\c[3]\\v[misc.localNum.10000] разів\\c[0]."
     },
     "database.json/achievements/dash-04/name": {
         "orig": "Dashing!",
-        "text": "Врываемся!"
+        "text": "Вриваємось!"
     },
     "database.json/achievements/dash-04/description": {
         "orig": "Dash a total of \\c[3]\\v[misc.localNum.20000] times\\c[0]. My head feels dizzy...",
-        "text": "Сделайте рывок в общей сложности \\c[3]\\v[misc.localNum.20000] раз\\c[0]. Голова кружится..."
+        "text": "Зробіть ривок в сумі \\c[3]\\v[misc.localNum.20000] разів\\c[0]. Щось паморочиться..."
     },
     "database.json/achievements/guard-01/name": {
         "orig": "Rookie Defender",
-        "text": "Защитник-новичок"
+        "text": "Захисник-новачок"
     },
     "database.json/achievements/guard-01/description": {
         "orig": "Successfully guard a \\c[3]total of 250 times\\c[0].",
-        "text": "Успешно заблокируйте вражескую атаку \\c[3]в общей сложности 250 раз\\c[0]."
+        "text": "Успішно заблокуйте ворожу атаку \\c[3]в сумі 250 разів\\c[0]."
     },
     "database.json/achievements/guard-02/name": {
         "orig": "Veteran Defender",
-        "text": "Опытный защитник"
+        "text": "Досвідчений захисник"
     },
     "database.json/achievements/guard-02/description": {
         "orig": "Successfully guard a \\c[3]total of \\v[misc.localNum.500] times\\c[0].",
-        "text": "Успешно заблокируйте вражескую атаку \\c[3]в общей сложности \\v[misc.localNum.500] раз\\c[0]."
+        "text": "Успішно заблокуйте ворожу атаку \\c[3]в сумі \\v[misc.localNum.500] разів\\c[0]."
     },
     "database.json/achievements/guard-03/name": {
         "orig": "Legendary Defender",
-        "text": "Легендарный защитник"
+        "text": "Легендарний захисник"
     },
     "database.json/achievements/guard-03/description": {
         "orig": "Successfully guard a \\c[3]total of \\v[misc.localNum.2000] times\\c[0].",
-        "text": "Успешно заблокируйте вражескую атаку \\c[3]в общей сложности \\v[misc.localNum.2000] раз\\c[0]."
+        "text": "Успішно заблокуйте ворожу атаку \\c[3]в сумі \\v[misc.localNum.2000] разів\\c[0]."
     },
     "database.json/achievements/guard-04/name": {
         "orig": "You Shall not Pass!",
-        "text": "Вы не пройдёте!"
+        "text": "Ти Не Пройдеш!"
     },
     "database.json/achievements/guard-04/description": {
         "orig": "Successfully guard a \\c[3]total of \\v[misc.localNum.4000] times\\c[0]. Don't touch me!",
-        "text": "Успешно заблокируйте вражескую атаку \\c[3]в общей сложности \\v[misc.localNum.4000] раз\\c[0]. Не прикасайтесь ко мне!"
+        "text": "Успішно заблокуйте ворожу атаку \\c[3]в сумі \\v[misc.localNum.4000] разів\\c[0]. Не торкайтесь мене!"
     },
     "database.json/achievements/crits-01/name": {
         "orig": "Rookie Brute",
-        "text": "Грубиян-новичок"
+        "text": "Грубіян-новачок"
     },
     "database.json/achievements/crits-01/description": {
         "orig": "Land a total of \\c[3]\\v[misc.localNum.1000] critical hits\\c[0].",
-        "text": "Нанесите в общей сложности \\c[3]\\v[misc.localNum.1000] критических ударов\\c[0]."
+        "text": "Нанесіть в сумі \\c[3]\\v[misc.localNum.1000] критичних ударів\\c[0]."
     },
     "database.json/achievements/crits-02/name": {
         "orig": "Veteran Brute",
-        "text": "Опытный грубиян"
+        "text": "Досвідчений грубіян"
     },
     "database.json/achievements/crits-02/description": {
         "orig": "Land a total of \\c[3]\\v[misc.localNum.5000] critical hits\\c[0].",
-        "text": "Нанесите в общей сложности \\c[3]\\v[misc.localNum.5000] критических ударов\\c[0]."
+        "text": "Нанесіть в сумі \\c[3]\\v[misc.localNum.5000] критичних ударів\\c[0]."
     },
     "database.json/achievements/crits-03/name": {
         "orig": "Legendary Brute",
-        "text": "Легендарный грубиян"
+        "text": "Легендарний грубіян"
     },
     "database.json/achievements/crits-03/description": {
         "orig": "Land a total of \\c[3]\\v[misc.localNum.10000] critical hits\\c[0].",
-        "text": "Нанесите в общей сложности \\c[3]\\v[misc.localNum.10000] критических ударов\\c[0]."
+        "text": "Нанесіть в сумі \\c[3]\\v[misc.localNum.10000] критичних ударів\\c[0]."
     },
     "database.json/achievements/crits-04/name": {
         "orig": "Critical Acclaim",
-        "text": "Признание критиков"
+        "text": "Признання критиків"
     },
+
+
     "database.json/achievements/crits-04/description": {
         "orig": "Land a total of \\c[3]\\v[misc.localNum.20000] critical hits\\c[0]. Hit 'em where it hurts.",
         "text": "Нанесите в общей сложности \\c[3]\\v[misc.localNum.20000] критических ударов\\c[0]. Бейте их в уязвимые места."
@@ -3501,7 +3508,7 @@
     },
     "database.json/commonEvents/sergey-hax-emilie/event/1/thenStep/1/message": {
         "orig": "LEA?!\\. WHY DO YOU DO SO MUCH DAMAGE?!",
-        "text": "ЛЕЯ?!\\. ПОЧЕМУ ТЫ НАНОСИШЬ ТАК МНОГО УРОНА?!"
+        "text": "ЛЕЯ?!\\. ПОЧЕМУ ТЫ НАНОСИШЬ ТАК МНОГО шкоди?!"
     },
     "database.json/commonEvents/sergey-hax-emilie/event/2/thenStep/0/message": {
         "orig": "\\c[1]...!!\\c[0]",
@@ -3573,7 +3580,7 @@
     },
     "database.json/commonEvents/sergey-hax-ctron/event/2/thenStep/1/message": {
         "orig": "No...\\. You can't possibly do so much damage even with a maxed-out attack stat.",
-        "text": "Нет...\\. Ты не можешь наносить так много урона даже с максимально прокачанной атакой."
+        "text": "Нет...\\. Ты не можешь наносить так много шкоди даже с максимально прокачанной атакой."
     },
     "database.json/commonEvents/sergey-hax-ctron/event/3/thenStep/0/message": {
         "orig": "\\c[1]Bye.\\c[0]",
@@ -3581,7 +3588,7 @@
     },
     "database.json/commonEvents/sergey-hax-ctron/event/3/thenStep/1/message": {
         "orig": "Lea, what is this?\\. Why do you do so much damage?\\. Can you tell me what it is?",
-        "text": "Лея, что это?\\. Почему ты наносишь так много урона?\\. Можешь объяснить, что это такое?"
+        "text": "Лея, что это?\\. Почему ты наносишь так много шкоди?\\. Можешь объяснить, что это такое?"
     },
     "database.json/commonEvents/sergey-hax-ctron/event/3/thenStep/2/message": {
         "orig": "[shakes head]",
@@ -3625,7 +3632,7 @@
     },
     "database.json/commonEvents/sergey-hax-ctron/event/6/thenStep/1/message": {
         "orig": "Just imagine if those damage numbers stood for actual \\c[1]force\\c[0] applied...",
-        "text": "Только представьте, что эти цифры урона означали бы реальную \\c[1]силу\\c[0]..."
+        "text": "Только представьте, что эти цифры шкоди означали бы реальную \\c[1]силу\\c[0]..."
     },
     "database.json/commonEvents/sergey-hax-ctron/event/6/thenStep/2/message": {
         "orig": "You probably could \\c[1]shoot through any kind of matter like butter\\c[0], if they were consistent with it.",
@@ -3649,7 +3656,7 @@
     },
     "database.json/commonEvents/sergey-hax-ctron-emilie/event/0/thenStep/1/message": {
         "orig": "Lea sure does a lot of damage, right Emilie?",
-        "text": "Лея действительно выдаёт много урона, правда, Эмили?"
+        "text": "Лея действительно выдаёт много шкоди, правда, Эмили?"
     },
     "database.json/commonEvents/sergey-hax-ctron-emilie/event/0/thenStep/2/message": {
         "orig": "Oui...",
@@ -3793,7 +3800,7 @@
     },
     "database.json/commonEvents/sergey-hax-schneider2/event/3/thenStep/3/message": {
         "orig": "What?\\. So you're telling me you did this much damage grinding happily in the actual Playground?",
-        "text": "Что?\\. Так ты хочешь мне сказать, что набрала так много урона, спокойно качаясь в игровой зоне?"
+        "text": "Что?\\. Так ты хочешь мне сказать, что набрала так много шкоди, спокойно качаясь в игровой зоне?"
     },
     "database.json/commonEvents/sergey-hax-schneider2/event/4/thenStep/0/message": {
         "orig": "\\c[1]LEA!!\\c[0]",
@@ -12641,7 +12648,7 @@
     },
     "database.json/enemies/snowman/descriptions/0/text": {
         "orig": "It is said that this curious being was brought to life by a sorceress in a moment of loneliness but it got left behind which transformed it into a mean Gatling Gun wielding grump.\nIt doesn't really need to but will attack anything that comes close to it by disguising itself as a simple snowman.\nGetting close for too long is not a good idea as it will use a ground slam attack to deal a lot of damage.",
-        "text": "Говорят, что это странное создание было воплощено в жизнь волшебницей в минуту одиночества, но оно было брошено, что превратило его в подлого брюзгу, орудующего пулемётом Гатлинга.\nНе имея на самом деле необходимости, он атакует всё, что приблизится к нему, маскируясь под обычного снеговика.\nНаходиться возле него слишком долго - это плохая идея, так как он использует ударную атаку по земле для нанесения большого урона."
+        "text": "Говорят, что это странное создание было воплощено в жизнь волшебницей в минуту одиночества, но оно было брошено, что превратило его в подлого брюзгу, орудующего пулемётом Гатлинга.\nНе имея на самом деле необходимости, он атакует всё, что приблизится к нему, маскируясь под обычного снеговика.\nНаходиться возле него слишком долго - это плохая идея, так как он использует ударную атаку по земле для нанесения большого шкоди."
     },
     "database.json/enemies/jungle.special.snowman-jungle-1/name": {
         "orig": "Tourist Karotto",
@@ -14037,7 +14044,7 @@
     },
     "database.json/enemies/heat.volturbine/descriptions/0/text": {
         "orig": "This bird is often described as the phoenix of \\c[3]\\v[area.heat-area.name]\\c[0]. Until provoked they will usually just fly around and only prey on deceased animals. \nIf you however choose to attack them... get ready for all their flaming wrath. They can use their jet turbines to boost into a flaming dive attack. If you time your guard you can counter and leave them open for big damage! Otherwise you better keep your distance and use ranged attacks whenever you see an opening.",
-        "text": "Эту птицу часто называют фениксом \\c[3]Бордовой долины\\c[0]. Пока их не спровоцируют, они обычно просто летают и охотятся на умерших животных.\nОднако если вы решите атаковать... приготовьтесь к их пылающему гневу. Они могут использовать свои реактивные турбины, чтобы усилить огненную атаку. Если вы точно рассчитаете свою защиту, то сможете противостоять им и оставите открытыми для большого урона! В противном случае вам лучше держать дистанцию и использовать дальние атаки, когда враг открывается."
+        "text": "Эту птицу часто называют фениксом \\c[3]Бордовой долины\\c[0]. Пока их не спровоцируют, они обычно просто летают и охотятся на умерших животных.\nОднако если вы решите атаковать... приготовьтесь к их пылающему гневу. Они могут использовать свои реактивные турбины, чтобы усилить огненную атаку. Если вы точно рассчитаете свою защиту, то сможете противостоять им и оставите открытыми для большого шкоди! В противном случае вам лучше держать дистанцию и использовать дальние атаки, когда враг открывается."
     },
     "database.json/enemies/heat.special.volturbine-cave/name": {
         "orig": "Wowturbine",
@@ -14317,7 +14324,7 @@
     },
     "database.json/enemies/jungle.blueray/descriptions/0/text": {
         "orig": "This fish is capable of diving into any surface by moving into a higher dimension. The only thing alerting of its presence is the looming shadow. It will attack with various wave-elemental attacks while hiding below ground. The only way to lure it out is by using dischargers. They will be stunned for a short while from the shock, use this window to deal as much damage as you can.",
-        "text": "Эта рыба способна нырять в любую поверхность путём перехода в иное измерение. Единственное, что предупреждает о её присутствии - это надвигающаяся тень. Она будет атаковать различными волновыми атаками, прячась под землёй. Единственный способ выманить её оттуда - использовать разрядники. Они оглушат рыбу на некоторое время, используйте это, чтобы нанести как можно больше урона."
+        "text": "Эта рыба способна нырять в любую поверхность путём перехода в иное измерение. Единственное, что предупреждает о её присутствии - это надвигающаяся тень. Она будет атаковать различными волновыми атаками, прячась под землёй. Единственный способ выманить её оттуда - использовать разрядники. Они оглушат рыбу на некоторое время, используйте это, чтобы нанести как можно больше шкоди."
     },
     "database.json/enemies/jungle.ape-boss/name": {
         "orig": "Son of the East",
@@ -14785,7 +14792,7 @@
     },
     "database.json/enemies/boss-test/descriptions/0/text": {
         "orig": "A mechanical crab summoned by the mysterious blue avatar. Its stats conveniently match yours and its attack gets more ferocious the more damage you deal. When it charges up for a big jump it will get stunned on the last dive revealing the weak point on its back: a shiny crystal!",
-        "text": "Механический краб, призванный загадочным синим аватаром. Его характеристики соответствуют вашим, а его атака становится сильнее от нанесённого вами урона. Когда он заряжается для большого прыжка, он будет оглушён на последнем падении, открывая своё слабое место на спине: блестящий кристалл!"
+        "text": "Механический краб, призванный загадочным синим аватаром. Его характеристики соответствуют вашим, а его атака становится сильнее от нанесённого вами шкоди. Когда он заряжается для большого прыжка, он будет оглушён на последнем падении, открывая своё слабое место на спине: блестящий кристалл!"
     },
     "database.json/enemies/simple-bot/name": {
         "orig": "Rhombus Enforcer 1.0",
@@ -14797,7 +14804,7 @@
     },
     "database.json/enemies/simple-bot/descriptions/0/text": {
         "orig": "This small robot is used as part of the official CrossWorlds tutorial. Carla also used this to teach you dodging and interrupting enemy attacks. It won't really do much damage and poses almost no threat. Use it to learn how to pummel enemies!",
-        "text": "Этот маленький робот используется как часть официального обучения CrossWorlds. Карла также использовала его, когда учила вас уклоняться и прерывать атаки врагов. Он не наносит серьёзного урона и не представляет никакой угрозы. Используйте его, чтобы научиться бить врагов!"
+        "text": "Этот маленький робот используется как часть официального обучения CrossWorlds. Карла также использовала его, когда учила вас уклоняться и прерывать атаки врагов. Он не наносит серьёзного шкоди и не представляет никакой угрозы. Используйте его, чтобы научиться бить врагов!"
     },
     "database.json/enemies/default/name": {
         "orig": "Rhombus Enforcer 2.0",

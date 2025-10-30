@@ -1,10 +1,10 @@
 {
     "save-presets/0-before-boss.json/title": {
         "orig": "Before Crab Battle",
-        "text": "До битвы с крабом"
+        "text": "Перед битвою з Крабом"
     },
     "save-presets/0-before-boss.json/sub": {
         "orig": "Before the boss on the cargo ship",
-        "text": "Перед боссом на грузовом судне"
+        "text": "Перед босом на вантажному судні"
     }
 }
